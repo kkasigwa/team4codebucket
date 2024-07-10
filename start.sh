@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#export PATH="$PATH:/opt/mqm/bin"
-#export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/opt/mqm/lib:/opt/mqm/lib64"
+export PATH="$PATH:/opt/mqm/bin"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/opt/mqm/lib:/opt/mqm/lib64"
 
 cd /opt/team4codebucket/MQServer
 ./mqlicense.sh -accept
