@@ -1,0 +1,1125 @@
+POZNÁMKA
+
+Tento dokument obsahuje ní¾e dokumenty Licenèní informace pro více Programù. V ka¾dém dokumentu Licenèní informace je uveden Program(y), k nìmu¾(nim¾) se daný dokument Licenèní informace vztahuje. Platné jsou pouze dokumenty Licenèní informace pro Program(y), k nim¾ si Dr¾itel licence zakoupil oprávnìní.
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Observability by Instana Application Performance Monitoring
+
+Povolené komponenty
+
+Dr¾itel licence smí pou¾ívat pouze následující komponenty nebo funkce stanoveného Programu v balíku nebo Podpùrného programu:
+IBM MQ Tracing
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Observability by Instana Application Performance Monitoring
+
+Povolené komponenty
+
+Dr¾itel licence smí pou¾ívat pouze následující komponenty nebo funkce stanoveného Programu v balíku nebo Podpùrného programu:
+IBM MQ Tracing
+
+Omezení na neproduktivní u¾ívání
+
+Je-li v názvu Programu uveden výraz "Neproduktivní", Dr¾itel licence mù¾e pou¾ívat Program pouze v rámci interního vývoje Dr¾itele licence a testovacího prostøedí pro interní neproduktivní èinnosti.
+
+Komponenty nepou¾ívané ke stanovení po¾adovaného poètu oprávnìní
+
+Dr¾itel licence je oprávnìn nainstalovat a pou¾ívat na základì licenèních podmínek následující komponenty Programu, av¹ak tyto komponenty nejsou rozhodující pro stanovení poètu oprávnìní po¾adovaných pro Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Redistribuovatelné komponenty
+
+Program zahrnuje ní¾e uvedené Redistribuovatelné komponenty. Redistribuovatelné komponenty mohou být distribuovány, ve formì objektového kódu, pouze jako souèást aplikace s pøidanou hodnotou Dr¾itele licence vyvinuté pomocí Programu ("Aplikace Dr¾itele licence") a pouze k podpoøe u¾ívání Aplikace Dr¾itele licence. Pokud Redistribuovatelné komponenty zahrnují prostøedí Java Runtime Environment, musí Dr¾itel licence do aplikace Dr¾itele licence zahrnout také ostatní Redistribuovatelné komponenty (tj. i jiné ne¾ Java). Dr¾itel licence nesmí odebrat ¾ádné soubory s upozornìními na autorská práva nebo ochranu du¹evního vlastnictví obsa¾ené v Redistribuovatelných komponentách, ani pou¾ívat názvy nebo ochranné známky IBM nebo jejích dodavatelù èi distributorù ve spojení s marketingem Aplikace Dr¾itele licence, pokud k tomu pøedem nezíská písemný souhlas IBM nebo pøíslu¹ného dodavatele èi distributora. Licenèní smlouva Dr¾itele licence s koncovým u¾ivatelem musí zajistit minimálnì stejnou ochranu IBM jako stanovují podmínky této Smlouvy.
+
+IBM, její dodavatelé a distributoøi poskytují tyto Redistribuovatelné komponenty a související dokumentaci bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL.
+
+Následující komponenty jsou Redistribuovatelné:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+U Zdrojových komponent a Vzorových materiálù uvedených jako Redistribuovatelné komponenty mù¾e Dr¾itel licence dále distribuovat modifikované verze tìchto Zdrojových komponent nebo Vzorových materiálù v souladu s podmínkami této licence a pøípadnými pokyny v prùvodní dokumentaci k Programu.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální jádro procesoru
+
+Virtuální jádro procesoru je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Fyzický server je fyzický poèítaè, který sestává z procesních jednotek, pamìti, I/O funkcí a provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho nebo pro nìkolik u¾ivatelù èi klientských zaøízení. V pøípadì pou¾ití stojanù, blade server skøíní nebo jiného podobného vybavení je za samostatný Fyzický server pova¾ováno ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu), které má po¾adované komponenty. Virtuální server je buï virtuální poèítaè vytvoøený rozdìlením prostøedkù, které má k dispozici nìjaký fyzický server, nebo nìjaký fyzický server nerozdìlený na logické oddíly. Jádro procesoru je funkèní jednotkou v rámci výpoèetního zaøízení, která interpretuje a vykonává instrukce. Jádro procesoru tvoøí alespoò jedna øídící jednotka instrukcí a jedna nebo více aritmetických nebo logických jednotek.Virtuální jádro procesoru je Jádro procesoru nerozdìleného Fyzického serveru nebo virtuální jádro pøiøazené Virtuálnímu serveru. Dr¾itel licence je povinen získat oprávnìní pro ka¾dé Virtuální jádro procesoru, které je pro Program k dispozici.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální server
+
+Virtuální server je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik u¾ivatelù nebo klientských zaøízení. V pøípadech, kdy jsou vyu¾ívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující po¾adované komponenty pova¾ováno za samostatný server. Virtuální server je buï virtuální poèítaè, který byl vytvoøen rozdìlením prostøedkù, je¾ má fyzický server k dispozici, anebo nerozdìlený fyzický server. Dr¾itel licence si pro ka¾dý virtuální server, který je dostupný pro Program, bez ohledu na poèet procesorových jader ve virtuálním serveru nebo na poèet kopií Programu na virtuálním serveru, musí opatøit oprávnìní pro Virtuální server.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Funkce Nativní vysoké dostupnosti
+
+U¾ívání funkce nativní vysoké dostupnosti (automatické pøekonání selhání) Programu ("Nativní vysoká dostupnost") Dr¾itelem licence vy¾aduje konfiguraci na tøech serverech a vy¾aduje, aby v¹ichni správci front na daných tøech serverech byli Správci front Nativní vysoké dostupnosti. Program musí být licencován na jednom serveru prostøednictvím zakoupených oprávnìní k produktu IBM MQ Advanced, ale dané dva replikaèní servery se nepou¾ívají k urèení poètu vy¾adovaných oprávnìní pro Program.
+
+B. Dal¹í Funkce Vysoké dostupnosti
+
+U¾ívání dal¹ích funkcí vysoké dostupnosti (automatické pøekonání selhání) Dr¾itelem licence vy¾aduje, aby si Dr¾itel licence zakoupil dostateèný poèet oprávnìní k produktu IBM MQ High Availability Replica nebo produktu IBM MQ Advanced High Availability Replica (ka¾dý z nich pøedstavuje "Repliku Vysoké dostupnosti") pro pokrytí po¾adavkù Dr¾itele licence na vysokou dostupnost, jak je popsáno v samostatných licenèních podmínkách, které jsou pøilo¾eny k Replice Vysoké dostupnosti.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Komponenty nepou¾ívané ke stanovení po¾adovaného poètu oprávnìní
+
+Dr¾itel licence je oprávnìn nainstalovat a pou¾ívat na základì licenèních podmínek následující komponenty Programu, av¹ak tyto komponenty nejsou rozhodující pro stanovení poètu oprávnìní po¾adovaných pro Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Redistribuovatelné komponenty
+
+Program zahrnuje ní¾e uvedené Redistribuovatelné komponenty. Redistribuovatelné komponenty mohou být distribuovány, ve formì objektového kódu, pouze jako souèást aplikace s pøidanou hodnotou Dr¾itele licence vyvinuté pomocí Programu ("Aplikace Dr¾itele licence") a pouze k podpoøe u¾ívání Aplikace Dr¾itele licence. Pokud Redistribuovatelné komponenty zahrnují prostøedí Java Runtime Environment, musí Dr¾itel licence do aplikace Dr¾itele licence zahrnout také ostatní Redistribuovatelné komponenty (tj. i jiné ne¾ Java). Dr¾itel licence nesmí odebrat ¾ádné soubory s upozornìními na autorská práva nebo ochranu du¹evního vlastnictví obsa¾ené v Redistribuovatelných komponentách, ani pou¾ívat názvy nebo ochranné známky IBM nebo jejích dodavatelù èi distributorù ve spojení s marketingem Aplikace Dr¾itele licence, pokud k tomu pøedem nezíská písemný souhlas IBM nebo pøíslu¹ného dodavatele èi distributora. Licenèní smlouva Dr¾itele licence s koncovým u¾ivatelem musí zajistit minimálnì stejnou ochranu IBM jako stanovují podmínky této Smlouvy.
+
+IBM, její dodavatelé a distributoøi poskytují tyto Redistribuovatelné komponenty a související dokumentaci bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL.
+
+Následující komponenty jsou Redistribuovatelné:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+U Zdrojových komponent a Vzorových materiálù uvedených jako Redistribuovatelné komponenty mù¾e Dr¾itel licence dále distribuovat modifikované verze tìchto Zdrojových komponent nebo Vzorových materiálù v souladu s podmínkami této licence a pøípadnými pokyny v prùvodní dokumentaci k Programu.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální jádro procesoru
+
+Virtuální jádro procesoru je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Fyzický server je fyzický poèítaè, který sestává z procesních jednotek, pamìti, I/O funkcí a provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho nebo pro nìkolik u¾ivatelù èi klientských zaøízení. V pøípadì pou¾ití stojanù, blade server skøíní nebo jiného podobného vybavení je za samostatný Fyzický server pova¾ováno ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu), které má po¾adované komponenty. Virtuální server je buï virtuální poèítaè vytvoøený rozdìlením prostøedkù, které má k dispozici nìjaký fyzický server, nebo nìjaký fyzický server nerozdìlený na logické oddíly. Jádro procesoru je funkèní jednotkou v rámci výpoèetního zaøízení, která interpretuje a vykonává instrukce. Jádro procesoru tvoøí alespoò jedna øídící jednotka instrukcí a jedna nebo více aritmetických nebo logických jednotek.Virtuální jádro procesoru je Jádro procesoru nerozdìleného Fyzického serveru nebo virtuální jádro pøiøazené Virtuálnímu serveru. Dr¾itel licence je povinen získat oprávnìní pro ka¾dé Virtuální jádro procesoru, které je pro Program k dispozici.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální server
+
+Virtuální server je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik u¾ivatelù nebo klientských zaøízení. V pøípadech, kdy jsou vyu¾ívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující po¾adované komponenty pova¾ováno za samostatný server. Virtuální server je buï virtuální poèítaè, který byl vytvoøen rozdìlením prostøedkù, je¾ má fyzický server k dispozici, anebo nerozdìlený fyzický server. Dr¾itel licence si pro ka¾dý virtuální server, který je dostupný pro Program, bez ohledu na poèet procesorových jader ve virtuálním serveru nebo na poèet kopií Programu na virtuálním serveru, musí opatøit oprávnìní pro Virtuální server.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Funkce Nativní vysoké dostupnosti
+
+U¾ívání funkce nativní vysoké dostupnosti (automatické pøekonání selhání) Programu ("Nativní vysoká dostupnost") Dr¾itelem licence vy¾aduje konfiguraci na tøech serverech a vy¾aduje, aby v¹ichni správci front na daných tøech serverech byli Správci front Nativní vysoké dostupnosti. Program musí být licencován na jednom serveru prostøednictvím zakoupených oprávnìní k produktu IBM MQ Advanced, ale dané dva replikaèní servery se nepou¾ívají k urèení poètu vy¾adovaných oprávnìní pro Program.
+
+B. Dal¹í Funkce Vysoké dostupnosti
+
+U¾ívání dal¹ích funkcí vysoké dostupnosti (automatické pøekonání selhání) Dr¾itelem licence vy¾aduje, aby si Dr¾itel licence zakoupil dostateèný poèet oprávnìní k produktu IBM MQ High Availability Replica nebo produktu IBM MQ Advanced High Availability Replica (ka¾dý z nich pøedstavuje "Repliku Vysoké dostupnosti") pro pokrytí po¾adavkù Dr¾itele licence na vysokou dostupnost, jak je popsáno v samostatných licenèních podmínkách, které jsou pøilo¾eny k Replice Vysoké dostupnosti.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ for Non-Production Environment 9.4
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ for Non-Production Environment 9.4
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Omezení na neproduktivní u¾ívání
+
+Je-li v názvu Programu uveden výraz "Neproduktivní", Dr¾itel licence mù¾e pou¾ívat Program pouze v rámci interního vývoje Dr¾itele licence a testovacího prostøedí pro interní neproduktivní èinnosti.
+
+Komponenty nepou¾ívané ke stanovení po¾adovaného poètu oprávnìní
+
+Dr¾itel licence je oprávnìn nainstalovat a pou¾ívat na základì licenèních podmínek následující komponenty Programu, av¹ak tyto komponenty nejsou rozhodující pro stanovení poètu oprávnìní po¾adovaných pro Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Redistribuovatelné komponenty
+
+Program zahrnuje ní¾e uvedené Redistribuovatelné komponenty. Redistribuovatelné komponenty mohou být distribuovány, ve formì objektového kódu, pouze jako souèást aplikace s pøidanou hodnotou Dr¾itele licence vyvinuté pomocí Programu ("Aplikace Dr¾itele licence") a pouze k podpoøe u¾ívání Aplikace Dr¾itele licence. Pokud Redistribuovatelné komponenty zahrnují prostøedí Java Runtime Environment, musí Dr¾itel licence do aplikace Dr¾itele licence zahrnout také ostatní Redistribuovatelné komponenty (tj. i jiné ne¾ Java). Dr¾itel licence nesmí odebrat ¾ádné soubory s upozornìními na autorská práva nebo ochranu du¹evního vlastnictví obsa¾ené v Redistribuovatelných komponentách, ani pou¾ívat názvy nebo ochranné známky IBM nebo jejích dodavatelù èi distributorù ve spojení s marketingem Aplikace Dr¾itele licence, pokud k tomu pøedem nezíská písemný souhlas IBM nebo pøíslu¹ného dodavatele èi distributora. Licenèní smlouva Dr¾itele licence s koncovým u¾ivatelem musí zajistit minimálnì stejnou ochranu IBM jako stanovují podmínky této Smlouvy.
+
+IBM, její dodavatelé a distributoøi poskytují tyto Redistribuovatelné komponenty a související dokumentaci bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL.
+
+Následující komponenty jsou Redistribuovatelné:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+U Zdrojových komponent a Vzorových materiálù uvedených jako Redistribuovatelné komponenty mù¾e Dr¾itel licence dále distribuovat modifikované verze tìchto Zdrojových komponent nebo Vzorových materiálù v souladu s podmínkami této licence a pøípadnými pokyny v prùvodní dokumentaci k Programu.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální jádro procesoru
+
+Virtuální jádro procesoru je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Fyzický server je fyzický poèítaè, který sestává z procesních jednotek, pamìti, I/O funkcí a provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho nebo pro nìkolik u¾ivatelù èi klientských zaøízení. V pøípadì pou¾ití stojanù, blade server skøíní nebo jiného podobného vybavení je za samostatný Fyzický server pova¾ováno ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu), které má po¾adované komponenty. Virtuální server je buï virtuální poèítaè vytvoøený rozdìlením prostøedkù, které má k dispozici nìjaký fyzický server, nebo nìjaký fyzický server nerozdìlený na logické oddíly. Jádro procesoru je funkèní jednotkou v rámci výpoèetního zaøízení, která interpretuje a vykonává instrukce. Jádro procesoru tvoøí alespoò jedna øídící jednotka instrukcí a jedna nebo více aritmetických nebo logických jednotek.Virtuální jádro procesoru je Jádro procesoru nerozdìleného Fyzického serveru nebo virtuální jádro pøiøazené Virtuálnímu serveru. Dr¾itel licence je povinen získat oprávnìní pro ka¾dé Virtuální jádro procesoru, které je pro Program k dispozici.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální server
+
+Virtuální server je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik u¾ivatelù nebo klientských zaøízení. V pøípadech, kdy jsou vyu¾ívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující po¾adované komponenty pova¾ováno za samostatný server. Virtuální server je buï virtuální poèítaè, který byl vytvoøen rozdìlením prostøedkù, je¾ má fyzický server k dispozici, anebo nerozdìlený fyzický server. Dr¾itel licence si pro ka¾dý virtuální server, který je dostupný pro Program, bez ohledu na poèet procesorových jader ve virtuálním serveru nebo na poèet kopií Programu na virtuálním serveru, musí opatøit oprávnìní pro Virtuální server.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Funkce Nativní vysoké dostupnosti
+
+U¾ívání funkce nativní vysoké dostupnosti (automatické pøekonání selhání) Programu ("Nativní vysoká dostupnost") Dr¾itelem licence vy¾aduje konfiguraci na tøech serverech a vy¾aduje, aby v¹ichni správci front na daných tøech serverech byli Správci front Nativní vysoké dostupnosti. Program musí být licencován na jednom serveru prostøednictvím zakoupených oprávnìní k produktu IBM MQ Advanced, ale dané dva replikaèní servery se nepou¾ívají k urèení poètu vy¾adovaných oprávnìní pro Program.
+
+B. Dal¹í Funkce Vysoké dostupnosti
+
+U¾ívání dal¹ích funkcí vysoké dostupnosti (automatické pøekonání selhání) Dr¾itelem licence vy¾aduje, aby si Dr¾itel licence zakoupil dostateèný poèet oprávnìní k produktu IBM MQ High Availability Replica nebo produktu IBM MQ Advanced High Availability Replica (ka¾dý z nich pøedstavuje "Repliku Vysoké dostupnosti") pro pokrytí po¾adavkù Dr¾itele licence na vysokou dostupnost, jak je popsáno v samostatných licenèních podmínkách, které jsou pøilo¾eny k Replice Vysoké dostupnosti.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ High Availability Replica
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Programy v balíku
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Programy v balíku identifikované ní¾e. Program v balíku mohou doprovázet licenèní podmínky, a tyto pøípadné licenèní podmínky se pak vztahují na u¾ívání Programu v balíku Dr¾itelem licence. V pøípadì rozporu mají podmínky v tomto dokumentu Licenèní informace pøednost pøed podmínkami u¾ívání Programu v balíku. Základní program a jakékoli Programy v balíku jsou souèástí Programu jako celku. Proto musí Dr¾itel licence získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Programù v balíku ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Program v balíku na poèítaèi s 10 VPC a jiný Program v balíku na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Programy v balíku:
+IBM MQ High Availability Replica
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Aspera faspio Gateway
+
+Komponenty nepou¾ívané ke stanovení po¾adovaného poètu oprávnìní
+
+Dr¾itel licence je oprávnìn nainstalovat a pou¾ívat na základì licenèních podmínek následující komponenty Programu, av¹ak tyto komponenty nejsou rozhodující pro stanovení poètu oprávnìní po¾adovaných pro Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální jádro procesoru
+
+Virtuální jádro procesoru je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Fyzický server je fyzický poèítaè, který sestává z procesních jednotek, pamìti, I/O funkcí a provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho nebo pro nìkolik u¾ivatelù èi klientských zaøízení. V pøípadì pou¾ití stojanù, blade server skøíní nebo jiného podobného vybavení je za samostatný Fyzický server pova¾ováno ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu), které má po¾adované komponenty. Virtuální server je buï virtuální poèítaè vytvoøený rozdìlením prostøedkù, které má k dispozici nìjaký fyzický server, nebo nìjaký fyzický server nerozdìlený na logické oddíly. Jádro procesoru je funkèní jednotkou v rámci výpoèetního zaøízení, která interpretuje a vykonává instrukce. Jádro procesoru tvoøí alespoò jedna øídící jednotka instrukcí a jedna nebo více aritmetických nebo logických jednotek.Virtuální jádro procesoru je Jádro procesoru nerozdìleného Fyzického serveru nebo virtuální jádro pøiøazené Virtuálnímu serveru. Dr¾itel licence je povinen získat oprávnìní pro ka¾dé Virtuální jádro procesoru, které je pro Program k dispozici.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální server
+
+Virtuální server je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik u¾ivatelù nebo klientských zaøízení. V pøípadech, kdy jsou vyu¾ívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující po¾adované komponenty pova¾ováno za samostatný server. Virtuální server je buï virtuální poèítaè, který byl vytvoøen rozdìlením prostøedkù, je¾ má fyzický server k dispozici, anebo nerozdìlený fyzický server. Dr¾itel licence si pro ka¾dý virtuální server, který je dostupný pro Program, bez ohledu na poèet procesorových jader ve virtuálním serveru nebo na poèet kopií Programu na virtuálním serveru, musí opatøit oprávnìní pro Virtuální server.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Pou¾ití Programu Dr¾itelem licence je omezeno na pou¾ití následujících funkcí, jak je uvedeno ní¾e, nebo jak je uvedeno v èásti Jiná øe¹ení vysoké dostupnosti.
+
+1. Funkce víceinstanèního správce front
+
+Dr¾itel licence je oprávnìn pou¾ít funkci víceinstanèního správce front Programu pouze pro Úèely zálohy. Úèely zálohy jsou definovány tak, ¾e mají spu¹tìný Program, ale zaji¹»ují, ¾e Program zùstane neèinný, dokud aktivní a samostatnì oprávnìná kopie IBM MQ programu nepøejde do Programu repliky vysoké dostupnosti. Pokud k tomu dojde, mù¾e být Program repliky vysoké dostupnosti pou¾it k provádìní produktivní práce bìhem období pøevedení. Program je pova¾ován za "neèinný", dokud nedojde k pøevedení, není vyu¾íván k provádìní produktivních práce jakéhokoli druhy a slou¾í výhradnì k administrativním èinnostem.
+
+2. Funkce vysoké dostupnosti správce front replikovaných dat
+
+Pou¾ití této funkce správce front replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci na tøech serverech a vy¾aduje, aby byli v¹ichni správci front na tìchto tøech serverech Správci front replikovaných dat. Dva ze serverù mohou být nakonfigurovány a oprávnìny jako Replika vysoké dostupnosti produktu IBM MQ Advanced, ale kopie produktu IBM MQ na tøetím nakonfigurovaném serveru musí být licencována samostatnì získáním oprávnìní k produktu IBM MQ Advanced. Pøi pou¾ití této funkce vysoké dostupnosti ve spojení s replikací na server pro zotavení z havárie musí mít tyto tøi servery vysoké dostupnosti na serveru pro zotavení z havárie také oprávnìní, jak je popsáno vý¹e.
+
+3. Funkce zotavení z havárie správce front replikovaných dat
+
+Pou¾ití této funkce správce front replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci na dvou serverech a vy¾aduje, aby byli v¹ichni správci front na tìchto dvou serverech Správci front replikovaných dat. Jeden ze serverù mù¾e být nakonfigurován a oprávnìn jako Replika vysoké dostupnosti produktu IBM MQ Advanced, ale kopie produktu IBM MQ na druhém nakonfigurovaném serveru musí být licencována samostatnì získáním oprávnìní k produktu IBM MQ Advanced. Tato konfigurace zotavení z havárie dvou serverù je samostatnou konfigurací pro pou¾ití tøí serverù jako konfigurace vysoké dostupnosti, i kdy¾ je pou¾ita s replikací na server pro zotavení z havárie.
+
+B. Jiná øe¹ení vysoké dostupnosti
+
+Pokud se Dr¾itel licence rozhodne pou¾ít spolu s Programem jiná øe¹ení vysoké dostupnosti (automatické pøevedení), je Dr¾itel licence oprávnìn pou¾ít Program jako repliku vysoké dostupnosti, pokud je umístìna pro úèely zálohy na zálo¾ním serveru a Program není spu¹tìn. Program mù¾e být automaticky spu¹tìn komponentami vysoké dostupnosti v pøípadì selhání aktivního serveru, kdy mù¾e být Program pou¾it k provádìní produktivní práce bìhem období pøevedení.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Redistribuovatelné komponenty
+
+Program zahrnuje ní¾e uvedené Redistribuovatelné komponenty. Redistribuovatelné komponenty mohou být distribuovány, ve formì objektového kódu, pouze jako souèást aplikace s pøidanou hodnotou Dr¾itele licence vyvinuté pomocí Programu ("Aplikace Dr¾itele licence") a pouze k podpoøe u¾ívání Aplikace Dr¾itele licence. Pokud Redistribuovatelné komponenty zahrnují prostøedí Java Runtime Environment, musí Dr¾itel licence do aplikace Dr¾itele licence zahrnout také ostatní Redistribuovatelné komponenty (tj. i jiné ne¾ Java). Dr¾itel licence nesmí odebrat ¾ádné soubory s upozornìními na autorská práva nebo ochranu du¹evního vlastnictví obsa¾ené v Redistribuovatelných komponentách, ani pou¾ívat názvy nebo ochranné známky IBM nebo jejích dodavatelù èi distributorù ve spojení s marketingem Aplikace Dr¾itele licence, pokud k tomu pøedem nezíská písemný souhlas IBM nebo pøíslu¹ného dodavatele èi distributora. Licenèní smlouva Dr¾itele licence s koncovým u¾ivatelem musí zajistit minimálnì stejnou ochranu IBM jako stanovují podmínky této Smlouvy.
+
+IBM, její dodavatelé a distributoøi poskytují tyto Redistribuovatelné komponenty a související dokumentaci bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL.
+
+Následující komponenty jsou Redistribuovatelné:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+U Zdrojových komponent a Vzorových materiálù uvedených jako Redistribuovatelné komponenty mù¾e Dr¾itel licence dále distribuovat modifikované verze tìchto Zdrojových komponent nebo Vzorových materiálù v souladu s podmínkami této licence a pøípadnými pokyny v prùvodní dokumentaci k Programu.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Instalace
+
+Instalace je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Instalace je kopie Programu, která je nainstalována na fyzickém nebo virtuálním disku a je dostupná ke spou¹tìní na poèítaèi. Dr¾itel licence je povinen opatøit si oprávnìní pro ka¾dou Instalaci Programu.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Instalace
+
+Instalace je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Instalace je kopie Programu, která je nainstalována na fyzickém nebo virtuálním disku a je dostupná ke spou¹tìní na poèítaèi. Dr¾itel licence je povinen opatøit si oprávnìní pro ka¾dou Instalaci Programu.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Pou¾ívání Programu Dr¾itelem licence je omezeno na pou¾ívání následujících funkcí popsaných ní¾e nebo uvedených v èásti Dal¹í øe¹ení s vysokou dostupností. 
+
+1. Funkce správce fronty pro více instancí
+
+Dr¾itel licence je oprávnìn vyu¾ívat funkci správce fronty pro více instancí Programu pouze pro Úèely pohotovostního re¾imu. Úèely pohotovostního re¾imu jsou definovány jako spu¹tìní Programu nicménì tak, ¾e Program zùstane neèinný, dokud nedojde k selhání aktivní kopie programu IBM MQ se samostatným oprávnìním pro repliku Programu s vysokou dostupností. Pokud k tomu dojde, repliku Programu s vysokou dostupností lze vyu¾ít pro provádìní produktivní práce po dobu do pøekonání selhání. Program se pova¾uje za "neèinný", pokud se nepou¾ívá pro provádìní produktivní práce jakéhokoliv druhu a vyu¾ívá se pouze pro administrativní akce, dokud nedojde k selhání. 
+
+2. Funkce vysoké dostupnosti správce fronty replikovaných dat
+
+Pou¾ívání této funkce správce fronty replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci tøí serverù a dále vy¾aduje, aby na v¹ech tøech serverech správci fronty byli Správci fronty replikovaných dat. Dva ze serverù lze konfigurovat a oprávnit jako repliky Programu s vysokou dostupností produktu IBM MQ, nicménì kopie IBM MQ na tøetím serveru musí mít samostatnou licenci získáním oprávnìní pro IBM MQ Advanced. Pøi pou¾ití této funkce s vysokou dostupností ve spojení s replikací na server pro zotavení z havárie musí mít tyto tøi servery s vysokou dostupností na serveru pro zotavení z havárie rovnì¾ vý¹e popsané oprávnìní.
+
+3. Funkce zotavení z havárie správce fronty replikovaných dat
+
+Pou¾ívání této funkce správce fronty replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci dvou serverù a dále vy¾aduje, aby v¹ichni správci fronty na obou serverech byly Správci fronty replikovaných dat. Jeden ze serverù lze konfigurovat a oprávnit jako repliky Programu s vysokou dostupností produktu IVM MQ, nicménì kopie IBM MQ na druhém serveru musí mít samostatnou licenci získáním oprávnìní pro IBM MQ Advanced. Tato konfigurace pro zotavení z havárie dvou serverù je samostatnou konfigurací pro pou¾ití tøí serverù jako konfigurace s vysokou dostupností, i kdy¾ je pou¾ita s replikací na server pro zotavení z havárie. 
+
+B. Dal¹í øe¹ení s vysokou dostupností
+
+Pokud se Dr¾itel licence rozhodne pro pou¾ívání dal¹ích øe¹ení s vysokou dostupností (automatické pøekonání selhání) spoleènì s Programem, Dr¾itel licence je oprávnìn vyu¾ívat Program jako repliku s vysokou dostupností, pokud je urèena pro úèely zálohování na pohotovostní server a nedojde ke spu¹tìní Programu. Program lze automaticky spustit pomocí komponent vysoké dostupnosti v pøípadì selhání aktivního serveru a v takovém pøípadì lze Program pou¾ívat pro provádìní aktivní práce po dobu do pøekonání selhání.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+DÙLE®ITÉ: ÈTÌTE POZORNÌ
+
+Ní¾e jsou uvedeny dvì licenèní smlouvy.
+
+1. Mezinárodní licenèní smlouva IBM pro zku¹ební verze programù
+2. Mezinárodní licenèní smlouva IBM pro programy
+
+Jestli¾e Dr¾itel licence získá Program pro úèely produktivního u¾ívání (to znamená pro jiné úèely ne¾ k hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence Mezinárodní licenèní smlouvu IBM pro programy, a to bez jakýchkoliv zmìn.
+
+Jestli¾e Dr¾itel licence získá Program pro úèely hodnocení, testování, vyzkou¹ení ("try or buy") nebo demonstrace (spoleènì: "Hodnocení"): Klepnutím na ní¾e uvedené tlaèítko "Pøijmout" akceptuje Dr¾itel licence jak (i) Mezinárodní licenèní smlouvu IBM pro zku¹ební verze programù ("Licence na hodnocení"), tak i (ii) Mezinárodní licenèní smlouvu IBM pro programy (IPLA). Obì tyto smlouvy je povinen akceptovat bez jakýchkoliv zmìn.
+
+Licence na hodnocení bude platit po dobu Hodnocení provádìného Dr¾itelem licence.
+
+Smlouva IPLA vstoupí automaticky v platnost v pøípadì, ¾e se Dr¾itel licence rozhodne ponechat si Program i po Hodnocení (nebo si zakoupit dal¹í kopie Programu k u¾ívání následnì po období Hodnocení) a s tímto zámìrem uzavøe pøíslu¹nou smlouvu (napøíklad smlouvu IBM International Passport Advantage nebo IBM Passport Advantage Express).
+
+Licence na hodnocení a smlouva IPLA nenabývají právní úèinnosti soubì¾nì; ¾ádná z nich nemìní tu druhou a jsou na sobì navzájem nezávislé.
+
+Úplný text ka¾dé z tìchto dvou licenèních smluv je uveden ní¾e.
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro hodnocení Programù (i125-5543-06).
+
+Název Programu (Èíslo Programu):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Období hodnocení
+
+Období hodnocení zaèíná datem, které si Dr¾itel sjedná dle podmínek této Smlouvy, a konèí po uplynutí 90 dní.
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Observability by Instana Application Performance Monitoring
+
+Povolené komponenty
+
+Dr¾itel licence smí pou¾ívat pouze následující komponenty nebo funkce stanoveného Programu v balíku nebo Podpùrného programu:
+IBM MQ Tracing
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Podpùrné programy
+
+Dr¾itel licence je oprávnìn nainstalovat a u¾ívat Podpùrné programy urèené ní¾e pouze k podpoøe u¾ívání Základního programu Dr¾itelem licence v souladu s touto Smlouvou. Výraz "k podpoøe u¾ívání Dr¾itelem licence" by zahrnoval pouze nezbytné u¾ívání nebo u¾ívání, které jinak pøímo souvisí s licencovaným u¾íváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být u¾ívány k ¾ádnému jinému úèelu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro u¾ívání tohoto Podpùrného programu Dr¾itelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Dr¾itel licence musí získat dostateèný poèet oprávnìní k Programu jako celku k pokrytí instalace a pou¾ívání v¹ech Podpùrných programù ze strany Dr¾itele licence, pokud nejsou v tomto dokumentu Licenèní informace poskytnuta samostatná oprávnìní. Jestli¾e byl napø. tento Program licencován dle VPC (Virtuální jádro procesoru) a Dr¾itel licence mìl instalovat Základní program nebo Podpùrný program na poèítaèi s 10 VPC a jiný Podpùrný program na druhém poèítaèi s 10 VPC, musel by Dr¾itel licence získat oprávnìní na 20 VPC k Programu.
+
+Podpùrné programy:
+IBM Observability by Instana Application Performance Monitoring
+
+Povolené komponenty
+
+Dr¾itel licence smí pou¾ívat pouze následující komponenty nebo funkce stanoveného Programu v balíku nebo Podpùrného programu:
+IBM MQ Tracing
+
+Komponenty nepou¾ívané ke stanovení po¾adovaného poètu oprávnìní
+
+Dr¾itel licence je oprávnìn nainstalovat a pou¾ívat na základì licenèních podmínek následující komponenty Programu, av¹ak tyto komponenty nejsou rozhodující pro stanovení poètu oprávnìní po¾adovaných pro Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Na pou¾ívání Programu Dr¾itelem licence se mohou vztahovat následující mìrné jednotky.
+
+Jednotka PVU (Processor Value Unit)
+
+Jednotka PVU (Processor Value Unit) je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Poèet vy¾adovaných oprávnìní k jednotkám PVU je zalo¾en na procesorové technologii (definované v licencování Processor Value Unit (PVU) pro webovou stránku Distribuovaný software na adrese https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) a na poètu procesorù zpøístupnìných pro Program. IBM i nadále definuje procesor pro úèely licencování na základì jednotek PVU jako ka¾dé procesorové jádro na èipu. Dvoujádrový procesorový èip má napøíklad dvì procesorová jádra.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální jádro procesoru
+
+Virtuální jádro procesoru je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Fyzický server je fyzický poèítaè, který sestává z procesních jednotek, pamìti, I/O funkcí a provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho nebo pro nìkolik u¾ivatelù èi klientských zaøízení. V pøípadì pou¾ití stojanù, blade server skøíní nebo jiného podobného vybavení je za samostatný Fyzický server pova¾ováno ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu), které má po¾adované komponenty. Virtuální server je buï virtuální poèítaè vytvoøený rozdìlením prostøedkù, které má k dispozici nìjaký fyzický server, nebo nìjaký fyzický server nerozdìlený na logické oddíly. Jádro procesoru je funkèní jednotkou v rámci výpoèetního zaøízení, která interpretuje a vykonává instrukce. Jádro procesoru tvoøí alespoò jedna øídící jednotka instrukcí a jedna nebo více aritmetických nebo logických jednotek.Virtuální jádro procesoru je Jádro procesoru nerozdìleného Fyzického serveru nebo virtuální jádro pøiøazené Virtuálnímu serveru. Dr¾itel licence je povinen získat oprávnìní pro ka¾dé Virtuální jádro procesoru, které je pro Program k dispozici.
+
+Dr¾itel licence mù¾e nasadit Program (je-li podporován) pomocí plnì kapacitního licencování, licencování na základì dílèí kapacity (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) nebo licencování kontejneru (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Dal¹í informace viz propojené webové stránky.
+
+Virtuální server
+
+Virtuální server je mìrnou jednotkou, na jejím¾ základì mù¾e být Program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí po¾adované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik u¾ivatelù nebo klientských zaøízení. V pøípadech, kdy jsou vyu¾ívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je ka¾dé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující po¾adované komponenty pova¾ováno za samostatný server. Virtuální server je buï virtuální poèítaè, který byl vytvoøen rozdìlením prostøedkù, je¾ má fyzický server k dispozici, anebo nerozdìlený fyzický server. Dr¾itel licence si pro ka¾dý virtuální server, který je dostupný pro Program, bez ohledu na poèet procesorových jader ve virtuálním serveru nebo na poèet kopií Programu na virtuálním serveru, musí opatøit oprávnìní pro Virtuální server.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+A. Pou¾ití Programu Dr¾itelem licence je omezeno na pou¾ití následujících funkcí, jak je uvedeno ní¾e, nebo jak je uvedeno v èásti Jiná øe¹ení vysoké dostupnosti.
+
+1. Funkce víceinstanèního správce front
+
+Dr¾itel licence je oprávnìn pou¾ít funkci víceinstanèního správce front Programu pouze pro Úèely zálohy. Úèely zálohy jsou definovány tak, ¾e mají spu¹tìný Program, ale zaji¹»ují, ¾e Program zùstane neèinný, dokud aktivní a samostatnì oprávnìná kopie IBM MQ programu nepøejde do Programu repliky vysoké dostupnosti. Pokud k tomu dojde, mù¾e být Program repliky vysoké dostupnosti pou¾it k provádìní produktivní práce bìhem období pøevedení. Program je pova¾ován za "neèinný", dokud nedojde k pøevedení, není vyu¾íván k provádìní produktivních práce jakéhokoli druhy a slou¾í výhradnì k administrativním èinnostem.
+
+2. Funkce vysoké dostupnosti správce front replikovaných dat
+
+Pou¾ití této funkce správce front replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci na tøech serverech a vy¾aduje, aby byli v¹ichni správci front na tìchto tøech serverech Správci front replikovaných dat. Dva ze serverù mohou být nakonfigurovány a oprávnìny jako Replika vysoké dostupnosti produktu IBM MQ Advanced, ale kopie produktu IBM MQ na tøetím nakonfigurovaném serveru musí být licencována samostatnì získáním oprávnìní k produktu IBM MQ Advanced. Pøi pou¾ití této funkce vysoké dostupnosti ve spojení s replikací na server pro zotavení z havárie musí mít tyto tøi servery vysoké dostupnosti na serveru pro zotavení z havárie také oprávnìní, jak je popsáno vý¹e.
+
+3. Funkce zotavení z havárie správce front replikovaných dat
+
+Pou¾ití této funkce správce front replikovaných dat Programu Dr¾itelem licence vy¾aduje konfiguraci na dvou serverech a vy¾aduje, aby byli v¹ichni správci front na tìchto dvou serverech Správci front replikovaných dat. Jeden ze serverù mù¾e být nakonfigurován a oprávnìn jako Replika vysoké dostupnosti produktu IBM MQ Advanced, ale kopie produktu IBM MQ na druhém nakonfigurovaném serveru musí být licencována samostatnì získáním oprávnìní k produktu IBM MQ Advanced. Tato konfigurace zotavení z havárie dvou serverù je samostatnou konfigurací pro pou¾ití tøí serverù jako konfigurace vysoké dostupnosti, i kdy¾ je pou¾ita s replikací na server pro zotavení z havárie.
+
+B. Jiná øe¹ení vysoké dostupnosti
+
+Pokud se Dr¾itel licence rozhodne pou¾ít spolu s Programem jiná øe¹ení vysoké dostupnosti (automatické pøevedení), je Dr¾itel licence oprávnìn pou¾ít Program jako repliku vysoké dostupnosti, pokud je umístìna pro úèely zálohy na zálo¾ním serveru a Program není spu¹tìn. Program mù¾e být automaticky spu¹tìn komponentami vysoké dostupnosti v pøípadì selhání aktivního serveru, kdy mù¾e být Program pou¾it k provádìní produktivní práce bìhem období pøevedení.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

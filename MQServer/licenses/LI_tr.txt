@@ -1,0 +1,1125 @@
+BÝLDÝRÝM
+
+Bu belge, birden çok Program için geçerli olan ve aþaðýda yer alan Lisans Bilgileri belgelerini içerir. Her bir Lisans Bilgileri belgesi geçerli olduðu Program(lar)ý tanýmlar. Yalnýzca, Lisans Alan Tarafýn kendilerine iliþkin yetkilerini satýn almýþ olduðu Program(lar)la ilgili Lisans Bilgileri belgeleri geçerlidir.
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Observability by Instana Application Performance Monitoring
+
+Ýzin Verilen Bileþenler
+
+Lisans Alan Tarafa, belirtilen Paketlenmiþ ya da Destekleyici Programýn yalnýzca aþaðýda belirtilen bileþenlerini ya da iþlevlerini kullanma izni verilir:
+IBM MQ Tracing
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Observability by Instana Application Performance Monitoring
+
+Ýzin Verilen Bileþenler
+
+Lisans Alan Tarafa, belirtilen Paketlenmiþ ya da Destekleyici Programýn yalnýzca aþaðýda belirtilen bileþenlerini ya da iþlevlerini kullanma izni verilir:
+IBM MQ Tracing
+
+Üretim Dýþý Kullaným Sýnýrlamasý
+
+Program "Üretim Dýþý" olarak belirlenmiþse, Lisans Alan Taraf, Programý yalnýzca Lisans Alan Tarafýn dahili geliþtirme ve test ortamýnýn bir parçasý olarak, dahili üretim dýþý aktiviteler için kullanabilir.
+
+Gerekli Yetkilerin Belirlenmesi Ýçin Kullanýlmayan Bileþenler
+
+Lisans Alan Taraf, aþaðýdaki Program bileþenlerini lisans koþullarý kapsamýnda kurabilir ve kullanabilir, ancak bu bileþenler Program için gereken yetki sayýsýnýn belirlenmesinde kullanýlmaz.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Yeniden Daðýtýlabilen Bileþenler
+
+Program, Yeniden Daðýtýlabilir olan bileþenler içerir ve bunlar aþaðýda listelenmiþtir. Yeniden Daðýtýlabilen Bileþenler, nesne kodu biçiminde olmak üzere, yalnýzca Lisans Alan Tarafýn Program kullanýlarak geliþtirilen katma deðer saðlayan uygulamasýnýn ("Lisans Alan Tarafýn Uygulamasý") bir parçasý olarak ve yalnýzca Lisans Alan Tarafýn Uygulamasýnýn kullanýmýnýn desteklenmesi amacýyla daðýtýlabilir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlere bir Java Çalýþtýrma Zamaný Ortamýnýn (JRE) dahil olduðu durumlarda, Lisans Alan Tarafýn Uygulamasýna baþka Java dýþý Yeniden Daðýtýlabilen Bileþenler eklemelidir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlerin içerdiði herhangi bir telif hakký ya da bildirim dosyasýný kaldýramaz veya IBM'in, IBM'in tedarikçilerinin veya distribütörlerinin adlarýný veya markalarýný, IBM'in ya da anýlan tedarikçinin ya da distribütörün önceden verilmiþ yazýlý izni olmaksýzýn, Lisans Alan Tarafýn Uygulamasýnýn pazarlanmasýyla baðlantýlý olarak kullanamaz. Lisans Alan Tarafýn son kullanýcý ile olan lisans sözleþmesindeki koþullar, IBM açýsýndan, en az bu Sözleþmede yer alan koþullar kadar koruyucu olmalýdýr.
+
+IBM, IBM'in tedarikçileri ve distribütörleri, Yeniden Daðýtýlabilen Bileþenleri ve bunlarla ilgili belgeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasýyla saðlar.
+
+Yeniden Daðýtýlabilen Bileþenler aþaðýdaki gibidir:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenler olarak belirtilen Kaynak Bileþenler ve Örnek Malzemeler için, bu Kaynak Bileþenlerin ve Örnek Malzemelerin deðiþtirilmiþ sürümlerini bu lisansta ve varsa Programla birlikte saðlanan yönergelere yer alan koþullara uygun olarak yeniden daðýtabilir.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Ýþlemci Çekirdeði
+
+Sanal Ýþlemci Çekirdeði, bu Programýn lisanslanabileceði bir ölçü birimidir. Fiziksel Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn veya diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin, bir blade aygýtý veya raf düzenekli bir aygýt) kendi baþýna ayrý bir Fiziksel Sunucu olarak deðerlendirilir. Sanal Sunucu, bir Fiziksel Sunucuda veya bölümlenmemiþ bir Fiziksel Sunucuda kullanýlmak üzere saðlanan kaynaklarýn bölümlenmesiyle oluþturulan bir sanal bilgisayardýr. Ýþlemci Çekirdeði, bir bilgi iþlem aygýtý içinde yer alan ve yönergeleri yorumlayan ve yürüten bir iþlevsel birimdir. Bir Ýþlemci Çekirdeði, en az bir yönerge denetim birimi ve bir veya daha fazla aritmetik veya mantýksal birimden oluþur. Sanal Ýþlemci Çekirdeði, bölümlenmemiþ bir Fiziksel Sunucudaki bir Ýþlemci Çekirdeði veya bir Sanal Sunucuya atanan bir sanal çekirdektir. Lisans Alan Tarafýn, bu Program  için kullanýma sunulan her bir Sanal Ýþlemci Çekirdeði için yetki edinmesi gerekir.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný(https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Sunucu
+
+Sanal Sunucu, bu Programýn lisanslanabileceði ölçüm birimidir. Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek, ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn ve diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin: bir blade aygýtý veya rafa monte edilen bir aygýt) kendi baþýna ayrý bir sunucu olarak deðerlendirilir. Bir sanal sunucu, fiziksel bir sunucunun kullandýðý kaynaklarýn bölümlere ayrýlmasýyla oluþturulan sanal bir bilgisayar ya da bölümlere ayrýlmýþ olmayan fiziksel bir sunucudur. Lisans Alan Taraf, sanal sunucu içinde bulunan iþlemci çekirdeklerinin sayýsý veya bu Programýn sanal sunucu üzerinde çalýþtýrýlan kopyalarýnýn sayýsý dikkate alýnmaksýzýn bu Program tarafýndan kullanýlan her bir sunucu için Sanal Sunucu yetkilerini edinmelidir.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Yerel Yüksek Düzeyde Kullanýlabilirlik Özelliði
+
+Lisans Alan Tarafýn, Programýn yerel yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) ("Yerel Yüksek Düzeyde Kullanýlabilirlik") özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Native High Availability Queue Manager (Yerel Yüksek Düzeyde Kullanýlabilirlik Kuyruðu Yöneticisi) olmasýný gerektirir. Bu Program, IBM MQ Advanced yetkileri alýnarak tek bir sunucuda lisanslanmalýdýr. Ancak bu Program için gereken yetki sayýsýnýn belirlenmesinde iki replika sunucusu kullanýlmaz.
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Özellikleri
+
+Lisans Alan Tarafýn diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) özelliklerini kullanmasý, Lisans Alan Tarafýn Yüksek Düzeyde Kullanýlabilirlik Replikasýyla birlikte saðlanan ayrý lisans koþullarýnda açýklandýðý þekilde, Lisans Alan Tarafýn yüksek düzeyde kullanýlabilirlik gereksinimlerini kapsamaya yetecek þekilde IBM MQ High Availability Replica veya IBM MQ Advanced High Availability Replica (her biri bir "Yüksek Düzeyde Kullanýlabilirlik Replikasý") yetkisine sahip olmasý gerekir.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Gerekli Yetkilerin Belirlenmesi Ýçin Kullanýlmayan Bileþenler
+
+Lisans Alan Taraf, aþaðýdaki Program bileþenlerini lisans koþullarý kapsamýnda kurabilir ve kullanabilir, ancak bu bileþenler Program için gereken yetki sayýsýnýn belirlenmesinde kullanýlmaz.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Yeniden Daðýtýlabilen Bileþenler
+
+Program, Yeniden Daðýtýlabilir olan bileþenler içerir ve bunlar aþaðýda listelenmiþtir. Yeniden Daðýtýlabilen Bileþenler, nesne kodu biçiminde olmak üzere, yalnýzca Lisans Alan Tarafýn Program kullanýlarak geliþtirilen katma deðer saðlayan uygulamasýnýn ("Lisans Alan Tarafýn Uygulamasý") bir parçasý olarak ve yalnýzca Lisans Alan Tarafýn Uygulamasýnýn kullanýmýnýn desteklenmesi amacýyla daðýtýlabilir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlere bir Java Çalýþtýrma Zamaný Ortamýnýn (JRE) dahil olduðu durumlarda, Lisans Alan Tarafýn Uygulamasýna baþka Java dýþý Yeniden Daðýtýlabilen Bileþenler eklemelidir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlerin içerdiði herhangi bir telif hakký ya da bildirim dosyasýný kaldýramaz veya IBM'in, IBM'in tedarikçilerinin veya distribütörlerinin adlarýný veya markalarýný, IBM'in ya da anýlan tedarikçinin ya da distribütörün önceden verilmiþ yazýlý izni olmaksýzýn, Lisans Alan Tarafýn Uygulamasýnýn pazarlanmasýyla baðlantýlý olarak kullanamaz. Lisans Alan Tarafýn son kullanýcý ile olan lisans sözleþmesindeki koþullar, IBM açýsýndan, en az bu Sözleþmede yer alan koþullar kadar koruyucu olmalýdýr.
+
+IBM, IBM'in tedarikçileri ve distribütörleri, Yeniden Daðýtýlabilen Bileþenleri ve bunlarla ilgili belgeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasýyla saðlar.
+
+Yeniden Daðýtýlabilen Bileþenler aþaðýdaki gibidir:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenler olarak belirtilen Kaynak Bileþenler ve Örnek Malzemeler için, bu Kaynak Bileþenlerin ve Örnek Malzemelerin deðiþtirilmiþ sürümlerini bu lisansta ve varsa Programla birlikte saðlanan yönergelere yer alan koþullara uygun olarak yeniden daðýtabilir.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Ýþlemci Çekirdeði
+
+Sanal Ýþlemci Çekirdeði, bu Programýn lisanslanabileceði bir ölçü birimidir. Fiziksel Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn veya diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin, bir blade aygýtý veya raf düzenekli bir aygýt) kendi baþýna ayrý bir Fiziksel Sunucu olarak deðerlendirilir. Sanal Sunucu, bir Fiziksel Sunucuda veya bölümlenmemiþ bir Fiziksel Sunucuda kullanýlmak üzere saðlanan kaynaklarýn bölümlenmesiyle oluþturulan bir sanal bilgisayardýr. Ýþlemci Çekirdeði, bir bilgi iþlem aygýtý içinde yer alan ve yönergeleri yorumlayan ve yürüten bir iþlevsel birimdir. Bir Ýþlemci Çekirdeði, en az bir yönerge denetim birimi ve bir veya daha fazla aritmetik veya mantýksal birimden oluþur. Sanal Ýþlemci Çekirdeði, bölümlenmemiþ bir Fiziksel Sunucudaki bir Ýþlemci Çekirdeði veya bir Sanal Sunucuya atanan bir sanal çekirdektir. Lisans Alan Tarafýn, bu Program  için kullanýma sunulan her bir Sanal Ýþlemci Çekirdeði için yetki edinmesi gerekir.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný(https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Sunucu
+
+Sanal Sunucu, bu Programýn lisanslanabileceði ölçüm birimidir. Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek, ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn ve diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin: bir blade aygýtý veya rafa monte edilen bir aygýt) kendi baþýna ayrý bir sunucu olarak deðerlendirilir. Bir sanal sunucu, fiziksel bir sunucunun kullandýðý kaynaklarýn bölümlere ayrýlmasýyla oluþturulan sanal bir bilgisayar ya da bölümlere ayrýlmýþ olmayan fiziksel bir sunucudur. Lisans Alan Taraf, sanal sunucu içinde bulunan iþlemci çekirdeklerinin sayýsý veya bu Programýn sanal sunucu üzerinde çalýþtýrýlan kopyalarýnýn sayýsý dikkate alýnmaksýzýn bu Program tarafýndan kullanýlan her bir sunucu için Sanal Sunucu yetkilerini edinmelidir.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Yerel Yüksek Düzeyde Kullanýlabilirlik Özelliði
+
+Lisans Alan Tarafýn, Programýn yerel yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) ("Yerel Yüksek Düzeyde Kullanýlabilirlik") özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Native High Availability Queue Manager (Yerel Yüksek Düzeyde Kullanýlabilirlik Kuyruðu Yöneticisi) olmasýný gerektirir. Bu Program, IBM MQ Advanced yetkileri alýnarak tek bir sunucuda lisanslanmalýdýr. Ancak bu Program için gereken yetki sayýsýnýn belirlenmesinde iki replika sunucusu kullanýlmaz.
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Özellikleri
+
+Lisans Alan Tarafýn diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) özelliklerini kullanmasý, Lisans Alan Tarafýn Yüksek Düzeyde Kullanýlabilirlik Replikasýyla birlikte saðlanan ayrý lisans koþullarýnda açýklandýðý þekilde, Lisans Alan Tarafýn yüksek düzeyde kullanýlabilirlik gereksinimlerini kapsamaya yetecek þekilde IBM MQ High Availability Replica veya IBM MQ Advanced High Availability Replica (her biri bir "Yüksek Düzeyde Kullanýlabilirlik Replikasý") yetkisine sahip olmasý gerekir.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ for Non-Production Environment 9.4
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ for Non-Production Environment 9.4
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Üretim Dýþý Kullaným Sýnýrlamasý
+
+Program "Üretim Dýþý" olarak belirlenmiþse, Lisans Alan Taraf, Programý yalnýzca Lisans Alan Tarafýn dahili geliþtirme ve test ortamýnýn bir parçasý olarak, dahili üretim dýþý aktiviteler için kullanabilir.
+
+Gerekli Yetkilerin Belirlenmesi Ýçin Kullanýlmayan Bileþenler
+
+Lisans Alan Taraf, aþaðýdaki Program bileþenlerini lisans koþullarý kapsamýnda kurabilir ve kullanabilir, ancak bu bileþenler Program için gereken yetki sayýsýnýn belirlenmesinde kullanýlmaz.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Yeniden Daðýtýlabilen Bileþenler
+
+Program, Yeniden Daðýtýlabilir olan bileþenler içerir ve bunlar aþaðýda listelenmiþtir. Yeniden Daðýtýlabilen Bileþenler, nesne kodu biçiminde olmak üzere, yalnýzca Lisans Alan Tarafýn Program kullanýlarak geliþtirilen katma deðer saðlayan uygulamasýnýn ("Lisans Alan Tarafýn Uygulamasý") bir parçasý olarak ve yalnýzca Lisans Alan Tarafýn Uygulamasýnýn kullanýmýnýn desteklenmesi amacýyla daðýtýlabilir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlere bir Java Çalýþtýrma Zamaný Ortamýnýn (JRE) dahil olduðu durumlarda, Lisans Alan Tarafýn Uygulamasýna baþka Java dýþý Yeniden Daðýtýlabilen Bileþenler eklemelidir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlerin içerdiði herhangi bir telif hakký ya da bildirim dosyasýný kaldýramaz veya IBM'in, IBM'in tedarikçilerinin veya distribütörlerinin adlarýný veya markalarýný, IBM'in ya da anýlan tedarikçinin ya da distribütörün önceden verilmiþ yazýlý izni olmaksýzýn, Lisans Alan Tarafýn Uygulamasýnýn pazarlanmasýyla baðlantýlý olarak kullanamaz. Lisans Alan Tarafýn son kullanýcý ile olan lisans sözleþmesindeki koþullar, IBM açýsýndan, en az bu Sözleþmede yer alan koþullar kadar koruyucu olmalýdýr.
+
+IBM, IBM'in tedarikçileri ve distribütörleri, Yeniden Daðýtýlabilen Bileþenleri ve bunlarla ilgili belgeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasýyla saðlar.
+
+Yeniden Daðýtýlabilen Bileþenler aþaðýdaki gibidir:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenler olarak belirtilen Kaynak Bileþenler ve Örnek Malzemeler için, bu Kaynak Bileþenlerin ve Örnek Malzemelerin deðiþtirilmiþ sürümlerini bu lisansta ve varsa Programla birlikte saðlanan yönergelere yer alan koþullara uygun olarak yeniden daðýtabilir.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Ýþlemci Çekirdeði
+
+Sanal Ýþlemci Çekirdeði, bu Programýn lisanslanabileceði bir ölçü birimidir. Fiziksel Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn veya diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin, bir blade aygýtý veya raf düzenekli bir aygýt) kendi baþýna ayrý bir Fiziksel Sunucu olarak deðerlendirilir. Sanal Sunucu, bir Fiziksel Sunucuda veya bölümlenmemiþ bir Fiziksel Sunucuda kullanýlmak üzere saðlanan kaynaklarýn bölümlenmesiyle oluþturulan bir sanal bilgisayardýr. Ýþlemci Çekirdeði, bir bilgi iþlem aygýtý içinde yer alan ve yönergeleri yorumlayan ve yürüten bir iþlevsel birimdir. Bir Ýþlemci Çekirdeði, en az bir yönerge denetim birimi ve bir veya daha fazla aritmetik veya mantýksal birimden oluþur. Sanal Ýþlemci Çekirdeði, bölümlenmemiþ bir Fiziksel Sunucudaki bir Ýþlemci Çekirdeði veya bir Sanal Sunucuya atanan bir sanal çekirdektir. Lisans Alan Tarafýn, bu Program  için kullanýma sunulan her bir Sanal Ýþlemci Çekirdeði için yetki edinmesi gerekir.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný(https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Sunucu
+
+Sanal Sunucu, bu Programýn lisanslanabileceði ölçüm birimidir. Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek, ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn ve diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin: bir blade aygýtý veya rafa monte edilen bir aygýt) kendi baþýna ayrý bir sunucu olarak deðerlendirilir. Bir sanal sunucu, fiziksel bir sunucunun kullandýðý kaynaklarýn bölümlere ayrýlmasýyla oluþturulan sanal bir bilgisayar ya da bölümlere ayrýlmýþ olmayan fiziksel bir sunucudur. Lisans Alan Taraf, sanal sunucu içinde bulunan iþlemci çekirdeklerinin sayýsý veya bu Programýn sanal sunucu üzerinde çalýþtýrýlan kopyalarýnýn sayýsý dikkate alýnmaksýzýn bu Program tarafýndan kullanýlan her bir sunucu için Sanal Sunucu yetkilerini edinmelidir.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Yerel Yüksek Düzeyde Kullanýlabilirlik Özelliði
+
+Lisans Alan Tarafýn, Programýn yerel yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) ("Yerel Yüksek Düzeyde Kullanýlabilirlik") özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Native High Availability Queue Manager (Yerel Yüksek Düzeyde Kullanýlabilirlik Kuyruðu Yöneticisi) olmasýný gerektirir. Bu Program, IBM MQ Advanced yetkileri alýnarak tek bir sunucuda lisanslanmalýdýr. Ancak bu Program için gereken yetki sayýsýnýn belirlenmesinde iki replika sunucusu kullanýlmaz.
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Özellikleri
+
+Lisans Alan Tarafýn diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) özelliklerini kullanmasý, Lisans Alan Tarafýn Yüksek Düzeyde Kullanýlabilirlik Replikasýyla birlikte saðlanan ayrý lisans koþullarýnda açýklandýðý þekilde, Lisans Alan Tarafýn yüksek düzeyde kullanýlabilirlik gereksinimlerini kapsamaya yetecek þekilde IBM MQ High Availability Replica veya IBM MQ Advanced High Availability Replica (her biri bir "Yüksek Düzeyde Kullanýlabilirlik Replikasý") yetkisine sahip olmasý gerekir.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ High Availability Replica
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Paketlenmiþ Programlar
+
+Lisans Alan Taraf, aþaðýda belirtilen Paketlenmiþ Programlarý kurabilir ve kullanabilir. Paketlenmiþ Program, lisans koþullarýyla birlikte gönderilir ve varsa, bu koþullar Lisans Alan Tarafýn Paketlenmiþ Programý kullanýmý için geçerli olur. Çeliþki durumunda, bu Lisans Bilgileri belgesindeki koþullar Paketlenmiþ Programýn koþullarýný hükümsüz kýlarak bunlarýn yerine geçer. Asýl Program ve Paketlenmiþ Programlarýn hepsi bir bütün olarak Programýn parçalarýdýr. Bu nedenle, Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Paketlenmiþ Programlarýn Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Paketlenmiþ Programý 10 VPC olan bir makinede ve baþka bir Paketlenmiþ Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Paketlenmiþ Programlar:
+IBM MQ High Availability Replica
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Aspera faspio Gateway
+
+Gerekli Yetkilerin Belirlenmesi Ýçin Kullanýlmayan Bileþenler
+
+Lisans Alan Taraf, aþaðýdaki Program bileþenlerini lisans koþullarý kapsamýnda kurabilir ve kullanabilir, ancak bu bileþenler Program için gereken yetki sayýsýnýn belirlenmesinde kullanýlmaz.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Ýþlemci Çekirdeði
+
+Sanal Ýþlemci Çekirdeði, bu Programýn lisanslanabileceði bir ölçü birimidir. Fiziksel Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn veya diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin, bir blade aygýtý veya raf düzenekli bir aygýt) kendi baþýna ayrý bir Fiziksel Sunucu olarak deðerlendirilir. Sanal Sunucu, bir Fiziksel Sunucuda veya bölümlenmemiþ bir Fiziksel Sunucuda kullanýlmak üzere saðlanan kaynaklarýn bölümlenmesiyle oluþturulan bir sanal bilgisayardýr. Ýþlemci Çekirdeði, bir bilgi iþlem aygýtý içinde yer alan ve yönergeleri yorumlayan ve yürüten bir iþlevsel birimdir. Bir Ýþlemci Çekirdeði, en az bir yönerge denetim birimi ve bir veya daha fazla aritmetik veya mantýksal birimden oluþur. Sanal Ýþlemci Çekirdeði, bölümlenmemiþ bir Fiziksel Sunucudaki bir Ýþlemci Çekirdeði veya bir Sanal Sunucuya atanan bir sanal çekirdektir. Lisans Alan Tarafýn, bu Program  için kullanýma sunulan her bir Sanal Ýþlemci Çekirdeði için yetki edinmesi gerekir.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný(https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Sunucu
+
+Sanal Sunucu, bu Programýn lisanslanabileceði ölçüm birimidir. Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek, ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn ve diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin: bir blade aygýtý veya rafa monte edilen bir aygýt) kendi baþýna ayrý bir sunucu olarak deðerlendirilir. Bir sanal sunucu, fiziksel bir sunucunun kullandýðý kaynaklarýn bölümlere ayrýlmasýyla oluþturulan sanal bir bilgisayar ya da bölümlere ayrýlmýþ olmayan fiziksel bir sunucudur. Lisans Alan Taraf, sanal sunucu içinde bulunan iþlemci çekirdeklerinin sayýsý veya bu Programýn sanal sunucu üzerinde çalýþtýrýlan kopyalarýnýn sayýsý dikkate alýnmaksýzýn bu Program tarafýndan kullanýlan her bir sunucu için Sanal Sunucu yetkilerini edinmelidir.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Lisans Alan Tarafýn Programý kullanýmý, aþaðýda veya Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri maddesinde belirtildiði þekilde aþaðýdaki özelliklerin kullanýmýyla sýnýrlýdýr.
+
+1. Multi-Instance Queue Manager (Çoklu Eþgörünüm Kuyruk Yöneticisi) Özelliði
+
+Programýn Multi-Instance Queue Manager (çoklu eþgörünüm kuyruk yöneticisi) özelliði Lisans Alan Tarafa yalnýzca Yedekte Bekleme (Standby) Amaçlý kullaným için verilir. Yedekte Bekleme Amaçlarý þu þekilde tanýmlanýr: Program baþlatýlmýþtýr, ancak programýn aktif ve ayrýca yetki verilen IBM MQ kopyasýnýn yükünün, Programýn yüksek düzeyde kullanýlabilirlik replikasýna devredilmediði durumlarda Programýn atýl durumda kalmasý saðlanýr. Bu durum ortaya çýkarsa, Programýn yüksek düzeyde kullanýlabilirlik replikasý, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir. Program, bir yük devri ortaya çýkýncaya kadar, üretim amaçlý iþi yürütmek için kullanýlmýyorsa ve yönetimsel eylemler için kullanýlýyorsa "atýl durumda" olarak deðerlendirilir.
+
+2. Replicated Data Queue Manager High Availability (Eþlenen Veri Kuyruk Yöneticisi Yüksek Düzeyde Kullanýlabilirlik) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan iki tanesi IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak üçüncü yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Bu yüksek düzeyde kullanýlabilirlik özelliðini bir olaðanüstü durum kurtarma yerine eþlemeyle baðlantýlý olarak kullanýrken, olaðanüstü durum kurtarma yerindeki üç adet yüksek düzeyde kullanýlabilir sunucunun da yukarýda belirtildiði þekilde yetkilendirilmesi gerekir.
+
+3. Replicated Data Queue Manager Disaster Recovery (Eþlenen Veri Kuyruk Yöneticisi Olaðanüstü Durum Kurtarma) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, iki sunucu üzerinde yapýlandýrma yapýlmasýný ve bu iki sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan biri IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak ikinci yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Ýki sunucunun bu olaðanüstü durum kurtarma yapýlandýrmasý, bir olaðanüstü durum kurtarma yerine eþlemeyle birlikte kullanýldýðýnda bile, üç sunucunun yüksek düzeyde kullanýlabilirlik yapýlandýrmasýnýn kullanýlmasýndan farklý bir yapýlandýrmadýr.
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri
+
+Lisans Alan Tarafýn, Programla birlikte diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) çözümlerini kullanmayý seçmesi halinde, Lisans Alan Tarafa, Program bir yedekte bekleme sunucusu üzerinde yedekleme amaçlarýyla durduðu ve Program baþlatýlmadýðý sürece, Programý yüksek düzeyde kullanýlabilirlik replikasý olarak kullanma izni verilir. Bu Program aktif sunucuda hata çýkmasý durumunda yüksek düzeyde kullanýlabilirlik bileþenleri tarafýndan otomatik olarak baþlatýlabilir, bu durumda, Program, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Yeniden Daðýtýlabilen Bileþenler
+
+Program, Yeniden Daðýtýlabilir olan bileþenler içerir ve bunlar aþaðýda listelenmiþtir. Yeniden Daðýtýlabilen Bileþenler, nesne kodu biçiminde olmak üzere, yalnýzca Lisans Alan Tarafýn Program kullanýlarak geliþtirilen katma deðer saðlayan uygulamasýnýn ("Lisans Alan Tarafýn Uygulamasý") bir parçasý olarak ve yalnýzca Lisans Alan Tarafýn Uygulamasýnýn kullanýmýnýn desteklenmesi amacýyla daðýtýlabilir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlere bir Java Çalýþtýrma Zamaný Ortamýnýn (JRE) dahil olduðu durumlarda, Lisans Alan Tarafýn Uygulamasýna baþka Java dýþý Yeniden Daðýtýlabilen Bileþenler eklemelidir. Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenlerin içerdiði herhangi bir telif hakký ya da bildirim dosyasýný kaldýramaz veya IBM'in, IBM'in tedarikçilerinin veya distribütörlerinin adlarýný veya markalarýný, IBM'in ya da anýlan tedarikçinin ya da distribütörün önceden verilmiþ yazýlý izni olmaksýzýn, Lisans Alan Tarafýn Uygulamasýnýn pazarlanmasýyla baðlantýlý olarak kullanamaz. Lisans Alan Tarafýn son kullanýcý ile olan lisans sözleþmesindeki koþullar, IBM açýsýndan, en az bu Sözleþmede yer alan koþullar kadar koruyucu olmalýdýr.
+
+IBM, IBM'in tedarikçileri ve distribütörleri, Yeniden Daðýtýlabilen Bileþenleri ve bunlarla ilgili belgeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasýyla saðlar.
+
+Yeniden Daðýtýlabilen Bileþenler aþaðýdaki gibidir:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Lisans Alan Taraf, Yeniden Daðýtýlabilen Bileþenler olarak belirtilen Kaynak Bileþenler ve Örnek Malzemeler için, bu Kaynak Bileþenlerin ve Örnek Malzemelerin deðiþtirilmiþ sürümlerini bu lisansta ve varsa Programla birlikte saðlanan yönergelere yer alan koþullara uygun olarak yeniden daðýtabilir.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Kurulum
+
+Kurulum, bu Programýn lisanslandýðý ölçüm birimidir. Kurulum, Programýn bir bilgisayarda çalýþtýrýlmak üzere saðlanan fiziksel veya sanal bir diske kurulan kopyasýdýr. Lisans Alan Tarafýn, bu Programýn her Kurulumu için bir yetki edinmesi gerekir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Kurulum
+
+Kurulum, bu Programýn lisanslandýðý ölçüm birimidir. Kurulum, Programýn bir bilgisayarda çalýþtýrýlmak üzere saðlanan fiziksel veya sanal bir diske kurulan kopyasýdýr. Lisans Alan Tarafýn, bu Programýn her Kurulumu için bir yetki edinmesi gerekir.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Lisans Alan Tarafýn Programý kullanýmý, aþaðýda veya Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri maddesinde belirtildiði þekilde aþaðýdaki özelliklerin kullanýmýyla sýnýrlýdýr. 
+
+1. Multi-Instance Queue Manager (Çoklu Eþgörünüm Kuyruk Yöneticisi) Özelliði
+
+Programýn Multi-Instance Queue Manager özelliði Lisans Alan Tarafa yalnýzca Yedekte Bekleme (Standby) Amaçlý kullaným için verilir. Yedekte Bekleme Amaçlarý þu þekilde tanýmlanýr: Program baþlatýlmýþtýr, ancak programýn aktif ve ayrýca yetki verilen IBM MQ kopyasýnýn yükünün, Programýn yüksek düzeyde kullanýlabilirlik replikasýna devredilmediði durumlarda Programýn atýl durumda kalmasý saðlanýr. Bu durum ortaya çýkarsa, Programýn yüksek düzeyde kullanýlabilirlik replikasý, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir. Program, bir yük devri ortaya çýkýncaya kadar, üretim amaçlý iþi yürütmek için kullanýlmýyorsa ve yönetimsel eylemler için kullanýlýyorsa "atýl durumda" olarak deðerlendirilir. 
+
+2. Replicated Data Queue Manager High Availability (Eþlenen Veri Kuyruk Yöneticisi Yüksek Düzeyde Kullanýlabilirlik) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan iki tanesi  IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak üçüncü yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Bu yüksek düzeyde kullanýlabilirlik özelliðini bir olaðanüstü durum kurtarma yerine eþlemeyle baðlantýlý olarak kullanýrken, olaðanüstü durum kurtarma yerindeki üç adet yüksek düzeyde kullanýlabilir sunucunun da yukarýda belirtildiði þekilde yetkilendirilmesi gerekir.
+
+3. Replicated Data Queue Manager Disaster Recovery (Eþlenen Veri Kuyruk Yöneticisi Olaðanüstü Durum Kurtarma) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, iki sunucu üzerinde yapýlandýrma yapýlmasýný ve bu iki sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan biri IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak ikinci yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Ýki sunucunun bu olaðanüstü durum kurtarma yapýlandýrmasý, bir olaðanüstü durum kurtarma yerine eþlemeyle birlikte kullanýldýðýnda bile, üç sunucunun yüksek düzeyde kullanýlabilirlik yapýlandýrmasýnýn kullanýlmasýndan farklý bir yapýlandýrmadýr. 
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri
+
+Lisans Alan Tarafýn, Programla birlikte diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) çözümlerini kullanmayý seçmesi halinde, Lisans Alan Tarafa, Program bir yedekte bekleme sunucusu üzerinde yedekleme amaçlarýyla durduðu ve Program baþlatýlmadýðý sürece, Programý yüksek düzeyde kullanýlabilirlik replikasý olarak kullanma izni verilir. Bu Program aktif sunucuda hata çýkmasý durumunda yüksek düzeyde kullanýlabilirlik bileþenleri tarafýndan otomatik olarak baþlatýlabilir, bu durumda, Program, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+ÖNEMLÝ: DÝKKATLE OKUYUN
+
+Aþaðýda iki lisans sözleþmesi sunulmuþtur.
+
+1. Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi
+2. IBM Uluslararasý Program Lisans Sözleþmesi
+
+Lisans Alan Taraf, bu Programý (deðerlendirme, deneme, gösterimini yapma amaçlarý veya "dene veya satýn al" kampanyasý dýþýnda) üretim amacýyla kullanmak üzere satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak IBM Uluslararasý Program Lisans Sözleþmesi'ni hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Lisans Alan Taraf bu Programý, deðerlendirme, deneme, gösterimini yapma amaçlarýyla veya "dene veya satýn al" kampanyasý kapsamýnda kullanmak üzere (topluca "Deðerlendirme" olarak belirlenen amaçla) satýn alýyorsa, aþaðýda yer alan "Kabul ediyorum" düðmesini týklatarak (i) Programlarýn Deðerlendirilmesi Ýçin IBM Uluslararasý Lisans Sözleþmesi'ni ("Deðerlendirme Lisansý") hiçbir deðiþiklik olmaksýzýn ve (ii) IBM Uluslararasý Program Lisans Sözleþmesi'ni ("UPLS") hiçbir deðiþiklik olmaksýzýn kabul eder.
+
+Deðerlendirme Lisansý, Lisans Alan Tarafýn Deðerlendirme süresi boyunca geçerli olacaktýr.
+
+Deðerlendirme süresi sonunda, Lisans Alan taraf, bir tedarik sözleþmesi (örneðin, IBM Uluslararasý Passport Advantage veya IBM Passport Express Advantage sözleþmeleri gibi) imzalayarak bu Programý edinmeyi (veya Deðerlendirme sürecinden sonra kullanmak üzere bu Programýn ek kopyalarýný edinmeyi) seçtiyse, Uluslararasý Program Lisans Sözleþmesi (UPLS) otomatik olarak geçerli olacaktýr.
+
+Deðerlendirme Lisansý ve UPLS ayný anda yürürlükte olamayacaðý gibi, bu Sözleþmelerden birinin koþullarý diðerinin koþullarýný deðiþtirmez. Deðerlendirme Lisansý ile UPLS birbirlerinden baðýmsýz sözleþmelerdir.
+
+Bu iki lisans sözleþmesinin tam metni aþaðýdadýr.
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Deðerlendirilmesi Ýçin Uluslararasý Lisans Sözleþmesi (i125-5543-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Deðerlendirme Süresi
+
+Deðerlendirme süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 90 gün sonra sona erer.
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Observability by Instana Application Performance Monitoring
+
+Ýzin Verilen Bileþenler
+
+Lisans Alan Tarafa, belirtilen Paketlenmiþ ya da Destekleyici Programýn yalnýzca aþaðýda belirtilen bileþenlerini ya da iþlevlerini kullanma izni verilir:
+IBM MQ Tracing
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Uluslararasý Program Lisans Sözleþmesi (i125-3301-15) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Destekleyici Programlar
+
+Lisans Alan Tarafa, aþaðýda tanýmlanan Destekleyici Programlarý yalnýzca bu Sözleþme kapsamýndaki Asýl Programýn Lisans Alan Tarafça kullanýmýný desteklemek amacýyla kurmasý ve kullanmasý için yetki verilir. "Lisans Alan Tarafça kullanýmýný desteklemek amacýyla" ifadesi, yalnýzca Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmý için gerekli olan veya Asýl Programýn veya diðer bir Destekleyici Programýn lisanslý kullanýmýyla baþka bir þekilde doðrudan iliþkili olan kullanýmlarý kapsar. Destekleyici Programlar, baþka hiçbir amaçla kullanýlamaz. Bir Destekleyici Programla birlikte lisans koþullarý ve eðer varsa, Lisans Alan Tarafýn bu Destekleyici Programý kullanýmý için geçerli olan koþullar da gönderilebilir. Asýl Programýn koþullarýyla Destekleyici Programýn koþullarý arasýnda bir çeliþki olmasý durumunda iþbu Lisans Bilgileri belgesinin koþullarý, Destekleyici Programýn koþullarýný hükümsüz kýlarak onlarýn yerine geçer. Lisans Alan Taraf, iþbu Lisans Bilgileri belgesinde ayrý yetkiler saðlanmadýðý sürece, Destekleyici Programlarýn tümünün Lisans Alan Tarafça kurulumunu ve kullanýmýný kapsayacak þekilde Programýn bütününe iliþkin yeterli sayýda yetki edinmelidir. Örneðin, bu Program bir Sanal Ýþlemci Çekirdeði (VPC) esasýna göre lisanslandýysa ve Lisans Alan Taraf, Asýl Programý veya bir Destekleyici Programý 10 VPC olan bir makinede ve baþka bir Destekleyici Programý ikinci bir 10 VPC olan makinede kuracaksa, Lisans Alan Tarafýn Program için 20 VPC yetkisi edinmesi gerekecektir.
+
+Destekleyici Programlar:
+IBM Observability by Instana Application Performance Monitoring
+
+Ýzin Verilen Bileþenler
+
+Lisans Alan Tarafa, belirtilen Paketlenmiþ ya da Destekleyici Programýn yalnýzca aþaðýda belirtilen bileþenlerini ya da iþlevlerini kullanma izni verilir:
+IBM MQ Tracing
+
+Gerekli Yetkilerin Belirlenmesi Ýçin Kullanýlmayan Bileþenler
+
+Lisans Alan Taraf, aþaðýdaki Program bileþenlerini lisans koþullarý kapsamýnda kurabilir ve kullanabilir, ancak bu bileþenler Program için gereken yetki sayýsýnýn belirlenmesinde kullanýlmaz.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+Ayrý Olarak Lisanslanan Kod
+
+NON_IBM_LICENSE dosyasýnda listelenen bileþenlerin her biri, Lisans Alan Tarafa Programla birlikte gönderilen NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda/dosyalarýnda yer alan geçerli üçüncü kiþi sözleþmelerinin koþullarý kapsamýnda lisanslanmýþ "Ayrý Olarak Lisanslanan Kod" olarak kabul edilir. Gelecekteki Program güncellemeleri veya düzeltmeleri, Ayrý Olarak Lisanslanan ek Kod içerebilir. Bu tür ek niteliðindeki Ayrý Olarak Lisanslanan Kod ve ilgili lisanslarý, Program güncellemesi veya düzeltmesi ile birlikte gönderilen ilgili NON_IBM_LICENSE (IBM DIÞI LÝSANS) dosyasýnda belirtilir. 
+
+Not: Ayrý Olarak Lisanslanan Koda iliþkin olarak üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullara etki etmeksizin:
+(a) IBM, bunu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar; ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA ÝLÝÞKÝN ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL, ANCAK TAMAMI BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VE ZIMNÝ TÜM GARANTÝLERÝ VE KOÞULLARI REDDEDER;
+(b) IBM, veri kaybý, tasarruf kaybý ve kâr kaybý da dahil, ancak tamamý bunlarla sýnýrlý olmamak üzere, herhangi bir doðrudan, dolaylý, arýzi, özel, cezai tazminat gerektiren, ceza gerektiren veya sonuçta ortaya çýkan zararlardan sorumlu deðildir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+Aþaðýdaki ölçü birimleri, Lisans Alan Tarafýn Programý kullanýmý için geçerli olabilir.
+
+Ýþlemci Deðer Birimi (PVU)
+
+Ýþlemci Deðer Birimi (PVU), bu Programýn lisanslanabileceði bir ölçü birimidir. Gereken Ýþlemci Deðer Birimi (PVU) yetkilerinin sayýsý hesaplanýrken, iþlemci teknolojisi (https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html adresindeki Daðýnýk Yazýlýmlar web sitesi için Ýþlemci Deðer Birimi (PVU) esasýyla lisanslamada tanýmlanýr) ve Program için kullanýma sunulan iþlemci sayýsý esas alýnýr. IBM, Ýþlemci Deðer Birimi esasýnda lisanslamanýn amacý doðrultusunda bir çip üzerinde yer alan her iþlemci çekirdeði için bir iþlemci tanýmlamaya devam eder. Örneðin, bir çift çekirdekli iþlemci çipinde iki adet iþlemci çekirdeði bulunur.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný (https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Ýþlemci Çekirdeði
+
+Sanal Ýþlemci Çekirdeði, bu Programýn lisanslanabileceði bir ölçü birimidir. Fiziksel Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn veya diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin, bir blade aygýtý veya raf düzenekli bir aygýt) kendi baþýna ayrý bir Fiziksel Sunucu olarak deðerlendirilir. Sanal Sunucu, bir Fiziksel Sunucuda veya bölümlenmemiþ bir Fiziksel Sunucuda kullanýlmak üzere saðlanan kaynaklarýn bölümlenmesiyle oluþturulan bir sanal bilgisayardýr. Ýþlemci Çekirdeði, bir bilgi iþlem aygýtý içinde yer alan ve yönergeleri yorumlayan ve yürüten bir iþlevsel birimdir. Bir Ýþlemci Çekirdeði, en az bir yönerge denetim birimi ve bir veya daha fazla aritmetik veya mantýksal birimden oluþur. Sanal Ýþlemci Çekirdeði, bölümlenmemiþ bir Fiziksel Sunucudaki bir Ýþlemci Çekirdeði veya bir Sanal Sunucuya atanan bir sanal çekirdektir. Lisans Alan Tarafýn, bu Program  için kullanýma sunulan her bir Sanal Ýþlemci Çekirdeði için yetki edinmesi gerekir.
+
+Lisans Alan Taraf, Programý (destekleniyorsa), tam kapasite lisanslamasýný, alt kapasite lisanslamasýný (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) veya konteyner lisanslamasýný(https://www.ibm.com/software/passportadvantage/containerlicenses.html) kullanarak devreye alabilir. Daha fazla bilgi edinmek için baaðlantýsý verilen web sitelerine bakýn.
+
+Sanal Sunucu
+
+Sanal Sunucu, bu Programýn lisanslanabileceði ölçüm birimidir. Sunucu, bir veya daha fazla kullanýcý ve istemci aygýtýnda istenen yordamlarý, komutlarý veya uygulamalarý yürüten ve iþlemci birimleri, bellek, ve girdi/çýktý kapasitesine sahip fiziksel bir bilgisayardýr. Raflarýn, blade kasalarýnýn ve diðer benzer ekipmanýn kullanýlmasý durumunda, gerekli bileþenlere sahip her bir ayrýlabilir fiziksel aygýt (örneðin: bir blade aygýtý veya rafa monte edilen bir aygýt) kendi baþýna ayrý bir sunucu olarak deðerlendirilir. Bir sanal sunucu, fiziksel bir sunucunun kullandýðý kaynaklarýn bölümlere ayrýlmasýyla oluþturulan sanal bir bilgisayar ya da bölümlere ayrýlmýþ olmayan fiziksel bir sunucudur. Lisans Alan Taraf, sanal sunucu içinde bulunan iþlemci çekirdeklerinin sayýsý veya bu Programýn sanal sunucu üzerinde çalýþtýrýlan kopyalarýnýn sayýsý dikkate alýnmaksýzýn bu Program tarafýndan kullanýlan her bir sunucu için Sanal Sunucu yetkilerini edinmelidir.
+
+Yukarýdakilere ek olarak, aþaðýdaki koþullar Lisans Alan Tarafýn bu Programý kullanýmý için geçerlidir.
+
+A. Lisans Alan Tarafýn Programý kullanýmý, aþaðýda veya Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri maddesinde belirtildiði þekilde aþaðýdaki özelliklerin kullanýmýyla sýnýrlýdýr.
+
+1. Multi-Instance Queue Manager (Çoklu Eþgörünüm Kuyruk Yöneticisi) Özelliði
+
+Programýn Multi-Instance Queue Manager (çoklu eþgörünüm kuyruk yöneticisi) özelliði Lisans Alan Tarafa yalnýzca Yedekte Bekleme (Standby) Amaçlý kullaným için verilir. Yedekte Bekleme Amaçlarý þu þekilde tanýmlanýr: Program baþlatýlmýþtýr, ancak programýn aktif ve ayrýca yetki verilen IBM MQ kopyasýnýn yükünün, Programýn yüksek düzeyde kullanýlabilirlik replikasýna devredilmediði durumlarda Programýn atýl durumda kalmasý saðlanýr. Bu durum ortaya çýkarsa, Programýn yüksek düzeyde kullanýlabilirlik replikasý, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir. Program, bir yük devri ortaya çýkýncaya kadar, üretim amaçlý iþi yürütmek için kullanýlmýyorsa ve yönetimsel eylemler için kullanýlýyorsa "atýl durumda" olarak deðerlendirilir.
+
+2. Replicated Data Queue Manager High Availability (Eþlenen Veri Kuyruk Yöneticisi Yüksek Düzeyde Kullanýlabilirlik) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, üç sunucu üzerinde yapýlandýrma yapýlmasýný ve bu üç sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan iki tanesi IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak üçüncü yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Bu yüksek düzeyde kullanýlabilirlik özelliðini bir olaðanüstü durum kurtarma yerine eþlemeyle baðlantýlý olarak kullanýrken, olaðanüstü durum kurtarma yerindeki üç adet yüksek düzeyde kullanýlabilir sunucunun da yukarýda belirtildiði þekilde yetkilendirilmesi gerekir.
+
+3. Replicated Data Queue Manager Disaster Recovery (Eþlenen Veri Kuyruk Yöneticisi Olaðanüstü Durum Kurtarma) Özelliði
+
+Lisans Alan Tarafýn, Programýn Replicated Data Queue Manager özelliðini kullanýmý, iki sunucu üzerinde yapýlandýrma yapýlmasýný ve bu iki sunucu üzerindeki tüm kuyruk yöneticilerinin Replicated Data Queue Manager olmasýný gerektirir. Bu sunuculardan biri IBM MQ Advanced High Availability Replica olarak yapýlandýrýlabilir ve yetkilendirilebilir, ancak ikinci yapýlandýrýlan sunucu üzerindeki IBM MQ kopyasýnýn, IBM MQ Advanced için yetkiler elde edilmesi yoluyla ayrý olarak lisanslanmasý gerekir. Ýki sunucunun bu olaðanüstü durum kurtarma yapýlandýrmasý, bir olaðanüstü durum kurtarma yerine eþlemeyle birlikte kullanýldýðýnda bile, üç sunucunun yüksek düzeyde kullanýlabilirlik yapýlandýrmasýnýn kullanýlmasýndan farklý bir yapýlandýrmadýr.
+
+B. Diðer Yüksek Düzeyde Kullanýlabilirlik Çözümleri
+
+Lisans Alan Tarafýn, Programla birlikte diðer yüksek düzeyde kullanýlabilirlik (otomatik olarak yedek sisteme geçiþ) çözümlerini kullanmayý seçmesi halinde, Lisans Alan Tarafa, Program bir yedekte bekleme sunucusu üzerinde yedekleme amaçlarýyla durduðu ve Program baþlatýlmadýðý sürece, Programý yüksek düzeyde kullanýlabilirlik replikasý olarak kullanma izni verilir. Bu Program aktif sunucuda hata çýkmasý durumunda yüksek düzeyde kullanýlabilirlik bileþenleri tarafýndan otomatik olarak baþlatýlabilir, bu durumda, Program, yük devri süresince üretim amaçlý iþleri yürütmek için kullanýlabilir.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

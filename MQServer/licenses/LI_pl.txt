@@ -1,0 +1,1125 @@
+UWAGA
+
+Niniejszy dokument zawiera dokumenty &#34;Informacje licencyjne&#34; (za³±czone poni¿ej) dla wielu Programów. Ka¿dy dokument &#34;Informacje licencyjne&#34; identyfikuje Program (jeden lub wiêcej), do którego ma zastosowanie. Obowi±zuj± dokumenty &#34;Informacje licencyjne&#34; jedynie dla Programu (jednego lub wiêcej), dla którego Licencjobiorca naby³ uprawnienia.
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponenty dozwolone
+
+Licencjobiorca jest upowa¿niony do u¿ywania jedynie nastêpuj±cych komponentów lub funkcji okre¶lonego Programu Pakietowego lub Programu Wspieraj±cego:
+IBM MQ Tracing
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponenty dozwolone
+
+Licencjobiorca jest upowa¿niony do u¿ywania jedynie nastêpuj±cych komponentów lub funkcji okre¶lonego Programu Pakietowego lub Programu Wspieraj±cego:
+IBM MQ Tracing
+
+Ograniczenie do celów nieprodukcyjnych
+
+Je¶li Program jest oznaczony jako przeznaczony do "U¿ywania w Celach Nieprodukcyjnych", to Licencjobiorca mo¿e u¿ywaæ go jedynie w ramach swojego wewnêtrznego ¶rodowiska programowania i testowania, na potrzeby wewnêtrznych czynno¶ci nieprodukcyjnych.
+
+Komponenty nieu¿ywane do ustanawiania wymaganych uprawnieñ
+
+Licencjobiorca mo¿e zainstalowaæ nastêpuj±ce komponenty Programu i u¿ywaæ ich zgodnie z warunkami licencji, ale komponenty te nie mog± byæ u¿ywane do okre¶lania liczby uprawnieñ wymaganych dla Programu.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Elementy podlegaj±ce redystrybucji
+
+Program zawiera wymienione poni¿ej komponenty bêd±ce Elementami Podlegaj±cymi Redystrybucji. Elementy Podlegaj±ce Redystrybucji mo¿na dystrybuowaæ w formie kodu wynikowego wy³±cznie jako czê¶æ aplikacji Licencjobiorcy wnosz±cej warto¶æ dodan± opracowanej z u¿yciem Programu (zwanej dalej "Aplikacj± Licencjobiorcy") i wy³±cznie w celu umo¿liwienia u¿ywania Aplikacji Licencjobiorcy. Je¶li Elementy Podlegaj±ce Redystrybucji obejmuj± produkt Java Runtime Environment, Licencjobiorca musi równie¿ w³±czyæ do Aplikacji Licencjobiorcy Elementy Podlegaj±ce Redystrybucji inne ni¿ Java. Licencjobiorca nie mo¿e usuwaæ informacji o prawach autorskich i plików informacyjnych zawartych w Elementach Podlegaj±cych Redystrybucji ani u¿ywaæ - w zwi±zku z czynno¶ciami marketingowymi odnosz±cymi siê do Aplikacji Licencjobiorcy - nazw i znaków towarowych IBM, dostawców IBM i dystrybutorów IBM bez ich wcze¶niejszej pisemnej zgody. Umowa licencyjna Licencjobiorcy z u¿ytkownikiem musi zapewniaæ IBM ochronê co najmniej równ± zapewnianej przez warunki niniejszej Umowy.
+
+IBM, dostawcy IBM i dystrybutorzy IBM dostarczaj± Elementy Podlegaj±ce Redystrybucji oraz zwi±zan± z nimi dokumentacjê bez zobowi±zania do wsparcia i W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Nastêpuj±ce elementy stanowi± Elementy Podlegaj±ce Redystrybucji:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+W przypadku Komponentów ¬ród³owych i Materia³ów Przyk³adowych wymienionych jako Elementy Podlegaj±ce Redystrybucji Licencjobiorca mo¿e redystrybuowaæ zmodyfikowane wersje tych Komponentów ¬ród³owych i Materia³ów Przyk³adowych, zgodnie z warunkami niniejszej licencji oraz wszelkimi instrukcjami zawartymi w ewentualnej dokumentacji do³±czonej do Programu.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Wirtualny Rdzeñ Procesora
+
+Wirtualny Rdzeñ Procesora to jednostka miary, wed³ug której licencjonowany jest Program. Serwer Fizyczny to komputer fizyczny sk³adaj±cy siê z jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê ¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowych lub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (np. serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny Serwer Fizyczny. Serwer Wirtualny to komputer wirtualny utworzony poprzez spartycjonowanie zasobów Serwera Fizycznego lub niepartycjonowany Serwer Fizyczny. Rdzeñ Procesora oznacza jednostkê funkcjonaln± w komputerze, która interpretuje i wykonuje instrukcje. Rdzeñ Procesora sk³ada siê co najmniej z jednej jednostki steruj±cej oraz z jednej lub wiêkszej liczby jednostek arytmetyczno-logicznych. Wirtualny Rdzeñ Procesora to Rdzeñ Procesora w niepartycjonowanym Serwerze Fizycznym lub rdzeñ wirtualny przypisany do Serwera Wirtualnego. Licencjobiorca musi nabyæ uprawnienia dla ka¿dego Wirtualnego Rdzenia Procesora udostêpnionego dla Programu.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Serwer Wirtualny
+
+Serwer Wirtualny to jednostka miary, wed³ug której licencjonowany jest Program. Serwer to komputer fizyczny, sk³adaj±cy siêz jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowychlub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (na przyk³ad serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobów serwera fizycznego albo niespartycjonowany serwer fizyczny. Licencjobiorca musi nabyæ uprawnienia Serwera Wirtualnego dla ka¿dego serwera wirtualnego, który jest dostêpny dla Programu, bez wzglêdu na liczbê rdzeni procesorów w serwerze wirtualnym lub liczbê egzemplarzy Programu na serwerze wirtualnym.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. Natywna funkcja wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z opcji rodzimej wysokiej dostêpno¶ci (automatyczne prze³±czanie awaryjne) wchodz±cej w sk³ad Programu (zwanej dalej "Rodzim± Wysok± Dostêpno¶ci±") wymaga jej skonfigurowania na trzech serwerach. Wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ mened¿erami z Rodzim± Wysok± Dostêpno¶ci±. Nale¿y uzyskaæ licencjê na Program dla jednego serwera, nabywaj±c uprawnienia dla IBM MQ Advanced. Dwa serwery replik nie licz± siê przy ustalaniu liczby uprawnieñ wymaganych dla Programu.
+
+B. Inne funkcje wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z innych funkcji wysokiej dostêpno¶ci (prze³±czanie awaryjne) wymaga nabycia przez Licencjobiorcê uprawnieñ dla Repliki Wysokiej Dostêpno¶ci IBM MQ lub Repliki Wysokiej Dostêpno¶ci IBM MQ Advanced (ka¿da z tych opcji zwana jest dalej "Replik± Wysokiej Dostêpno¶ci") wystarczaj±cych do spe³nienia wymagañ Licencjobiorcy w zakresie wysokiej dostêpno¶ci, okre¶lonych w warunkach oddzielnej licencji na Replikê Wysokiej Dostêpno¶ci.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Komponenty nieu¿ywane do ustanawiania wymaganych uprawnieñ
+
+Licencjobiorca mo¿e zainstalowaæ nastêpuj±ce komponenty Programu i u¿ywaæ ich zgodnie z warunkami licencji, ale komponenty te nie mog± byæ u¿ywane do okre¶lania liczby uprawnieñ wymaganych dla Programu.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Elementy podlegaj±ce redystrybucji
+
+Program zawiera wymienione poni¿ej komponenty bêd±ce Elementami Podlegaj±cymi Redystrybucji. Elementy Podlegaj±ce Redystrybucji mo¿na dystrybuowaæ w formie kodu wynikowego wy³±cznie jako czê¶æ aplikacji Licencjobiorcy wnosz±cej warto¶æ dodan± opracowanej z u¿yciem Programu (zwanej dalej "Aplikacj± Licencjobiorcy") i wy³±cznie w celu umo¿liwienia u¿ywania Aplikacji Licencjobiorcy. Je¶li Elementy Podlegaj±ce Redystrybucji obejmuj± produkt Java Runtime Environment, Licencjobiorca musi równie¿ w³±czyæ do Aplikacji Licencjobiorcy Elementy Podlegaj±ce Redystrybucji inne ni¿ Java. Licencjobiorca nie mo¿e usuwaæ informacji o prawach autorskich i plików informacyjnych zawartych w Elementach Podlegaj±cych Redystrybucji ani u¿ywaæ - w zwi±zku z czynno¶ciami marketingowymi odnosz±cymi siê do Aplikacji Licencjobiorcy - nazw i znaków towarowych IBM, dostawców IBM i dystrybutorów IBM bez ich wcze¶niejszej pisemnej zgody. Umowa licencyjna Licencjobiorcy z u¿ytkownikiem musi zapewniaæ IBM ochronê co najmniej równ± zapewnianej przez warunki niniejszej Umowy.
+
+IBM, dostawcy IBM i dystrybutorzy IBM dostarczaj± Elementy Podlegaj±ce Redystrybucji oraz zwi±zan± z nimi dokumentacjê bez zobowi±zania do wsparcia i W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Nastêpuj±ce elementy stanowi± Elementy Podlegaj±ce Redystrybucji:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+W przypadku Komponentów ¬ród³owych i Materia³ów Przyk³adowych wymienionych jako Elementy Podlegaj±ce Redystrybucji Licencjobiorca mo¿e redystrybuowaæ zmodyfikowane wersje tych Komponentów ¬ród³owych i Materia³ów Przyk³adowych, zgodnie z warunkami niniejszej licencji oraz wszelkimi instrukcjami zawartymi w ewentualnej dokumentacji do³±czonej do Programu.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Wirtualny Rdzeñ Procesora
+
+Wirtualny Rdzeñ Procesora to jednostka miary, wed³ug której licencjonowany jest Program. Serwer Fizyczny to komputer fizyczny sk³adaj±cy siê z jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê ¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowych lub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (np. serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny Serwer Fizyczny. Serwer Wirtualny to komputer wirtualny utworzony poprzez spartycjonowanie zasobów Serwera Fizycznego lub niepartycjonowany Serwer Fizyczny. Rdzeñ Procesora oznacza jednostkê funkcjonaln± w komputerze, która interpretuje i wykonuje instrukcje. Rdzeñ Procesora sk³ada siê co najmniej z jednej jednostki steruj±cej oraz z jednej lub wiêkszej liczby jednostek arytmetyczno-logicznych. Wirtualny Rdzeñ Procesora to Rdzeñ Procesora w niepartycjonowanym Serwerze Fizycznym lub rdzeñ wirtualny przypisany do Serwera Wirtualnego. Licencjobiorca musi nabyæ uprawnienia dla ka¿dego Wirtualnego Rdzenia Procesora udostêpnionego dla Programu.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Serwer Wirtualny
+
+Serwer Wirtualny to jednostka miary, wed³ug której licencjonowany jest Program. Serwer to komputer fizyczny, sk³adaj±cy siêz jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowychlub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (na przyk³ad serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobów serwera fizycznego albo niespartycjonowany serwer fizyczny. Licencjobiorca musi nabyæ uprawnienia Serwera Wirtualnego dla ka¿dego serwera wirtualnego, który jest dostêpny dla Programu, bez wzglêdu na liczbê rdzeni procesorów w serwerze wirtualnym lub liczbê egzemplarzy Programu na serwerze wirtualnym.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. Natywna funkcja wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z opcji rodzimej wysokiej dostêpno¶ci (automatyczne prze³±czanie awaryjne) wchodz±cej w sk³ad Programu (zwanej dalej "Rodzim± Wysok± Dostêpno¶ci±") wymaga jej skonfigurowania na trzech serwerach. Wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ mened¿erami z Rodzim± Wysok± Dostêpno¶ci±. Nale¿y uzyskaæ licencjê na Program dla jednego serwera, nabywaj±c uprawnienia dla IBM MQ Advanced. Dwa serwery replik nie licz± siê przy ustalaniu liczby uprawnieñ wymaganych dla Programu.
+
+B. Inne funkcje wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z innych funkcji wysokiej dostêpno¶ci (prze³±czanie awaryjne) wymaga nabycia przez Licencjobiorcê uprawnieñ dla Repliki Wysokiej Dostêpno¶ci IBM MQ lub Repliki Wysokiej Dostêpno¶ci IBM MQ Advanced (ka¿da z tych opcji zwana jest dalej "Replik± Wysokiej Dostêpno¶ci") wystarczaj±cych do spe³nienia wymagañ Licencjobiorcy w zakresie wysokiej dostêpno¶ci, okre¶lonych w warunkach oddzielnej licencji na Replikê Wysokiej Dostêpno¶ci.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ for Non-Production Environment 9.4
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ for Non-Production Environment 9.4
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Ograniczenie do celów nieprodukcyjnych
+
+Je¶li Program jest oznaczony jako przeznaczony do "U¿ywania w Celach Nieprodukcyjnych", to Licencjobiorca mo¿e u¿ywaæ go jedynie w ramach swojego wewnêtrznego ¶rodowiska programowania i testowania, na potrzeby wewnêtrznych czynno¶ci nieprodukcyjnych.
+
+Komponenty nieu¿ywane do ustanawiania wymaganych uprawnieñ
+
+Licencjobiorca mo¿e zainstalowaæ nastêpuj±ce komponenty Programu i u¿ywaæ ich zgodnie z warunkami licencji, ale komponenty te nie mog± byæ u¿ywane do okre¶lania liczby uprawnieñ wymaganych dla Programu.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Elementy podlegaj±ce redystrybucji
+
+Program zawiera wymienione poni¿ej komponenty bêd±ce Elementami Podlegaj±cymi Redystrybucji. Elementy Podlegaj±ce Redystrybucji mo¿na dystrybuowaæ w formie kodu wynikowego wy³±cznie jako czê¶æ aplikacji Licencjobiorcy wnosz±cej warto¶æ dodan± opracowanej z u¿yciem Programu (zwanej dalej "Aplikacj± Licencjobiorcy") i wy³±cznie w celu umo¿liwienia u¿ywania Aplikacji Licencjobiorcy. Je¶li Elementy Podlegaj±ce Redystrybucji obejmuj± produkt Java Runtime Environment, Licencjobiorca musi równie¿ w³±czyæ do Aplikacji Licencjobiorcy Elementy Podlegaj±ce Redystrybucji inne ni¿ Java. Licencjobiorca nie mo¿e usuwaæ informacji o prawach autorskich i plików informacyjnych zawartych w Elementach Podlegaj±cych Redystrybucji ani u¿ywaæ - w zwi±zku z czynno¶ciami marketingowymi odnosz±cymi siê do Aplikacji Licencjobiorcy - nazw i znaków towarowych IBM, dostawców IBM i dystrybutorów IBM bez ich wcze¶niejszej pisemnej zgody. Umowa licencyjna Licencjobiorcy z u¿ytkownikiem musi zapewniaæ IBM ochronê co najmniej równ± zapewnianej przez warunki niniejszej Umowy.
+
+IBM, dostawcy IBM i dystrybutorzy IBM dostarczaj± Elementy Podlegaj±ce Redystrybucji oraz zwi±zan± z nimi dokumentacjê bez zobowi±zania do wsparcia i W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Nastêpuj±ce elementy stanowi± Elementy Podlegaj±ce Redystrybucji:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+W przypadku Komponentów ¬ród³owych i Materia³ów Przyk³adowych wymienionych jako Elementy Podlegaj±ce Redystrybucji Licencjobiorca mo¿e redystrybuowaæ zmodyfikowane wersje tych Komponentów ¬ród³owych i Materia³ów Przyk³adowych, zgodnie z warunkami niniejszej licencji oraz wszelkimi instrukcjami zawartymi w ewentualnej dokumentacji do³±czonej do Programu.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Wirtualny Rdzeñ Procesora
+
+Wirtualny Rdzeñ Procesora to jednostka miary, wed³ug której licencjonowany jest Program. Serwer Fizyczny to komputer fizyczny sk³adaj±cy siê z jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê ¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowych lub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (np. serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny Serwer Fizyczny. Serwer Wirtualny to komputer wirtualny utworzony poprzez spartycjonowanie zasobów Serwera Fizycznego lub niepartycjonowany Serwer Fizyczny. Rdzeñ Procesora oznacza jednostkê funkcjonaln± w komputerze, która interpretuje i wykonuje instrukcje. Rdzeñ Procesora sk³ada siê co najmniej z jednej jednostki steruj±cej oraz z jednej lub wiêkszej liczby jednostek arytmetyczno-logicznych. Wirtualny Rdzeñ Procesora to Rdzeñ Procesora w niepartycjonowanym Serwerze Fizycznym lub rdzeñ wirtualny przypisany do Serwera Wirtualnego. Licencjobiorca musi nabyæ uprawnienia dla ka¿dego Wirtualnego Rdzenia Procesora udostêpnionego dla Programu.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Serwer Wirtualny
+
+Serwer Wirtualny to jednostka miary, wed³ug której licencjonowany jest Program. Serwer to komputer fizyczny, sk³adaj±cy siêz jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowychlub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (na przyk³ad serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobów serwera fizycznego albo niespartycjonowany serwer fizyczny. Licencjobiorca musi nabyæ uprawnienia Serwera Wirtualnego dla ka¿dego serwera wirtualnego, który jest dostêpny dla Programu, bez wzglêdu na liczbê rdzeni procesorów w serwerze wirtualnym lub liczbê egzemplarzy Programu na serwerze wirtualnym.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. Natywna funkcja wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z opcji rodzimej wysokiej dostêpno¶ci (automatyczne prze³±czanie awaryjne) wchodz±cej w sk³ad Programu (zwanej dalej "Rodzim± Wysok± Dostêpno¶ci±") wymaga jej skonfigurowania na trzech serwerach. Wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ mened¿erami z Rodzim± Wysok± Dostêpno¶ci±. Nale¿y uzyskaæ licencjê na Program dla jednego serwera, nabywaj±c uprawnienia dla IBM MQ Advanced. Dwa serwery replik nie licz± siê przy ustalaniu liczby uprawnieñ wymaganych dla Programu.
+
+B. Inne funkcje wysokiej dostêpno¶ci
+
+Korzystanie przez Licencjobiorcê z innych funkcji wysokiej dostêpno¶ci (prze³±czanie awaryjne) wymaga nabycia przez Licencjobiorcê uprawnieñ dla Repliki Wysokiej Dostêpno¶ci IBM MQ lub Repliki Wysokiej Dostêpno¶ci IBM MQ Advanced (ka¿da z tych opcji zwana jest dalej "Replik± Wysokiej Dostêpno¶ci") wystarczaj±cych do spe³nienia wymagañ Licencjobiorcy w zakresie wysokiej dostêpno¶ci, okre¶lonych w warunkach oddzielnej licencji na Replikê Wysokiej Dostêpno¶ci.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ High Availability Replica
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Programy Pakietowe
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Pakietowych wskazanych poni¿ej. Do Programu Pakietowego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Pakietowego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Pakietowego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Program G³ówny i wszystkie Programy Pakietowe wchodz± w sk³ad Programu jako ca³o¶ci. Z tego powodu Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Pakietowych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Pakietowy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Pakietowy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Pakietowe:
+IBM MQ High Availability Replica
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Aspera faspio Gateway
+
+Komponenty nieu¿ywane do ustanawiania wymaganych uprawnieñ
+
+Licencjobiorca mo¿e zainstalowaæ nastêpuj±ce komponenty Programu i u¿ywaæ ich zgodnie z warunkami licencji, ale komponenty te nie mog± byæ u¿ywane do okre¶lania liczby uprawnieñ wymaganych dla Programu.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Wirtualny Rdzeñ Procesora
+
+Wirtualny Rdzeñ Procesora to jednostka miary, wed³ug której licencjonowany jest Program. Serwer Fizyczny to komputer fizyczny sk³adaj±cy siê z jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê ¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowych lub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (np. serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny Serwer Fizyczny. Serwer Wirtualny to komputer wirtualny utworzony poprzez spartycjonowanie zasobów Serwera Fizycznego lub niepartycjonowany Serwer Fizyczny. Rdzeñ Procesora oznacza jednostkê funkcjonaln± w komputerze, która interpretuje i wykonuje instrukcje. Rdzeñ Procesora sk³ada siê co najmniej z jednej jednostki steruj±cej oraz z jednej lub wiêkszej liczby jednostek arytmetyczno-logicznych. Wirtualny Rdzeñ Procesora to Rdzeñ Procesora w niepartycjonowanym Serwerze Fizycznym lub rdzeñ wirtualny przypisany do Serwera Wirtualnego. Licencjobiorca musi nabyæ uprawnienia dla ka¿dego Wirtualnego Rdzenia Procesora udostêpnionego dla Programu.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Serwer Wirtualny
+
+Serwer Wirtualny to jednostka miary, wed³ug której licencjonowany jest Program. Serwer to komputer fizyczny, sk³adaj±cy siêz jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowychlub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (na przyk³ad serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobów serwera fizycznego albo niespartycjonowany serwer fizyczny. Licencjobiorca musi nabyæ uprawnienia Serwera Wirtualnego dla ka¿dego serwera wirtualnego, który jest dostêpny dla Programu, bez wzglêdu na liczbê rdzeni procesorów w serwerze wirtualnym lub liczbê egzemplarzy Programu na serwerze wirtualnym.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. U¿ywanie Programu przez Licencjobiorcê jest ograniczone do korzystania z nastêpuj±cych opcji, zgodnie z zapisami znajduj±cymi siê poni¿ej lub w paragrafie "Inne Rozwi±zania Wysokiej Dostêpno¶ci".
+
+1. Opcja mened¿era kolejek o wielu instancjach
+
+Licencjobiorca mo¿e korzystaæ ze stanowi±cej czê¶æ Programu opcji mened¿era kolejek o wielu instancjach wy³±cznie na potrzeby Trybu Gotowo¶ci. Tryb Gotowo¶ci definiuje siê jako uruchomienie Programu przy zapewnieniu, ¿e Program pozostaje bezczynny, chyba ¿e aktywny i oddzielnie uprawniony egzemplarz programu IBM MQ prze³±czy siê awaryjnie na Program repliki wysokiej dostêpno¶ci. Je¶li tak siê stanie, Program repliki wysokiej dostêpno¶ci mo¿e byæ u¿ywany do wykonywania pracy w okresie prze³±czenia awaryjnego. Program jest uwa¿any za "bezczynny", je¶li do czasu prze³±czenia awaryjnego nie jest u¿ywany do wykonywania jakiejkolwiek pracy i jest wykorzystywany wy³±cznie do dzia³añ administracyjnych.
+
+2. Opcja wysokiej dostêpno¶ci Mened¿era Kolejek Zreplikowanych Danych
+
+Korzystanie przez Licencjobiorcê z opcji Mened¿era Kolejek Zreplikowanych Danych wchodz±cej w sk³ad Programu wymaga skonfigurowania na trzech serwerach. Wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ Mened¿erami Kolejek Zreplikowanych Danych. Dwa z serwerów mog± byæ skonfigurowane i uprawnione jako Repliki Wysokiej Dostêpno¶ci IBM MQ Advanced, ale egzemplarz IBM MQ na trzecim skonfigurowanym serwerze musi byæ licencjonowany oddzielnie przez uzyskanie uprawnieñ do IBM MQ Advanced. W przypadku korzystania z niniejszej opcji wysokiej dostêpno¶ci w po³±czeniu z replikacj± do o¶rodka odzyskiwania po awarii, trzy serwery wysokiej dostêpno¶ci w o¶rodku odzyskiwania po awarii musz± byæ równie¿ uprawnione zgodnie z powy¿szym opisem.
+
+3. Opcja odzyskiwania po awarii Mened¿era Kolejek Zreplikowanych Danych
+
+Korzystanie przez Licencjobiorcê z opcji Mened¿era Kolejek Zreplikowanych Danych wchodz±cej w sk³ad Programu wymaga skonfigurowania na dwóch serwerach. Wszystkie mened¿ery kolejek na tych dwóch serwerach musz± byæ Mened¿erami Kolejek Zreplikowanych Danych. Jeden z serwerów mo¿e byæ skonfigurowany i uprawniony jako Replika Wysokiej Dostêpno¶ci IBM MQ Advanced, ale egzemplarz IBM MQ na drugim skonfigurowanym serwerze musi byæ licencjonowany oddzielnie przez uzyskanie uprawnieñ do IBM MQ Advanced. Ta konfiguracja odzyskiwania po awarii, korzystaj±ca z dwóch serwerów jest konfiguracj± odrêbn± od wykorzystania trzech serwerów jako konfiguracji wysokiej dostêpno¶ci, nawet je¶li jest u¿ywana z replikacj± do o¶rodka odzyskiwania po awarii.
+
+B. Inne rozwi±zania wysokiej dostêpno¶ci
+
+Je¶li Licencjobiorca zdecyduje siê korzystaæ z innych rozwi±zañ wysokiej dostêpno¶ci (automatycznego prze³±czania awaryjnego) wraz z Programem, Licencjobiorca mo¿e legalnie korzystaæ z Programu jako repliki wysokiej dostêpno¶ci, o ile s³u¿y ona do celów tworzenia kopii zapasowych na serwerze rezerwowym, a Program nie jest uruchomiony. Program mo¿e byæ uruchamiany automatycznie przez komponenty wysokiej dostêpno¶ci w przypadku awarii serwera aktywnego, w którym to przypadku Program mo¿e byæ u¿ywany do wykonywania pracy w okresie prze³±czenia awaryjnego.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Elementy podlegaj±ce redystrybucji
+
+Program zawiera wymienione poni¿ej komponenty bêd±ce Elementami Podlegaj±cymi Redystrybucji. Elementy Podlegaj±ce Redystrybucji mo¿na dystrybuowaæ w formie kodu wynikowego wy³±cznie jako czê¶æ aplikacji Licencjobiorcy wnosz±cej warto¶æ dodan± opracowanej z u¿yciem Programu (zwanej dalej "Aplikacj± Licencjobiorcy") i wy³±cznie w celu umo¿liwienia u¿ywania Aplikacji Licencjobiorcy. Je¶li Elementy Podlegaj±ce Redystrybucji obejmuj± produkt Java Runtime Environment, Licencjobiorca musi równie¿ w³±czyæ do Aplikacji Licencjobiorcy Elementy Podlegaj±ce Redystrybucji inne ni¿ Java. Licencjobiorca nie mo¿e usuwaæ informacji o prawach autorskich i plików informacyjnych zawartych w Elementach Podlegaj±cych Redystrybucji ani u¿ywaæ - w zwi±zku z czynno¶ciami marketingowymi odnosz±cymi siê do Aplikacji Licencjobiorcy - nazw i znaków towarowych IBM, dostawców IBM i dystrybutorów IBM bez ich wcze¶niejszej pisemnej zgody. Umowa licencyjna Licencjobiorcy z u¿ytkownikiem musi zapewniaæ IBM ochronê co najmniej równ± zapewnianej przez warunki niniejszej Umowy.
+
+IBM, dostawcy IBM i dystrybutorzy IBM dostarczaj± Elementy Podlegaj±ce Redystrybucji oraz zwi±zan± z nimi dokumentacjê bez zobowi±zania do wsparcia i W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Nastêpuj±ce elementy stanowi± Elementy Podlegaj±ce Redystrybucji:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+W przypadku Komponentów ¬ród³owych i Materia³ów Przyk³adowych wymienionych jako Elementy Podlegaj±ce Redystrybucji Licencjobiorca mo¿e redystrybuowaæ zmodyfikowane wersje tych Komponentów ¬ród³owych i Materia³ów Przyk³adowych, zgodnie z warunkami niniejszej licencji oraz wszelkimi instrukcjami zawartymi w ewentualnej dokumentacji do³±czonej do Programu.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Instalacja
+
+Instalacja to jednostka miary, wed³ug której licencjonowany jest Program. Instalacja to zainstalowany egzemplarz Programu na dysku fizycznym lub wirtualnym, który mo¿na uruchamiaæ na komputerze. Licencjobiorca musi nabyæ uprawnienie dla ka¿dej Instalacji Programu.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Instalacja
+
+Instalacja to jednostka miary, wed³ug której licencjonowany jest Program. Instalacja to zainstalowany egzemplarz Programu na dysku fizycznym lub wirtualnym, który mo¿na uruchamiaæ na komputerze. Licencjobiorca musi nabyæ uprawnienie dla ka¿dej Instalacji Programu.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. U¿ywanie Programu przez Licencjobiorcê jest ograniczone do nastêpuj±cych funkcji, w sposób okre¶lony poni¿ej lub w paragrafie "Inne rozwi±zania wysokiej dostêpno¶ci".
+
+1. Funkcja wieloinstancyjnego mened¿era kolejek
+
+Licencjobiorca mo¿e u¿ywaæ dostêpnej w Programie funkcji wieloinstancyjnego mened¿era kolejek wy³±cznie w celach zwi±zanych ze stanem gotowo¶ci. Stan gotowo¶ci polega na tym, ¿e Program jest uruchomiony, ale pozostaje bezczynny, chyba ¿e aktywna kopia IBM MQ Programu z odrêbnymi uprawnieniami zostanie prze³±czona awaryjnie na replikê Programu o wysokiej dostêpno¶ci. W takim przypadku replikê Programu o wysokiej dostêpno¶ci mo¿na wykorzystaæ do zadañ produkcyjnych w czasie prze³±czenia awaryjnego. Program jest uwa¿any za bezczynny, je¶li (do chwili prze³±czenia awaryjnego) nie jest u¿ywany w celu wykonywania jakichkolwiek zadañ produkcyjnych, a wy³±cznie do czynno¶ci administracyjnych.
+
+2. Funkcja mened¿era kolejek zreplikowanych danych wysokiej dostêpno¶ci
+
+U¿ywanie przez Licencjobiorcê funkcji mened¿era kolejek zreplikowanych danych, która jest dostêpna w Programie, wymaga jej skonfigurowania na trzech serwerach, przy czym wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ rozwi±zaniami Replicated Data Queue Manager. Dwa z tych serwerów mo¿na skonfigurowaæ jako IBM MQ Advanced High Availability Replica z odpowiednimi uprawnieniami, ale kopia IBM MQ na trzecim skonfigurowanym serwerze wymaga odrêbnej licencji i uzyskania uprawnieñ do us³ugi IBM MQ Advanced. W przypadku u¿ywania funkcji wysokiej dostêpno¶ci w po³±czeniu z replikacj± do o¶rodka usuwania skutków awarii Licencjobiorca musi równie¿ posiadaæ uprawnienia do trzech serwerów wysokiej dostêpno¶ci w tym o¶rodku, jak opisano powy¿ej.
+
+3. Funkcja mened¿era kolejek zreplikowanych danych usuwania skutków katastrofy
+
+U¿ywanie przez Licencjobiorcê funkcji mened¿era kolejek zreplikowanych danych, która jest dostêpna w Programie, wymaga jej skonfigurowania na dwóch serwerach, przy czym wszystkie mened¿ery kolejek na tych dwóch serwerach musz± byæ rozwi±zaniami Replicated Data Queue Manager. Jeden z tych serwerów mo¿na skonfigurowaæ jako IBM MQ Advanced High Availability Replica z odpowiednimi uprawnieniami, ale kopia IBM MQ na drugim skonfigurowanym serwerze wymaga odrêbnej licencji i uzyskania uprawnieñ do us³ugi IBM MQ Advanced. Taka konfiguracja usuwania skutków awarii obejmuj±ca dwa serwery to konfiguracja osobna wzglêdem trzech serwerów w konfiguracji wysokiej dostêpno¶ci, nawet je¶li jest u¿ywana z replikacj± do o¶rodka usuwania skutków awarii.
+
+B. Inne rozwi±zania wysokiej dostêpno¶ci
+
+Je¶li Licencjobiorca chce u¿ywaæ wraz z Programem innych rozwi±zañ wysokiej dostêpno¶ci (automatycznego prze³±czania awaryjnego), mo¿e wykorzystywaæ Program jako replikê o wysokiej dostêpno¶ci, pod warunkiem ¿e jest ona zainstalowana na serwerze rezerwowym w celu tworzenia kopii zapasowych, a Program nie zosta³ uruchomiony. W przypadku awarii aktywnego serwera Program mo¿e zostaæ uruchomiony automatycznie za pomoc± komponentów o wysokiej dostêpno¶ci. Wówczas mo¿na go u¿ywaæ do zadañ produkcyjnych przez czas prze³±czenia awaryjnego.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+WA¯NE INFORMACJE - PROSIMY PRZECZYTAÆ UWA¯NIE
+
+Poni¿ej przedstawione s± dwie umowy licencyjne:
+
+1. Miêdzynarodowa Umowa Licencyjna IBM na Próbne U¿ywanie Programów
+2. Miêdzynarodowa Umowa Licencyjna IBM na Program
+
+Je¶li Licencjobiorca nabywa Program w celu u¿ywania w procesie produkcyjnym (a nie w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Je¶li Licencjobiorca nabywa Program w celu oceny, testowania, próbnego u¿ywania w programie "try or buy" czy te¿ demonstracji (zwanych ³±cznie "Próbnym U¿ywaniem"), to klikaj±c poni¿szy przycisk "Akceptujê", potwierdza zaakceptowanie zarówno (i) Miêdzynarodowej Umowy Licencyjnej na Próbne U¿ywanie Programów IBM (zwanej dalej "Licencj± na Próbne U¿ywanie") bez modyfikacji jak i (ii) Miêdzynarodowej Umowy Licencyjnej IBM na Program bez modyfikacji.
+
+Licencja na Próbne U¿ywanie bêdzie obowi±zywaæ przez ca³y okres Próbnego U¿ywania.
+
+Miêdzynarodowa Umowa Licencyjna na Program zacznie automatycznie obowi±zywaæ, je¶li Licencjobiorca zdecyduje siê zatrzymaæ Program po zakoñczeniu Próbnego U¿ywania (lub nabêdzie dodatkowe egzemplarze Programu w celu u¿ywania po zakoñczeniu Próbnego U¿ywania), zawieraj±c umowê kupna (tak± jak Miêdzynarodowa Umowa IBM Passport Advantage lub Miêdzynarodowa Umowa IBM Passport Advantage Express).
+
+Licencja na Próbne U¿ywanie oraz Miêdzynarodowa Umowa Licencyjna na Program nie obowi±zuj± jednocze¶nie; ¿adna z nich nie modyfikuje drugiej i nie jest od niej zale¿na.
+
+Poni¿ej znajduje siê pe³ny tekst obu tych umów licencyjnych.
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Próbne U¿ywanie Programów (i125-5543-06).
+
+Nazwa Programu (Numer Programu):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Okres próbnego u¿ywania
+
+Okres próbnego u¿ywania rozpoczyna siê w dniu, w którym Licencjobiorca wyrazi³ zgodê na warunki niniejszej Umowy i koñczy siê po liczbie dni równej 90.
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponenty dozwolone
+
+Licencjobiorca jest upowa¿niony do u¿ywania jedynie nastêpuj±cych komponentów lub funkcji okre¶lonego Programu Pakietowego lub Programu Wspieraj±cego:
+IBM MQ Tracing
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Programy Wspieraj±ce
+
+Licencjobiorca jest upowa¿niony do zainstalowania i u¿ywania Programów Wspieraj±cych wskazanych poni¿ej jedynie w celu umo¿liwienia Licencjobiorcy u¿ywania Programu G³ównego w ramach niniejszej Umowy. Fraza "w celu umo¿liwienia Licencjobiorcy u¿ywania" obejmuje jedynie te zastosowania, które s± niezbêdne do licencjonowanego u¿ywania Programu G³ównego lub innego Programu Wspieraj±cego albo bezpo¶rednio zwi±zane z takim licencjonowanym u¿ywaniem. Programów Wspieraj±cych nie mo¿na wykorzystywaæ do jakichkolwiek innych celów. Do Programu Wspieraj±cego mog± byæ do³±czone warunki licencji. W takim przypadku warunki te maj± zastosowanie do u¿ywania takiego Programu Wspieraj±cego przez Licencjobiorcê. W przypadku sprzeczno¶ci miêdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspieraj±cego znaczenie rozstrzygaj±ce maj± warunki niniejszych Informacji licencyjnych. Licencjobiorca musi uzyskaæ uprawnienia do Programu (jako ca³o¶ci) w liczbie odpowiadaj±cej instalacjom i u¿ywaniu przez Licencjobiorcê wszystkich Programów Wspieraj±cych, chyba ¿e w niniejszym dokumencie "Informacje licencyjne" okre¶lono odrêbne uprawnienia. Na przyk³ad je¶li niniejszy Program jest licencjonowany wed³ug Wirtualnych Rdzeni Procesora, a Licencjobiorca bêdzie chcia³ zainstalowaæ Program G³ówny lub Program Wspieraj±cy na maszynie z 10 Wirtualnymi Rdzeniami Procesora oraz kolejny Program Wspieraj±cy na drugiej maszynie z 10 Wirtualnymi Rdzeniami Procesora, to Licencjobiorca musi uzyskaæ 20 uprawnieñ dla Wirtualnych Rdzeni Procesora do Programu.
+
+Programy Wspieraj±ce:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponenty dozwolone
+
+Licencjobiorca jest upowa¿niony do u¿ywania jedynie nastêpuj±cych komponentów lub funkcji okre¶lonego Programu Pakietowego lub Programu Wspieraj±cego:
+IBM MQ Tracing
+
+Komponenty nieu¿ywane do ustanawiania wymaganych uprawnieñ
+
+Licencjobiorca mo¿e zainstalowaæ nastêpuj±ce komponenty Programu i u¿ywaæ ich zgodnie z warunkami licencji, ale komponenty te nie mog± byæ u¿ywane do okre¶lania liczby uprawnieñ wymaganych dla Programu.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+Poni¿sze jednostki miary maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Procesorowa Jednostka Warto¶ci
+
+Procesorowa Jednostka Warto¶ci (Processor Value Unit, zwana dalej "PVU") to jednostka miary, wed³ug której licencjonowany jest Program. Liczba wymaganych uprawnieñ PVU zale¿y od technologii procesorowej (zdefiniowanej w ramach licencjonowania wed³ug jednostek PVU w serwisie WWW oprogramowania pod adresem https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) oraz od liczby procesorów udostêpnionych dla Programu. Na potrzeby licencjonowania w oparciu o jednostki PVU, IBM w dalszym ci±gu definiuje jako procesor ka¿dy rdzeñ procesora w uk³adzie scalonym. I tak na przyk³ad procesor dwurdzeniowy traktowany jest jako dwa procesory.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Wirtualny Rdzeñ Procesora
+
+Wirtualny Rdzeñ Procesora to jednostka miary, wed³ug której licencjonowany jest Program. Serwer Fizyczny to komputer fizyczny sk³adaj±cy siê z jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê ¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowych lub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (np. serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny Serwer Fizyczny. Serwer Wirtualny to komputer wirtualny utworzony poprzez spartycjonowanie zasobów Serwera Fizycznego lub niepartycjonowany Serwer Fizyczny. Rdzeñ Procesora oznacza jednostkê funkcjonaln± w komputerze, która interpretuje i wykonuje instrukcje. Rdzeñ Procesora sk³ada siê co najmniej z jednej jednostki steruj±cej oraz z jednej lub wiêkszej liczby jednostek arytmetyczno-logicznych. Wirtualny Rdzeñ Procesora to Rdzeñ Procesora w niepartycjonowanym Serwerze Fizycznym lub rdzeñ wirtualny przypisany do Serwera Wirtualnego. Licencjobiorca musi nabyæ uprawnienia dla ka¿dego Wirtualnego Rdzenia Procesora udostêpnionego dla Programu.
+
+Licencjobiorca mo¿e zainstalowaæ Program (je¶li jest obs³ugiwany) z licencjonowaniem wed³ug pe³nej mocy obliczeniowej, ograniczonej mocy obliczeniowej (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) lub wed³ug kontenerów(https://www.ibm.com/software/passportadvantage/containerlicenses.html). Wiêcej informacji na ten temat mo¿na znale¼æ w serwisach WWW, do których kieruj± podane odsy³acze.
+
+Serwer Wirtualny
+
+Serwer Wirtualny to jednostka miary, wed³ug której licencjonowany jest Program. Serwer to komputer fizyczny, sk³adaj±cy siêz jednostek przetwarzaj±cych, pamiêci i funkcji wej¶cia/wyj¶cia, na którym wykonuje siê¿±dane procedury lub komendy albo uruchamia aplikacje na u¿ytek u¿ytkowników koñcowychlub urz±dzeñ klienckich. W przypadku wykorzystania stela¿y przemys³owych, obudów na serwery kasetowe czy innych podobnych urz±dzeñ ka¿de oddzielne urz±dzenie fizyczne (na przyk³ad serwer kasetowy czy urz±dzenie instalowane w stela¿u), które ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobów serwera fizycznego albo niespartycjonowany serwer fizyczny. Licencjobiorca musi nabyæ uprawnienia Serwera Wirtualnego dla ka¿dego serwera wirtualnego, który jest dostêpny dla Programu, bez wzglêdu na liczbê rdzeni procesorów w serwerze wirtualnym lub liczbê egzemplarzy Programu na serwerze wirtualnym.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+A. U¿ywanie Programu przez Licencjobiorcê jest ograniczone do korzystania z nastêpuj±cych opcji, zgodnie z zapisami znajduj±cymi siê poni¿ej lub w paragrafie "Inne Rozwi±zania Wysokiej Dostêpno¶ci".
+
+1. Opcja mened¿era kolejek o wielu instancjach
+
+Licencjobiorca mo¿e korzystaæ ze stanowi±cej czê¶æ Programu opcji mened¿era kolejek o wielu instancjach wy³±cznie na potrzeby Trybu Gotowo¶ci. Tryb Gotowo¶ci definiuje siê jako uruchomienie Programu przy zapewnieniu, ¿e Program pozostaje bezczynny, chyba ¿e aktywny i oddzielnie uprawniony egzemplarz programu IBM MQ prze³±czy siê awaryjnie na Program repliki wysokiej dostêpno¶ci. Je¶li tak siê stanie, Program repliki wysokiej dostêpno¶ci mo¿e byæ u¿ywany do wykonywania pracy w okresie prze³±czenia awaryjnego. Program jest uwa¿any za "bezczynny", je¶li do czasu prze³±czenia awaryjnego nie jest u¿ywany do wykonywania jakiejkolwiek pracy i jest wykorzystywany wy³±cznie do dzia³añ administracyjnych.
+
+2. Opcja wysokiej dostêpno¶ci Mened¿era Kolejek Zreplikowanych Danych
+
+Korzystanie przez Licencjobiorcê z opcji Mened¿era Kolejek Zreplikowanych Danych wchodz±cej w sk³ad Programu wymaga skonfigurowania na trzech serwerach. Wszystkie mened¿ery kolejek na tych trzech serwerach musz± byæ Mened¿erami Kolejek Zreplikowanych Danych. Dwa z serwerów mog± byæ skonfigurowane i uprawnione jako Repliki Wysokiej Dostêpno¶ci IBM MQ Advanced, ale egzemplarz IBM MQ na trzecim skonfigurowanym serwerze musi byæ licencjonowany oddzielnie przez uzyskanie uprawnieñ do IBM MQ Advanced. W przypadku korzystania z niniejszej opcji wysokiej dostêpno¶ci w po³±czeniu z replikacj± do o¶rodka odzyskiwania po awarii, trzy serwery wysokiej dostêpno¶ci w o¶rodku odzyskiwania po awarii musz± byæ równie¿ uprawnione zgodnie z powy¿szym opisem.
+
+3. Opcja odzyskiwania po awarii Mened¿era Kolejek Zreplikowanych Danych
+
+Korzystanie przez Licencjobiorcê z opcji Mened¿era Kolejek Zreplikowanych Danych wchodz±cej w sk³ad Programu wymaga skonfigurowania na dwóch serwerach. Wszystkie mened¿ery kolejek na tych dwóch serwerach musz± byæ Mened¿erami Kolejek Zreplikowanych Danych. Jeden z serwerów mo¿e byæ skonfigurowany i uprawniony jako Replika Wysokiej Dostêpno¶ci IBM MQ Advanced, ale egzemplarz IBM MQ na drugim skonfigurowanym serwerze musi byæ licencjonowany oddzielnie przez uzyskanie uprawnieñ do IBM MQ Advanced. Ta konfiguracja odzyskiwania po awarii, korzystaj±ca z dwóch serwerów jest konfiguracj± odrêbn± od wykorzystania trzech serwerów jako konfiguracji wysokiej dostêpno¶ci, nawet je¶li jest u¿ywana z replikacj± do o¶rodka odzyskiwania po awarii.
+
+B. Inne rozwi±zania wysokiej dostêpno¶ci
+
+Je¶li Licencjobiorca zdecyduje siê korzystaæ z innych rozwi±zañ wysokiej dostêpno¶ci (automatycznego prze³±czania awaryjnego) wraz z Programem, Licencjobiorca mo¿e legalnie korzystaæ z Programu jako repliki wysokiej dostêpno¶ci, o ile s³u¿y ona do celów tworzenia kopii zapasowych na serwerze rezerwowym, a Program nie jest uruchomiony. Program mo¿e byæ uruchamiany automatycznie przez komponenty wysokiej dostêpno¶ci w przypadku awarii serwera aktywnego, w którym to przypadku Program mo¿e byæ u¿ywany do wykonywania pracy w okresie prze³±czenia awaryjnego.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

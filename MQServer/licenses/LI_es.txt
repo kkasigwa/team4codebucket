@@ -1,0 +1,1125 @@
+AVISO
+
+Este documento incluye a continuación documentos de Información sobre Licencia para varios Programas. Cada documento de Información sobre Licencia identifica el Programa o Programas a los que se aplica. Sólo se aplican los documentos de Información sobre Licencia para el Programa o Programas para los cuales el Licenciatario haya adquirido autorizaciones.
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Observability by Instana Application Performance Monitoring
+
+Componentes Permitidos
+
+El Licenciatario únicamente está autorizado para utilizar los siguientes componentes o funciones del Programa Empaquetado o de Soporte identificado:
+IBM MQ Tracing
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Observability by Instana Application Performance Monitoring
+
+Componentes Permitidos
+
+El Licenciatario únicamente está autorizado para utilizar los siguientes componentes o funciones del Programa Empaquetado o de Soporte identificado:
+IBM MQ Tracing
+
+Limitación de No producción
+
+Si el Programa se conoce como de "No producción", el Licenciatario solo puede utilizar el Programa como parte del entorno de desarrollo interno y de las pruebas del Licenciatario en actividades internas de no producción.
+
+Componentes No Utilizados para Establecer Autorizaciones Necesarias
+
+El Licenciatario puede instalar y utilizar los siguientes componentes del Programa, de conformidad con los términos de la licencia, pero estos componentes no se utilizarán para determinar el número de autorizaciones requeridas para el Programa.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Redistribuibles
+
+El Programa incluye componentes que son Redistribuibles y se listan a continuación. Los Redistribuibles se pueden distribuir únicamente, en formato de código de objeto, como parte de la aplicación de valor añadido del Licenciatario que se desarrolló utilizando el Programa ("Aplicación del Licenciatario") y únicamente para ofrecer soporte a la Aplicación del Licenciatario. Si los Redistribuibles incluyen Java Runtime Environment, el Licenciatario también debe incluir otros redistribuibles no Java con la Aplicación del Licenciatario. El Licenciatario no puede eliminar el copyright ni los archivos de aviso incluidos en los Redistribuibles, así como tampoco utilizar el nombre ni las marcas registradas de IBM, de sus proveedores, ni de sus distribuidores en relación con la comercialización de la Aplicación del Licenciatario sin el previo consentimiento por escrito de IBM o de dicho proveedor o distribuidor. El acuerdo de licencia del Licenciatario con el usuario final deberá proteger a IBM al igual, como mínimo, que los términos de este Acuerdo.
+
+IBM, sus proveedores y sus distribuidores proporcionan los Redistribuibles y la documentación relacionada sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O TÁCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS, LA GARANTÍA DE NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES TÁCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Los siguientes son redistribuibles:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Para los Componentes en Código Fuente y los Materiales de muestra que aparecen en la lista anterior Redistribuibles, el Licenciatario puede redistribuir las versiones modificadas de dichos Componentes en Código Fuente o Materiales de muestra que sean coherentes con los términos de la presente licencia y con las instrucciones de la documentación que acompaña al Programa, si hay.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Núcleo de Procesador Virtual
+
+Núcleo de Procesador Virtual es una unidad de medida por la que se puede obtener licencia para el Programa. Un Servidor Físico es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor físico independiente. Un Servidor Virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico o en un servidor físico no particionado. Un Núcleo de procesador es una unidad funcional de un dispositivo informático que interpreta y ejecuta instrucciones. Un Núcleo de Procesador se compone de, al menos, una unidad de control de instrucciones y una o varias unidades lógicas o aritméticas. Un Núcleo de Procesador Virtual es un Núcleo de Procesador de un Servidor Físico no particionado, o un núcleo virtual asignado a un Servidor Virtual. El Licenciatario debe obtener autorizaciones para cada Núcleo de Procesador Virtual que se pone a disposición del Programa.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Servidor Virtual
+
+Servidor Virtual es una unidad de medida por la que se puede licenciar el Programa. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado. El Licenciatario debe obtener autorizaciones de Servidor Virtual para cada servidor virtual que esté disponible para el Programa, independientemente de la cantidad de núcleos de procesador o del número de copias del Programa en el servidor virtual.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+R Función de alta disponibilidad nativa
+
+El uso por parte del Licenciatario de la función de alta disponibilidad nativa (migración tras error automática) del Programa ("Alta disponibilidad nativa") requiere la configuración en tres servidores y requiere que todos los gestores de colas de los tres servidores sean Gestores de colas de alta disponibilidad nativa. El Programa debe tener licencia en un servidor mediante la obtención de titularidades para IBM MQ Advanced, pero los dos servidores de réplica no se utilizan para determinar el número de titularidades necesarias para el Programa.
+
+B. Otras funciones de alta disponibilidad
+
+El uso por parte del Licenciatario de otras funciones de alta disponibilidad (migración tras error automática) requerirán que el Licenciatario obtenga derechos de titularidad suficientes sobre IBM MQ High Availability Replica o IBM MQ Advanced High Availability Replica (cada una una "Réplica de alta disponibilidad") para cubrir los requisitos de alta disponibilidad del Licenciatario tal como se describe en los términos de licencia independientes que acompañan a la Réplica de alta disponibilidad.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Componentes No Utilizados para Establecer Autorizaciones Necesarias
+
+El Licenciatario puede instalar y utilizar los siguientes componentes del Programa, de conformidad con los términos de la licencia, pero estos componentes no se utilizarán para determinar el número de autorizaciones requeridas para el Programa.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Redistribuibles
+
+El Programa incluye componentes que son Redistribuibles y se listan a continuación. Los Redistribuibles se pueden distribuir únicamente, en formato de código de objeto, como parte de la aplicación de valor añadido del Licenciatario que se desarrolló utilizando el Programa ("Aplicación del Licenciatario") y únicamente para ofrecer soporte a la Aplicación del Licenciatario. Si los Redistribuibles incluyen Java Runtime Environment, el Licenciatario también debe incluir otros redistribuibles no Java con la Aplicación del Licenciatario. El Licenciatario no puede eliminar el copyright ni los archivos de aviso incluidos en los Redistribuibles, así como tampoco utilizar el nombre ni las marcas registradas de IBM, de sus proveedores, ni de sus distribuidores en relación con la comercialización de la Aplicación del Licenciatario sin el previo consentimiento por escrito de IBM o de dicho proveedor o distribuidor. El acuerdo de licencia del Licenciatario con el usuario final deberá proteger a IBM al igual, como mínimo, que los términos de este Acuerdo.
+
+IBM, sus proveedores y sus distribuidores proporcionan los Redistribuibles y la documentación relacionada sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O TÁCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS, LA GARANTÍA DE NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES TÁCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Los siguientes son redistribuibles:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Para los Componentes en Código Fuente y los Materiales de muestra que aparecen en la lista anterior Redistribuibles, el Licenciatario puede redistribuir las versiones modificadas de dichos Componentes en Código Fuente o Materiales de muestra que sean coherentes con los términos de la presente licencia y con las instrucciones de la documentación que acompaña al Programa, si hay.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Núcleo de Procesador Virtual
+
+Núcleo de Procesador Virtual es una unidad de medida por la que se puede obtener licencia para el Programa. Un Servidor Físico es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor físico independiente. Un Servidor Virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico o en un servidor físico no particionado. Un Núcleo de procesador es una unidad funcional de un dispositivo informático que interpreta y ejecuta instrucciones. Un Núcleo de Procesador se compone de, al menos, una unidad de control de instrucciones y una o varias unidades lógicas o aritméticas. Un Núcleo de Procesador Virtual es un Núcleo de Procesador de un Servidor Físico no particionado, o un núcleo virtual asignado a un Servidor Virtual. El Licenciatario debe obtener autorizaciones para cada Núcleo de Procesador Virtual que se pone a disposición del Programa.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Servidor Virtual
+
+Servidor Virtual es una unidad de medida por la que se puede licenciar el Programa. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado. El Licenciatario debe obtener autorizaciones de Servidor Virtual para cada servidor virtual que esté disponible para el Programa, independientemente de la cantidad de núcleos de procesador o del número de copias del Programa en el servidor virtual.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+R Función de alta disponibilidad nativa
+
+El uso por parte del Licenciatario de la función de alta disponibilidad nativa (migración tras error automática) del Programa ("Alta disponibilidad nativa") requiere la configuración en tres servidores y requiere que todos los gestores de colas de los tres servidores sean Gestores de colas de alta disponibilidad nativa. El Programa debe tener licencia en un servidor mediante la obtención de titularidades para IBM MQ Advanced, pero los dos servidores de réplica no se utilizan para determinar el número de titularidades necesarias para el Programa.
+
+B. Otras funciones de alta disponibilidad
+
+El uso por parte del Licenciatario de otras funciones de alta disponibilidad (migración tras error automática) requerirán que el Licenciatario obtenga derechos de titularidad suficientes sobre IBM MQ High Availability Replica o IBM MQ Advanced High Availability Replica (cada una una "Réplica de alta disponibilidad") para cubrir los requisitos de alta disponibilidad del Licenciatario tal como se describe en los términos de licencia independientes que acompañan a la Réplica de alta disponibilidad.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ for Non-Production Environment 9.4
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ for Non-Production Environment 9.4
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Limitación de No producción
+
+Si el Programa se conoce como de "No producción", el Licenciatario solo puede utilizar el Programa como parte del entorno de desarrollo interno y de las pruebas del Licenciatario en actividades internas de no producción.
+
+Componentes No Utilizados para Establecer Autorizaciones Necesarias
+
+El Licenciatario puede instalar y utilizar los siguientes componentes del Programa, de conformidad con los términos de la licencia, pero estos componentes no se utilizarán para determinar el número de autorizaciones requeridas para el Programa.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Redistribuibles
+
+El Programa incluye componentes que son Redistribuibles y se listan a continuación. Los Redistribuibles se pueden distribuir únicamente, en formato de código de objeto, como parte de la aplicación de valor añadido del Licenciatario que se desarrolló utilizando el Programa ("Aplicación del Licenciatario") y únicamente para ofrecer soporte a la Aplicación del Licenciatario. Si los Redistribuibles incluyen Java Runtime Environment, el Licenciatario también debe incluir otros redistribuibles no Java con la Aplicación del Licenciatario. El Licenciatario no puede eliminar el copyright ni los archivos de aviso incluidos en los Redistribuibles, así como tampoco utilizar el nombre ni las marcas registradas de IBM, de sus proveedores, ni de sus distribuidores en relación con la comercialización de la Aplicación del Licenciatario sin el previo consentimiento por escrito de IBM o de dicho proveedor o distribuidor. El acuerdo de licencia del Licenciatario con el usuario final deberá proteger a IBM al igual, como mínimo, que los términos de este Acuerdo.
+
+IBM, sus proveedores y sus distribuidores proporcionan los Redistribuibles y la documentación relacionada sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O TÁCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS, LA GARANTÍA DE NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES TÁCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Los siguientes son redistribuibles:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Para los Componentes en Código Fuente y los Materiales de muestra que aparecen en la lista anterior Redistribuibles, el Licenciatario puede redistribuir las versiones modificadas de dichos Componentes en Código Fuente o Materiales de muestra que sean coherentes con los términos de la presente licencia y con las instrucciones de la documentación que acompaña al Programa, si hay.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Núcleo de Procesador Virtual
+
+Núcleo de Procesador Virtual es una unidad de medida por la que se puede obtener licencia para el Programa. Un Servidor Físico es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor físico independiente. Un Servidor Virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico o en un servidor físico no particionado. Un Núcleo de procesador es una unidad funcional de un dispositivo informático que interpreta y ejecuta instrucciones. Un Núcleo de Procesador se compone de, al menos, una unidad de control de instrucciones y una o varias unidades lógicas o aritméticas. Un Núcleo de Procesador Virtual es un Núcleo de Procesador de un Servidor Físico no particionado, o un núcleo virtual asignado a un Servidor Virtual. El Licenciatario debe obtener autorizaciones para cada Núcleo de Procesador Virtual que se pone a disposición del Programa.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Servidor Virtual
+
+Servidor Virtual es una unidad de medida por la que se puede licenciar el Programa. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado. El Licenciatario debe obtener autorizaciones de Servidor Virtual para cada servidor virtual que esté disponible para el Programa, independientemente de la cantidad de núcleos de procesador o del número de copias del Programa en el servidor virtual.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+R Función de alta disponibilidad nativa
+
+El uso por parte del Licenciatario de la función de alta disponibilidad nativa (migración tras error automática) del Programa ("Alta disponibilidad nativa") requiere la configuración en tres servidores y requiere que todos los gestores de colas de los tres servidores sean Gestores de colas de alta disponibilidad nativa. El Programa debe tener licencia en un servidor mediante la obtención de titularidades para IBM MQ Advanced, pero los dos servidores de réplica no se utilizan para determinar el número de titularidades necesarias para el Programa.
+
+B. Otras funciones de alta disponibilidad
+
+El uso por parte del Licenciatario de otras funciones de alta disponibilidad (migración tras error automática) requerirán que el Licenciatario obtenga derechos de titularidad suficientes sobre IBM MQ High Availability Replica o IBM MQ Advanced High Availability Replica (cada una una "Réplica de alta disponibilidad") para cubrir los requisitos de alta disponibilidad del Licenciatario tal como se describe en los términos de licencia independientes que acompañan a la Réplica de alta disponibilidad.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ High Availability Replica
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Programas Empaquetados
+
+El Licenciatario está autorizado para instalar y utilizar los Programas Empaquetados identificados a continuación. Un Programa Empaquetado puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa Empaquetado por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa Empaquetado. El Programa Principal y cualquier Programa Empaquetado forman todos parte del Programa, en su totalidad.Por lo tanto, el Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso de todos los Programas Empaquetados, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia. Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa Empaquetado en una máquina de 10 VPC y otro Programa Empaquetado en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas Empaquetados:
+IBM MQ High Availability Replica
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Aspera faspio Gateway
+
+Componentes No Utilizados para Establecer Autorizaciones Necesarias
+
+El Licenciatario puede instalar y utilizar los siguientes componentes del Programa, de conformidad con los términos de la licencia, pero estos componentes no se utilizarán para determinar el número de autorizaciones requeridas para el Programa.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Núcleo de Procesador Virtual
+
+Núcleo de Procesador Virtual es una unidad de medida por la que se puede obtener licencia para el Programa. Un Servidor Físico es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor físico independiente. Un Servidor Virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico o en un servidor físico no particionado. Un Núcleo de procesador es una unidad funcional de un dispositivo informático que interpreta y ejecuta instrucciones. Un Núcleo de Procesador se compone de, al menos, una unidad de control de instrucciones y una o varias unidades lógicas o aritméticas. Un Núcleo de Procesador Virtual es un Núcleo de Procesador de un Servidor Físico no particionado, o un núcleo virtual asignado a un Servidor Virtual. El Licenciatario debe obtener autorizaciones para cada Núcleo de Procesador Virtual que se pone a disposición del Programa.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Servidor Virtual
+
+Servidor Virtual es una unidad de medida por la que se puede licenciar el Programa. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado. El Licenciatario debe obtener autorizaciones de Servidor Virtual para cada servidor virtual que esté disponible para el Programa, independientemente de la cantidad de núcleos de procesador o del número de copias del Programa en el servidor virtual.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+R El uso del Programa por parte del Licenciatario está limitado al uso de las siguientes funciones tal como se indica a continuación o en la sección Otras soluciones de alta disponibilidad.
+
+1. 1. Función de gestor de colas multiinstancia
+
+El Licenciatario puede utilizar la función de gestor de colas multiinstancia del Programa solo con finalidades de modalidad En espera. La modalidad En espera es aquella en la que el Programa se inicia, pero permanece inactivo a menos que la copia IBM MW del programa con autorización independiente y activa falle en el Programa de réplica de alta disponibilidad. Si esto ocurre, se puede utilizar el Programa de réplica de alta disponibilidad para llevar a cabo trabajos de producción durante el período de migración tras error El Programa se considera "inactivo" si, hasta que se produzca la migración tras error, no se utiliza para llevar a cabo tareas de producción de cualquier tipo y se utiliza exclusivamente para acciones administrativas.
+
+2. Función de alta disponibilidad del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en tres servidores y que todos los gestores de colas de los tres servidores sean Gestores de colas de datos replicados. Dos de los servidores pueden configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Al utilizar esta función de alta disponibilidad junto con réplica en un sitio de recuperación ante desastre, los tres servidores de alta disponibilidad en el sitio de recuperación ante desastre también deben estar autorizados tal como se describe arriba.
+
+3. Función de recuperación ante desastre del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en dos servidores y que todos los gestores de colas de los dos servidores sean Gestores de colas de datos replicados. Uno de los servidores puede configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Esta configuración de recuperación ante desastre de dos servidores es una configuración independiente de la utilización de tres servidores como una configuración de alta disponibilidad, incluso en el caso de que se utilice con réplica en un sitio de recuperación ante desastre.
+
+B. Otras soluciones de alta disponibilidad
+
+Si el Licenciatario decide utilizar otras soluciones de alta disponibilidad junto con el Programa, el Licenciatario podrá utilizar el Programa como una réplica de alta disponibilidad siempre que resida, por razones de copia de seguridad, en un servidor en espera y que no se haya iniciado el Programa. El Programa se puede iniciar de forma automática mediante componentes de alta disponibilidad en caso de fallo del servidor activo, en cuyo caso se puede utilizar el Programa para llevar a cabo trabajos de producción durante el período de migración tras error.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Redistribuibles
+
+El Programa incluye componentes que son Redistribuibles y se listan a continuación. Los Redistribuibles se pueden distribuir únicamente, en formato de código de objeto, como parte de la aplicación de valor añadido del Licenciatario que se desarrolló utilizando el Programa ("Aplicación del Licenciatario") y únicamente para ofrecer soporte a la Aplicación del Licenciatario. Si los Redistribuibles incluyen Java Runtime Environment, el Licenciatario también debe incluir otros redistribuibles no Java con la Aplicación del Licenciatario. El Licenciatario no puede eliminar el copyright ni los archivos de aviso incluidos en los Redistribuibles, así como tampoco utilizar el nombre ni las marcas registradas de IBM, de sus proveedores, ni de sus distribuidores en relación con la comercialización de la Aplicación del Licenciatario sin el previo consentimiento por escrito de IBM o de dicho proveedor o distribuidor. El acuerdo de licencia del Licenciatario con el usuario final deberá proteger a IBM al igual, como mínimo, que los términos de este Acuerdo.
+
+IBM, sus proveedores y sus distribuidores proporcionan los Redistribuibles y la documentación relacionada sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O TÁCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS, LA GARANTÍA DE NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES TÁCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Los siguientes son redistribuibles:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Para los Componentes en Código Fuente y los Materiales de muestra que aparecen en la lista anterior Redistribuibles, el Licenciatario puede redistribuir las versiones modificadas de dichos Componentes en Código Fuente o Materiales de muestra que sean coherentes con los términos de la presente licencia y con las instrucciones de la documentación que acompaña al Programa, si hay.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Instalación
+
+Una Instalación es una unidad de medida por la que se puede licenciar el Programa. Una Instalación es una copia instalada del Programa en un disco físico o virtual que se pone a disposición para ejecutarse en un sistema. El Licenciatario debe obtener una autorización para cada Instalación del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Instalación
+
+Una Instalación es una unidad de medida por la que se puede licenciar el Programa. Una Instalación es una copia instalada del Programa en un disco físico o virtual que se pone a disposición para ejecutarse en un sistema. El Licenciatario debe obtener una autorización para cada Instalación del Programa.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+A. El uso del Programa por parte del Licenciatario está limitado al uso de las siguientes funciones tal como se indica a continuación o tal como se indica en la sección Otras soluciones de alta disponibilidad.
+
+1. Función de gestor de colas multiinstancia
+
+El Licenciatario puede utilizar la función de gestor de colas multiinstancia del Programa solo con finalidades de modalidad En espera. La modalidad En espera es aquella en la que el Programa se inicia, pero permanece inactivo a menos que la copia IBM MW del programa con autorización independiente y activa falle en el Programa de réplica de alta disponibilidad. Si esto ocurre, se puede utilizar el Programa de réplica de alta disponibilidad para llevar a cabo trabajos de producción durante el período de migración tras error. El Programa se considera &quot;inactivo&quot; si, hasta que se produzca la migración tras error, no se utiliza para llevar a cabo tareas de producción de cualquier tipo y se utiliza exclusivamente para acciones administrativas.
+
+2. Función de alta disponibilidad del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en tres servidores y que todos los gestores de colas de los tres servidores sean Gestores de colas de datos replicados. Dos de los servidores pueden configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Al utilizar esta función de alta disponibilidad junto con réplica en un sitio de recuperación ante desastre, los tres servidores de alta disponibilidad en el sitio de recuperación ante desastre también deben estar autorizados tal como se describe arriba.
+
+3. Función de recuperación ante desastre del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en dos servidores y que todos los gestores de colas de los dos servidores sean Gestores de colas de datos replicados. Uno de los servidores puede configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Esta configuración de recuperación ante desastre de dos servidores es una configuración independiente de la utilización de tres servidores como una configuración de alta disponibilidad, incluso en el caso de que se utilice con réplica en un sitio de recuperación ante desastre.
+
+B. Otras soluciones de alta disponibilidad
+
+Si el Licenciatario decide utilizar otras soluciones de alta disponibilidad junto con el Programa, el Licenciatario podrá utilizar el Programa como una réplica de alta disponibilidad siempre que resida, por razones de copia de seguridad, en un servidor en espera y que no se haya iniciado el Programa. El Programa se puede iniciar de forma automática mediante componentes de alta disponibilidad en caso de fallo del servidor activo, en cuyo caso se puede utilizar el Programa para llevar a cabo trabajos de producción durante el período de migración tras error.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+IMPORTANTE: LEER DETENIDAMENTE
+
+A continuación se presentan dos acuerdos de licencia.
+
+1. Acuerdo Internacional de Licencia para la Evaluación de Programas de IBM
+2. Acuerdo Internacional de Programas bajo Licencia de IBM
+
+Si el Licenciatario obtiene el Programa con finalidades de uso productivo (que no sean de evaluación, realización de pruebas, prueba "try or buy" o demostración): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el Acuerdo Internacional de Programas bajo Licencia de IBM, sin modificación.
+
+Si el Licenciatario obtiene el Programa con finalidades de evaluación, realización de pruebas, prueba "try or buy" o demostración (colectivamente, una "Evaluación"): Al pulsar el botón "Aceptar" a continuación, el Licenciatario acepta el (i) Acuerdo Internacional de Licencia para Evaluación de Programas de IBM (la "Licencia de Evaluación"), sin modificación; y (ii) el Acuerdo Internacional de Programas bajo Licencia de IBM (el "IPLA"), sin modificación.
+
+La Licencia de Evaluación se aplicará durante el plazo de la Evaluación del Licenciatario.
+
+El IPLA se aplicará automáticamente si el Licenciatario elige conservar el Programa después de la Evaluación (o obtener copias adicionales del Programa para su uso después de la Evaluación) suscribiendo un acuerdo de adquisición (por ejemplo, los acuerdos International Passport Advantage de IBM o Passport Advantage Express de IBM).
+
+La Licencia de Evaluación y el IPLA no se aplican simultáneamente, ni se modifican entre ellos y son independientes entre sí.
+
+A continuación se ofrece el texto completo de cada uno de estos acuerdos de licencia.
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Evaluación de Programas (i125-5543-06).
+
+Nombre de Programa (Número de Programa):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Evaluación
+
+El periodo de evaluación comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará después de 90 días.
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Observability by Instana Application Performance Monitoring
+
+Componentes Permitidos
+
+El Licenciatario únicamente está autorizado para utilizar los siguientes componentes o funciones del Programa Empaquetado o de Soporte identificado:
+IBM MQ Tracing
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de licencia de programa (i125-3301-15).
+
+Nombre de Programa (Número de Programa):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Programas de Soporte
+
+El Licenciatario está autorizado para instalar y utilizar los Programas de Soporte identificados a continuación solo para dar soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo. La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. El Licenciatario debe obtener suficientes autorizaciones para el Programa, en su totalidad, a fin de dar cobertura a la instalación y uso del Licenciatario de cada uno de los Programas de Soporte, a menos que se proporcionen titularidades separadas en el presente documento de Información de la Licencia.Por ejemplo, si la licencia de este Programa está basada en VPC (Núcleo de Procesador Virtual) y el Licenciatario instala el Programa Principal o un Programa de Soporte en una máquina de 10 VPC y otro Programa de Soporte en una segunda máquina de 10 VPC, el Licenciatario deberá obtener autorizaciones por 20 VPC para el Programa.
+
+Programas de Soporte:
+IBM Observability by Instana Application Performance Monitoring
+
+Componentes Permitidos
+
+El Licenciatario únicamente está autorizado para utilizar los siguientes componentes o funciones del Programa Empaquetado o de Soporte identificado:
+IBM MQ Tracing
+
+Componentes No Utilizados para Establecer Autorizaciones Necesarias
+
+El Licenciatario puede instalar y utilizar los siguientes componentes del Programa, de conformidad con los términos de la licencia, pero estos componentes no se utilizarán para determinar el número de autorizaciones requeridas para el Programa.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+Código con Licencia por Separado
+
+El Código con Licencia por Separado de cada uno de los componentes listados en el archivo NON_IBM_LICENSE se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa y no con arreglo al presente Acuerdo. Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia por Separado. Dicho Código con Licencia por Separado adicional y sus correspondientes licencias se listarán en el archivo NON_IBM_LICENSE aplicable que acompaña a la actualización o a la corrección del Programa.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, respecto al Código con Licencia por Separado:
+(a) IBM los proporciona al Licenciatario SIN GARANTÍA DE NINGÚN TIPO Y NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA O IMPLÍCITA INCLUIDAS, PERO SIN LIMITACIONES, LA GARANTÍA DE TÍTULO, DE NO INCUMPLIMIENTO O NO INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA;
+(b) IBM no es responsable de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo ni consecuencial, incluidas sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Las unidades de medida siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Value Unit de Procesador (PVU)
+
+Value Unit de Procesador (PVU) es una unidad de medida por la que se puede licenciar el Programa. El número de autorizaciones de PVU necesarios se basa en la tecnología de procesador (que se define en la licencia de Processor Value Unit (PVU) del sitio web de Software Distribuido en https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) y en el número de procesadores puestos a disposición del Programa. IBM continúa definiendo un procesador, a efectos de las licencias basadas en PVU, como cada núcleo de procesador en un chip.Un chip de procesador de doble núcleo, por ejemplo, tiene dos núcleos de procesador.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Núcleo de Procesador Virtual
+
+Núcleo de Procesador Virtual es una unidad de medida por la que se puede obtener licencia para el Programa. Un Servidor Físico es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor físico independiente. Un Servidor Virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico o en un servidor físico no particionado. Un Núcleo de procesador es una unidad funcional de un dispositivo informático que interpreta y ejecuta instrucciones. Un Núcleo de Procesador se compone de, al menos, una unidad de control de instrucciones y una o varias unidades lógicas o aritméticas. Un Núcleo de Procesador Virtual es un Núcleo de Procesador de un Servidor Físico no particionado, o un núcleo virtual asignado a un Servidor Virtual. El Licenciatario debe obtener autorizaciones para cada Núcleo de Procesador Virtual que se pone a disposición del Programa.
+
+El Licenciatario puede desplegar el Programa (si se soporta) utilizando la capacidad completa de la licencia, la subcapacidad de licencia (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) o la licencia de contenedor (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Consulte los sitios web vinculados para obtener más información.
+
+Servidor Virtual
+
+Servidor Virtual es una unidad de medida por la que se puede licenciar el Programa. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado. El Licenciatario debe obtener autorizaciones de Servidor Virtual para cada servidor virtual que esté disponible para el Programa, independientemente de la cantidad de núcleos de procesador o del número de copias del Programa en el servidor virtual.
+
+Además de lo indicado, los términos siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+R El uso del Programa por parte del Licenciatario está limitado al uso de las siguientes funciones tal como se indica a continuación o en la sección Otras soluciones de alta disponibilidad.
+
+1. 1. Función de gestor de colas multiinstancia
+
+El Licenciatario puede utilizar la función de gestor de colas multiinstancia del Programa solo con finalidades de modalidad En espera. La modalidad En espera es aquella en la que el Programa se inicia, pero permanece inactivo a menos que la copia IBM MW del programa con autorización independiente y activa falle en el Programa de réplica de alta disponibilidad. Si esto ocurre, se puede utilizar el Programa de réplica de alta disponibilidad para llevar a cabo trabajos de producción durante el período de migración tras error El Programa se considera "inactivo" si, hasta que se produzca la migración tras error, no se utiliza para llevar a cabo tareas de producción de cualquier tipo y se utiliza exclusivamente para acciones administrativas.
+
+2. Función de alta disponibilidad del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en tres servidores y que todos los gestores de colas de los tres servidores sean Gestores de colas de datos replicados. Dos de los servidores pueden configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Al utilizar esta función de alta disponibilidad junto con réplica en un sitio de recuperación ante desastre, los tres servidores de alta disponibilidad en el sitio de recuperación ante desastre también deben estar autorizados tal como se describe arriba.
+
+3. Función de recuperación ante desastre del gestor de colas de datos replicados
+
+El uso por parte del Licenciatario de esta función del gestor de colas de datos replicados del Programa requiere configuración en dos servidores y que todos los gestores de colas de los dos servidores sean Gestores de colas de datos replicados. Uno de los servidores puede configurarse y autorizarse como IBM MQ Advanced High Availability Replica, pero la copia de IBM MQ del tercer servidor configurado debe tener licencia por separado obteniendo derechos de titularidad para IBM MQ Advanced. Esta configuración de recuperación ante desastre de dos servidores es una configuración independiente de la utilización de tres servidores como una configuración de alta disponibilidad, incluso en el caso de que se utilice con réplica en un sitio de recuperación ante desastre.
+
+B. Otras soluciones de alta disponibilidad
+
+Si el Licenciatario decide utilizar otras soluciones de alta disponibilidad junto con el Programa, el Licenciatario podrá utilizar el Programa como una réplica de alta disponibilidad siempre que resida, por razones de copia de seguridad, en un servidor en espera y que no se haya iniciado el Programa. El Programa se puede iniciar de forma automática mediante componentes de alta disponibilidad en caso de fallo del servidor activo, en cuyo caso se puede utilizar el Programa para llevar a cabo trabajos de producción durante el período de migración tras error.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

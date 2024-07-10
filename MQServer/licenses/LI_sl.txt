@@ -1,0 +1,1125 @@
+OBVESTILO
+
+Ta dokument vsebuje spodnje licenène informacije za veè programov. Vsaka licenèna informacija identificira programe, za katere velja. Veljajo samo tiste licenène informacije za programe, za katere je imetnik licence pridobil pooblastila.
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Observability by Instana Application Performance Monitoring
+
+Dovoljene komponente
+
+Imetnik licence lahko uporablja samo naslednje komponente ali funkcije doloèenega paketnega ali podpornega programa:
+IBM MQ Tracing
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Observability by Instana Application Performance Monitoring
+
+Dovoljene komponente
+
+Imetnik licence lahko uporablja samo naslednje komponente ali funkcije doloèenega paketnega ali podpornega programa:
+IBM MQ Tracing
+
+Omejitev za neprodukcijsko okolje
+
+Èe je program namenjen za uporabo v "neprodukcijskem okolju", ga lahko imetnik licence uporablja samo kot del svojega notranjega razvojnega in preizkusnega okolja za notranje, neprodukcijske dejavnosti.
+
+Komponente, ki niso uporabljene za vzpostavitev potrebnih pooblastil
+
+Imetnik licence lahko na podlagi licenènih pogojev namesti in uporablja naslednje komponente programa, vendar se te komponente ne uporabljajo za doloèitev ¹tevila pooblastil, potrebnih za program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Enote, ki jih je mogoèe redistribuirati
+
+Program vkljuèuje komponente, ki jih je mogoèe redistribuirati in so navedene spodaj. Enote, ki jih je mogoèe redistribuirati, je mogoèe distribuirati v obliki objektne kode in samo kot del aplikacije imetnika licence z dodano vrednostjo, ki je bila razvita z uporabo programa ("aplikacija imetnika licence") in samo za podporo aplikaciji imetnika licence. Èe enote, ki jih je mogoèe redistribuirati, vkljuèujejo izvajalno okolje Java, mora imetnik licence v svojo aplikacijo vkljuèiti tudi druge enote, ki jih je mogoèe redistribuirati in ne vkljuèujejo okolja Java. Imetnik licence ne sme odstraniti nobenih datotek z avtorskimi pravicami ali obvestili, vsebovanimi v enotah, ki jih je mogoèe redistribuirati, ali uporabljati imen ali blagovnih znamk IBM-a, njegovih dobaviteljev ali distributerjev v povezavi s tr¾enjem aplikacije imetnika licence, ne da bi pred tem pridobil pisno pooblastilo IBM-a, dobavitelja ali distributerja. Licenèna pogodba, ki jo sklene imetnik licence s konènim uporabnikom, mora vsaj v tolik¹ni meri varovati IBM kot pogoji te pogodbe.
+
+IBM, njegovi dobavitelji in distributerji zagotavljajo enote, ki jih je mogoèe redistribuirati, in povezano dokumentacijo brez obveze za nudenje podpore in "TAK©NE, KOT SO", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNE ALI ZAKONSKE, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA TR®NOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Enote, ki jih je mogoèe redistribuirati, so:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za izvorne komponente in vzorèno gradivo, navedeno kot enote, ki jih je mogoèe redistribuirati, lahko imetnik licence redistribuira spremenjene razlièice teh izvornih komponent ali vzorènega gradiva v skladu s pogoji te licence in katerihkoli navodil v dokumentaciji, prilo¾eni programu (èe je na voljo).
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezno procesorsko jedro
+
+Navidezno procesorsko jedro je merska enota, na podlagi katere je mogoèe licencirati program. Fizièni stre¾nik je fizièni raèunalnik, sestavljen iz procesnih enot, pomnilnika in zmo¾nosti vhoda/izhoda, ki izvaja zahtevane postopke, ukaze ali aplikacije za eno ali veè uporabni¹kih ali odjemalskih naprav. Èe se uporabljajo omare, ohi¹ja stre¾ni¹kih rezin ali druga podobna oprema, ¹teje vsaka loèena fizièna naprava (to je rezina ali vgradna naprava), ki vsebuje zahtevane komponente, kot loèen fizièni stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Procesorsko jedro je funkcionalna enota znotraj raèunalni¹ke naprave, ki interpretira in izvaja navodila. Procesorsko jedro je sestavljeno iz vsaj ene enote za krmiljenje navodil in ene ali veè aritmetiènih ali logiènih enot. Navidezno procesorsko jedro je procesorsko jedro v neparticioniranem fiziènem stre¾niku ali navidezno jedro, ki je dodeljeno virtualnemu stre¾niku. Imetnik licence mora pridobiti pooblastila za vsako navidezno procesorsko jedro, ki je na voljo za program.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezni stre¾nik
+
+Navidezni stre¾nik je merska enota, na podlagi katere je lahko licenciran program. Stre¾nik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmo¾nosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohi¹ja stre¾ni¹kih rezin ali drugo podobno opremo, ¹teje vsaka loèena fizièna naprava (to je rezina ali ohi¹na naprava), ki vsebuje zahtevane komponente, kot loèen stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Imetnik licence mora pridobiti pooblastila za navidezni stre¾nik za vsak navidezni stre¾nik, ki je na voljo za program, ne glede na ¹tevilo procesorskih jeder ali ¹tevila kopij programa v navideznem stre¾niku.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Funkcija izvirne visoke razpolo¾ljivosti
+
+Da lahko imetnik licence uporablja funkcijo izvirne visoke razpolo¾ljivosti (samodejnega preklopa ob napaki) programa (>>izvirna visoka razpolo¾ljivost<<), mora izvesti konfiguracijo na treh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na treh stre¾nikih upravitelji èakalnih vrst izvirne visoke razpolo¾ljivosti. Program mora biti licenciran na enem stre¾niku s pridobitvijo pooblastil za IBM MQ Advanced, toda dva stre¾nika dvojnika se ne uporabljata za doloèitev ¹tevila pooblastil, potrebnih za program.
+
+B. Druge funkcije visoke razpolo¾ljivosti
+
+Èe ¾eli imetnik licence uporabljati druge funkcije visoke razpolo¾ljivosti (samodejnega preklopa ob napaki), mora pridobiti zadostno pooblastilo za IBM MQ High Availability Replica ali IBM MQ Advanced High Availability Replica (vsak je >>dvojnik visoke razpolo¾ljivosti<<) za kritje zahtev imetnika licence glede visoke razpolo¾ljivosti, kot so opisane v loèenih licenènih pogojih, prilo¾enih dvojniku visoke razpolo¾ljivosti.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Komponente, ki niso uporabljene za vzpostavitev potrebnih pooblastil
+
+Imetnik licence lahko na podlagi licenènih pogojev namesti in uporablja naslednje komponente programa, vendar se te komponente ne uporabljajo za doloèitev ¹tevila pooblastil, potrebnih za program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Enote, ki jih je mogoèe redistribuirati
+
+Program vkljuèuje komponente, ki jih je mogoèe redistribuirati in so navedene spodaj. Enote, ki jih je mogoèe redistribuirati, je mogoèe distribuirati v obliki objektne kode in samo kot del aplikacije imetnika licence z dodano vrednostjo, ki je bila razvita z uporabo programa ("aplikacija imetnika licence") in samo za podporo aplikaciji imetnika licence. Èe enote, ki jih je mogoèe redistribuirati, vkljuèujejo izvajalno okolje Java, mora imetnik licence v svojo aplikacijo vkljuèiti tudi druge enote, ki jih je mogoèe redistribuirati in ne vkljuèujejo okolja Java. Imetnik licence ne sme odstraniti nobenih datotek z avtorskimi pravicami ali obvestili, vsebovanimi v enotah, ki jih je mogoèe redistribuirati, ali uporabljati imen ali blagovnih znamk IBM-a, njegovih dobaviteljev ali distributerjev v povezavi s tr¾enjem aplikacije imetnika licence, ne da bi pred tem pridobil pisno pooblastilo IBM-a, dobavitelja ali distributerja. Licenèna pogodba, ki jo sklene imetnik licence s konènim uporabnikom, mora vsaj v tolik¹ni meri varovati IBM kot pogoji te pogodbe.
+
+IBM, njegovi dobavitelji in distributerji zagotavljajo enote, ki jih je mogoèe redistribuirati, in povezano dokumentacijo brez obveze za nudenje podpore in "TAK©NE, KOT SO", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNE ALI ZAKONSKE, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA TR®NOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Enote, ki jih je mogoèe redistribuirati, so:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za izvorne komponente in vzorèno gradivo, navedeno kot enote, ki jih je mogoèe redistribuirati, lahko imetnik licence redistribuira spremenjene razlièice teh izvornih komponent ali vzorènega gradiva v skladu s pogoji te licence in katerihkoli navodil v dokumentaciji, prilo¾eni programu (èe je na voljo).
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezno procesorsko jedro
+
+Navidezno procesorsko jedro je merska enota, na podlagi katere je mogoèe licencirati program. Fizièni stre¾nik je fizièni raèunalnik, sestavljen iz procesnih enot, pomnilnika in zmo¾nosti vhoda/izhoda, ki izvaja zahtevane postopke, ukaze ali aplikacije za eno ali veè uporabni¹kih ali odjemalskih naprav. Èe se uporabljajo omare, ohi¹ja stre¾ni¹kih rezin ali druga podobna oprema, ¹teje vsaka loèena fizièna naprava (to je rezina ali vgradna naprava), ki vsebuje zahtevane komponente, kot loèen fizièni stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Procesorsko jedro je funkcionalna enota znotraj raèunalni¹ke naprave, ki interpretira in izvaja navodila. Procesorsko jedro je sestavljeno iz vsaj ene enote za krmiljenje navodil in ene ali veè aritmetiènih ali logiènih enot. Navidezno procesorsko jedro je procesorsko jedro v neparticioniranem fiziènem stre¾niku ali navidezno jedro, ki je dodeljeno virtualnemu stre¾niku. Imetnik licence mora pridobiti pooblastila za vsako navidezno procesorsko jedro, ki je na voljo za program.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezni stre¾nik
+
+Navidezni stre¾nik je merska enota, na podlagi katere je lahko licenciran program. Stre¾nik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmo¾nosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohi¹ja stre¾ni¹kih rezin ali drugo podobno opremo, ¹teje vsaka loèena fizièna naprava (to je rezina ali ohi¹na naprava), ki vsebuje zahtevane komponente, kot loèen stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Imetnik licence mora pridobiti pooblastila za navidezni stre¾nik za vsak navidezni stre¾nik, ki je na voljo za program, ne glede na ¹tevilo procesorskih jeder ali ¹tevila kopij programa v navideznem stre¾niku.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Funkcija izvirne visoke razpolo¾ljivosti
+
+Da lahko imetnik licence uporablja funkcijo izvirne visoke razpolo¾ljivosti (samodejnega preklopa ob napaki) programa (>>izvirna visoka razpolo¾ljivost<<), mora izvesti konfiguracijo na treh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na treh stre¾nikih upravitelji èakalnih vrst izvirne visoke razpolo¾ljivosti. Program mora biti licenciran na enem stre¾niku s pridobitvijo pooblastil za IBM MQ Advanced, toda dva stre¾nika dvojnika se ne uporabljata za doloèitev ¹tevila pooblastil, potrebnih za program.
+
+B. Druge funkcije visoke razpolo¾ljivosti
+
+Èe ¾eli imetnik licence uporabljati druge funkcije visoke razpolo¾ljivosti (samodejnega preklopa ob napaki), mora pridobiti zadostno pooblastilo za IBM MQ High Availability Replica ali IBM MQ Advanced High Availability Replica (vsak je >>dvojnik visoke razpolo¾ljivosti<<) za kritje zahtev imetnika licence glede visoke razpolo¾ljivosti, kot so opisane v loèenih licenènih pogojih, prilo¾enih dvojniku visoke razpolo¾ljivosti.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ for Non-Production Environment 9.4
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ for Non-Production Environment 9.4
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Omejitev za neprodukcijsko okolje
+
+Èe je program namenjen za uporabo v "neprodukcijskem okolju", ga lahko imetnik licence uporablja samo kot del svojega notranjega razvojnega in preizkusnega okolja za notranje, neprodukcijske dejavnosti.
+
+Komponente, ki niso uporabljene za vzpostavitev potrebnih pooblastil
+
+Imetnik licence lahko na podlagi licenènih pogojev namesti in uporablja naslednje komponente programa, vendar se te komponente ne uporabljajo za doloèitev ¹tevila pooblastil, potrebnih za program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Enote, ki jih je mogoèe redistribuirati
+
+Program vkljuèuje komponente, ki jih je mogoèe redistribuirati in so navedene spodaj. Enote, ki jih je mogoèe redistribuirati, je mogoèe distribuirati v obliki objektne kode in samo kot del aplikacije imetnika licence z dodano vrednostjo, ki je bila razvita z uporabo programa ("aplikacija imetnika licence") in samo za podporo aplikaciji imetnika licence. Èe enote, ki jih je mogoèe redistribuirati, vkljuèujejo izvajalno okolje Java, mora imetnik licence v svojo aplikacijo vkljuèiti tudi druge enote, ki jih je mogoèe redistribuirati in ne vkljuèujejo okolja Java. Imetnik licence ne sme odstraniti nobenih datotek z avtorskimi pravicami ali obvestili, vsebovanimi v enotah, ki jih je mogoèe redistribuirati, ali uporabljati imen ali blagovnih znamk IBM-a, njegovih dobaviteljev ali distributerjev v povezavi s tr¾enjem aplikacije imetnika licence, ne da bi pred tem pridobil pisno pooblastilo IBM-a, dobavitelja ali distributerja. Licenèna pogodba, ki jo sklene imetnik licence s konènim uporabnikom, mora vsaj v tolik¹ni meri varovati IBM kot pogoji te pogodbe.
+
+IBM, njegovi dobavitelji in distributerji zagotavljajo enote, ki jih je mogoèe redistribuirati, in povezano dokumentacijo brez obveze za nudenje podpore in "TAK©NE, KOT SO", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNE ALI ZAKONSKE, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA TR®NOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Enote, ki jih je mogoèe redistribuirati, so:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za izvorne komponente in vzorèno gradivo, navedeno kot enote, ki jih je mogoèe redistribuirati, lahko imetnik licence redistribuira spremenjene razlièice teh izvornih komponent ali vzorènega gradiva v skladu s pogoji te licence in katerihkoli navodil v dokumentaciji, prilo¾eni programu (èe je na voljo).
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezno procesorsko jedro
+
+Navidezno procesorsko jedro je merska enota, na podlagi katere je mogoèe licencirati program. Fizièni stre¾nik je fizièni raèunalnik, sestavljen iz procesnih enot, pomnilnika in zmo¾nosti vhoda/izhoda, ki izvaja zahtevane postopke, ukaze ali aplikacije za eno ali veè uporabni¹kih ali odjemalskih naprav. Èe se uporabljajo omare, ohi¹ja stre¾ni¹kih rezin ali druga podobna oprema, ¹teje vsaka loèena fizièna naprava (to je rezina ali vgradna naprava), ki vsebuje zahtevane komponente, kot loèen fizièni stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Procesorsko jedro je funkcionalna enota znotraj raèunalni¹ke naprave, ki interpretira in izvaja navodila. Procesorsko jedro je sestavljeno iz vsaj ene enote za krmiljenje navodil in ene ali veè aritmetiènih ali logiènih enot. Navidezno procesorsko jedro je procesorsko jedro v neparticioniranem fiziènem stre¾niku ali navidezno jedro, ki je dodeljeno virtualnemu stre¾niku. Imetnik licence mora pridobiti pooblastila za vsako navidezno procesorsko jedro, ki je na voljo za program.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezni stre¾nik
+
+Navidezni stre¾nik je merska enota, na podlagi katere je lahko licenciran program. Stre¾nik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmo¾nosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohi¹ja stre¾ni¹kih rezin ali drugo podobno opremo, ¹teje vsaka loèena fizièna naprava (to je rezina ali ohi¹na naprava), ki vsebuje zahtevane komponente, kot loèen stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Imetnik licence mora pridobiti pooblastila za navidezni stre¾nik za vsak navidezni stre¾nik, ki je na voljo za program, ne glede na ¹tevilo procesorskih jeder ali ¹tevila kopij programa v navideznem stre¾niku.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Funkcija izvirne visoke razpolo¾ljivosti
+
+Da lahko imetnik licence uporablja funkcijo izvirne visoke razpolo¾ljivosti (samodejnega preklopa ob napaki) programa (>>izvirna visoka razpolo¾ljivost<<), mora izvesti konfiguracijo na treh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na treh stre¾nikih upravitelji èakalnih vrst izvirne visoke razpolo¾ljivosti. Program mora biti licenciran na enem stre¾niku s pridobitvijo pooblastil za IBM MQ Advanced, toda dva stre¾nika dvojnika se ne uporabljata za doloèitev ¹tevila pooblastil, potrebnih za program.
+
+B. Druge funkcije visoke razpolo¾ljivosti
+
+Èe ¾eli imetnik licence uporabljati druge funkcije visoke razpolo¾ljivosti (samodejnega preklopa ob napaki), mora pridobiti zadostno pooblastilo za IBM MQ High Availability Replica ali IBM MQ Advanced High Availability Replica (vsak je >>dvojnik visoke razpolo¾ljivosti<<) za kritje zahtev imetnika licence glede visoke razpolo¾ljivosti, kot so opisane v loèenih licenènih pogojih, prilo¾enih dvojniku visoke razpolo¾ljivosti.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ High Availability Replica
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Paketni programi
+
+Imetnik licence lahko namesti in uporablja paketne programe, navedene spodaj. Paketni program lahko vkljuèuje morebitna licenèna doloèila, ki veljajo za imetnika licence pri uporabi tega paketnega programa. V primeru navzkri¾ja med doloèili v licenènih podatkih in doloèilih za paketni program, prevladajo ta doloèila o licenènih informacijah. Glavni program in katerikoli paketni programi so del programa kot celote. Zato mora imetnik licence pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh paketnih programov, razen èe so v tem dokumentu z informacijami o licence zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali paketni program na raèunalnik z 10 VPC-ji in drug paketni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Paketni programi:
+IBM MQ High Availability Replica
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Aspera faspio Gateway
+
+Komponente, ki niso uporabljene za vzpostavitev potrebnih pooblastil
+
+Imetnik licence lahko na podlagi licenènih pogojev namesti in uporablja naslednje komponente programa, vendar se te komponente ne uporabljajo za doloèitev ¹tevila pooblastil, potrebnih za program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezno procesorsko jedro
+
+Navidezno procesorsko jedro je merska enota, na podlagi katere je mogoèe licencirati program. Fizièni stre¾nik je fizièni raèunalnik, sestavljen iz procesnih enot, pomnilnika in zmo¾nosti vhoda/izhoda, ki izvaja zahtevane postopke, ukaze ali aplikacije za eno ali veè uporabni¹kih ali odjemalskih naprav. Èe se uporabljajo omare, ohi¹ja stre¾ni¹kih rezin ali druga podobna oprema, ¹teje vsaka loèena fizièna naprava (to je rezina ali vgradna naprava), ki vsebuje zahtevane komponente, kot loèen fizièni stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Procesorsko jedro je funkcionalna enota znotraj raèunalni¹ke naprave, ki interpretira in izvaja navodila. Procesorsko jedro je sestavljeno iz vsaj ene enote za krmiljenje navodil in ene ali veè aritmetiènih ali logiènih enot. Navidezno procesorsko jedro je procesorsko jedro v neparticioniranem fiziènem stre¾niku ali navidezno jedro, ki je dodeljeno virtualnemu stre¾niku. Imetnik licence mora pridobiti pooblastila za vsako navidezno procesorsko jedro, ki je na voljo za program.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezni stre¾nik
+
+Navidezni stre¾nik je merska enota, na podlagi katere je lahko licenciran program. Stre¾nik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmo¾nosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohi¹ja stre¾ni¹kih rezin ali drugo podobno opremo, ¹teje vsaka loèena fizièna naprava (to je rezina ali ohi¹na naprava), ki vsebuje zahtevane komponente, kot loèen stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Imetnik licence mora pridobiti pooblastila za navidezni stre¾nik za vsak navidezni stre¾nik, ki je na voljo za program, ne glede na ¹tevilo procesorskih jeder ali ¹tevila kopij programa v navideznem stre¾niku.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Imetnik licence je pri uporabi programa omejen na naslednje funkcije, kot je navedeno spodaj ali kot je navedeno v razdelku Druge re¹itve visoke razpolo¾ljivosti.
+
+1. Funkcija upravitelja èakalnih vrst z veè primerki
+
+Imetnik licence lahko uporablja funkcijo upravitelja èakalne vrste z veè primerki programa samo za namene pripravljenosti. Nameni pripravljenosti so opredeljeni tako, da vkljuèujejo zagon programa, vendar se zagotovi, da program ostane nedejaven, razen èe aktivni in loèeno poobla¹èeni kopiji programa IBM MQ ne uspe preklopiti na dvojnik programa visoke razpolo¾ljivosti. Èe se to zgodi, se lahko dvojnik programa visoke razpolo¾ljivosti uporabi za izvedbo produktivnega dela v obdobju samodejnega preklopa ob napaki. Program se ¹teje za >>nedejavnega<<, èe se, dokler se ne izvede samodejni preklop ob napaki, ne uporablja za izvajanje kakr¹nega koli produktivnega dela ter se uporablja izkljuèno za skrbni¹ka dejanja.
+
+2. Funkcija visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov
+
+Da lahko imetnik licence uporablja funkcijo visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov programa, mora izvesti konfiguracijo na treh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na treh stre¾nikih upravitelji èakalnih vrst podvojenih podatkov. Dva od stre¾nikov sta lahko konfigurirana in poobla¹èena kot dvojnika IBM MQ Advanced High Availability Replica, vendar mora biti kopija IBM MQ na tretjem konfiguriranem stre¾niku licencirana loèeno s pridobitvijo pooblastil za IBM MQ Advanced. Med uporabo te funkcije visoke razpolo¾ljivosti skupaj s podvojevanjem podatkov v mesto za obnovitev po hudi napaki, morajo biti trije stre¾niki visoke razpolo¾ljivosti na mestu za obnovitev po hudi napaki prav tako poobla¹èeni, kot je opisano zgoraj.
+
+3. Funkcija za obnovitev po hudi napaki upravitelja èakalnih vrst podvojenih podatkov
+
+Da lahko imetnik licence uporablja funkcijo visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov programa, mora izvesti konfiguracijo na dveh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na dveh stre¾nikih upravitelji èakalnih vrst podvojenih podatkov. Eden od stre¾nikov je lahko konfiguriran in poobla¹èen kot dvojnik IBM MQ Advanced High Availability Replica, vendar mora biti kopija IBM MQ na drugem konfiguriranem stre¾niku licencirana loèeno s pridobitvijo pooblastil za IBM MQ Advanced. Ta konfiguracija obnovitve po hudi napaki na dveh stre¾nikih je loèena konfiguracija od uporabe treh stre¾nikov kot konfiguracijo visoke razpolo¾ljivosti, tudi èe se uporablja s podvojevanjem podatkov v mesto za obnovitev po hudi napaki.
+
+B. Druge re¹itve visoke razpolo¾ljivosti
+
+Èe se imetnik licence odloèi za uporabo drugih re¹itev visoke razpolo¾ljivosti (samodejnega preklopa ob napaki) skupaj s programom, lahko imetnik licence uporablja program kot dvojnik visoke razpolo¾ljivosti, dokler se nahaja na stre¾niku v pripravljenosti za varnostne namene in program ¹e ni zagnan. V primeru okvare aktivnega stre¾nika lahko komponente visoke razpolo¾ljivosti samodejno za¾enejo program, v tem primeru se lahko program uporabi za izvedbo produktivnega dela v obdobju samodejnega preklopa ob napaki.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Enote, ki jih je mogoèe redistribuirati
+
+Program vkljuèuje komponente, ki jih je mogoèe redistribuirati in so navedene spodaj. Enote, ki jih je mogoèe redistribuirati, je mogoèe distribuirati v obliki objektne kode in samo kot del aplikacije imetnika licence z dodano vrednostjo, ki je bila razvita z uporabo programa ("aplikacija imetnika licence") in samo za podporo aplikaciji imetnika licence. Èe enote, ki jih je mogoèe redistribuirati, vkljuèujejo izvajalno okolje Java, mora imetnik licence v svojo aplikacijo vkljuèiti tudi druge enote, ki jih je mogoèe redistribuirati in ne vkljuèujejo okolja Java. Imetnik licence ne sme odstraniti nobenih datotek z avtorskimi pravicami ali obvestili, vsebovanimi v enotah, ki jih je mogoèe redistribuirati, ali uporabljati imen ali blagovnih znamk IBM-a, njegovih dobaviteljev ali distributerjev v povezavi s tr¾enjem aplikacije imetnika licence, ne da bi pred tem pridobil pisno pooblastilo IBM-a, dobavitelja ali distributerja. Licenèna pogodba, ki jo sklene imetnik licence s konènim uporabnikom, mora vsaj v tolik¹ni meri varovati IBM kot pogoji te pogodbe.
+
+IBM, njegovi dobavitelji in distributerji zagotavljajo enote, ki jih je mogoèe redistribuirati, in povezano dokumentacijo brez obveze za nudenje podpore in "TAK©NE, KOT SO", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNE ALI ZAKONSKE, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA TR®NOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Enote, ki jih je mogoèe redistribuirati, so:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za izvorne komponente in vzorèno gradivo, navedeno kot enote, ki jih je mogoèe redistribuirati, lahko imetnik licence redistribuira spremenjene razlièice teh izvornih komponent ali vzorènega gradiva v skladu s pogoji te licence in katerihkoli navodil v dokumentaciji, prilo¾eni programu (èe je na voljo).
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Namestitev
+
+Namestitev je merska enota, na podlagi katere je lahko licenciran program. Namestitev je name¹èena kopija programa na fizièni ali navidezni disk, ki je na voljo za izvajanje na raèunalniku. Imetnik licence mora pridobiti pooblastilo za vsako namestitev programa.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Namestitev
+
+Namestitev je merska enota, na podlagi katere je lahko licenciran program. Namestitev je name¹èena kopija programa na fizièni ali navidezni disk, ki je na voljo za izvajanje na raèunalniku. Imetnik licence mora pridobiti pooblastilo za vsako namestitev programa.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Imetnik licence je pri uporabi programa omejen na uporabo naslednjih funkcij, navedenih v nadaljevanju ali v razdelku Druge re¹itve visoke razpolo¾ljivosti. 
+
+1. Funkcija upravitelja èakalne vrste za veè primerkov
+
+Imetnik licence lahko uporablja funkcijo upravitelja èakalne vrste za veè primerkov programa samo za namene stanja pripravljenosti. Nameni stanja pripravljenosti so opredeljeni kot sledi: program se izvaja, vendar je treba zagotoviti, da ostane nedejaven, razen èe aktivna kopija programa IBM MQ z loèenimi pooblastili preklopi v dvojnik programa visoke razpolo¾ljivosti. Èe se to zgodi, se lahko z dvojnikom programa visoke razpolo¾ljivosti izvede produkcijsko delo v èasu samodejnega preklopa ob napaki. Program je "nedejaven", èe se (dokler ne pride do samodejnega preklopa ob napaki) z njim izvaja kakr¹nokoli produkcijsko delo in se uporablja izkljuèno za skrbni¹ka dejanja. 
+
+2. Funkcija visoke razpolo¾ljivosti upravitelja èakalne vrste za podvojene podatke
+
+Da lahko imetnik licence uporablja to funkcijo upravitelja èakalne vrste za podvojene podatke programa, morajo biti konfigurirani trije stre¾niki in vsi upravitelji èakalnih vrst na treh stre¾nikih morajo biti upravitelji èakalne vrste za podvojene podatke. Dva od stre¾nikov je mogoèe konfigurirati in pooblastiti kot dvojnika visoke razpolo¾ljivosti IBM MQ Advanced, toda kopija IBM MQ na tretjem konfiguriranem stre¾niku mora biti licencirana loèeno, in sicer s pridobitvijo pooblastil za IBM MQ Advanced. Èe uporabljate to komponento visoke razpolo¾ljivosti skupaj s podvajanjem za mesto obnovitve po hudi napaki, morajo biti trije stre¾niki z visoko razpolo¾ljivostjo na mestu obnovitve po hudi napaki poobla¹èeni v skladu z zgornjim opisom.
+
+3. Funkcija obnovitve po napaki upravitelja èakalne vrste za podvojene podatke
+
+Da lahko imetnik licence uporablja funkcijo upravitelja èakalne vrste za podvojene podatke programa, morata biti konfigurirana dva stre¾nika in vsi upravitelji èakalnih vrst na dveh stre¾nikih morajo biti upravitelji èakalne vrste za podvojene podatke. Enega od stre¾nikov je mogoèe konfigurirati in pooblastiti kot dvojnika visoke razpolo¾ljivosti IBM MQ Advanced, toda kopija IBM MQ na drugem konfiguriranem stre¾niku mora biti licencirana loèeno, in sicer s pridobitvijo pooblastil za IBM MQ Advanced. Ta konfiguracija obnovitve po hudi napaki za dva stre¾nika je loèena konfiguracija pri uporabi treh stre¾nikov v konfiguraciji visoke razpolo¾ljivosti, tudi èe je uporabljena s podvajanjem za mesto obnovitve po hudi napaki. 
+
+B. Druge re¹itve visoke razpolo¾ljivosti
+
+Èe se imetnik licence odloèi, da bo s programom uporabljal druge re¹itve za visoko razpolo¾ljivost (samodejni preklop), lahko uporablja program kot visoko razpolo¾ljivega dvojnika, dokler je na nadomestnem stre¾niku na voljo za namene varnostnega kopiranja in program ni zagnan. Program je mogoèe zagnati samodejno s komponentami visoke razpolo¾ljivosti v primeru napake aktivnega stre¾nika, pri èemer se lahko s programom izvede produkcijsko delo v èasu samodejnega preklopa ob napaki.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+POMEMBNO: POZORNO PREBERITE
+
+Spodaj sta prikazani dve licenèni pogodbi.
+
+1. IBM-ova mednarodna licenèna pogodba za vrednotenje programov
+2. IBM-ova mednarodna licenèna pogodba za program
+
+Èe pridobi imetnik licence program za namene produktivne uporabe (razen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja): s klikom spodnjega gumba "Sprejmem" imetnik licence sprejme IBM-ovo mednarodno licenèno pogodbo za programe brez popravkov.
+
+Èe pridobi imetnik licence program za namen vrednotenja, testiranja, preizku¹anja tipa "preizkusi ali kupi" ali demonstriranja (kar skupno imenujemo "vrednotenje"): s klikom spodnjega gumba "Sprejmem imetnik licence sprejme (i) IBM-ovo mednarodno licenèno pogodbo za ocenitev vrednotenje programov ("licenca za vrednotenje") brez popravkov; in (ii) IBM-ovo mednarodno licenèno pogodbo za programe ("IPLA") brez popravkov.
+
+Licenca za vrednotenje velja v èasu trajanja vrednotenja imetnika licence.
+
+Pogodba IPLA se uveljavi samodejno, èe se imetnik licence odloèi, da bo programe po konèanem obdobju vrednotenja obdr¾al (ali pridobil dodatne kopije programov za uporabo po konèanem obdobju vrednotenja), s sklepom nabavne pogodbe (to je IBM-ova mednarodna pogodba Passport Advantage ali IBM-ova pogodba Passport Advantage Express).
+
+Licenca za vrednotenje in pogodba IPLA nista v veljavi soèasno, nobena ne spreminja druge in sta neodvisni ena od druge.
+
+Celotno besedilo vsake od teh dveh licenènih pogodb sledi.
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za ocenjevanje programov (i125-5543-06).
+
+Ime programa (©tevilka programa):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Ocenjevalno obdobje
+
+Ocenjevalno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe, in se izteèe èez 90 dni.
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Observability by Instana Application Performance Monitoring
+
+Dovoljene komponente
+
+Imetnik licence lahko uporablja samo naslednje komponente ali funkcije doloèenega paketnega ali podpornega programa:
+IBM MQ Tracing
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (i125-3301-15).
+
+Ime programa (©tevilka programa):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Podporni programi
+
+Imetnik licence lahko namesti in uporablja spodaj navedene podporne programe samo za podporo svoji uporabi glavnega programa iz te pogodbe. Besedna zveza "v podporo svoji uporabi" vkljuèuje samo uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licenèno uporabo glavnega ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Podpornemu programu so lahko prilo¾ena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Imetnik licence mora pridobiti zadostno ¹tevilo pooblastil za program kot celoto, da pokrijejo namestitev in uporabo vseh podpornih programov, razen èe so v tem dokumentu z informacijami o licenci zagotovljena loèena pooblastila. Èe je ta program na primer licenciran na podlagi navideznega procesorskega jedra (VPC-ja) in ¾eli imetnik licence namestiti glavni ali podporni program na raèunalnik z 10 VPC-ji in drug podporni program na drug raèunalnik z 10 VPC-ji, mora pridobiti 20 pooblastil VPC za program.
+
+Podporni programi:
+IBM Observability by Instana Application Performance Monitoring
+
+Dovoljene komponente
+
+Imetnik licence lahko uporablja samo naslednje komponente ali funkcije doloèenega paketnega ali podpornega programa:
+IBM MQ Tracing
+
+Komponente, ki niso uporabljene za vzpostavitev potrebnih pooblastil
+
+Imetnik licence lahko na podlagi licenènih pogojev namesti in uporablja naslednje komponente programa, vendar se te komponente ne uporabljajo za doloèitev ¹tevila pooblastil, potrebnih za program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+Loèeno licencirana koda
+
+Vsaka komponenta, navedena v datoteki NON_IBM_LICENSE, ¹teje za "loèeno licencirano kodo", ki je licencirana imetniku licence na podlagi pogojev ustreznih licenènih pogodb drugih ponudnikov, doloèenih v datotekah NON_IBM_LICENSE, ki so prilo¾ene programu in ne tej pogodbi. Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Tak¹na dodatna, loèeno licencirana koda in povezane licence so navedeni v ustrezni datoteki NON_IBM_LICENSE, prilo¾eni posodobitvi ali popravku programa. 
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega ponudnika velja za to pogodbo ali katerokoli drugo pogodbo, ki jo sklene imetnik licence z IBM-om glede loèeno licencirane kode, naslednje:
+(a) IBM jo zagotovi imetniku licence BREZ VSAKR©NIH JAMSTEV IN ZAVRAÈA KATERAKOLI IN VSA IZRECNA TER ZAKONSKA JAMSTVA IN POGOJE, KAR MED DRUGIM VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA TER ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST TER PRIMERNOST ZA DOLOÈEN NAMEN, VENDAR NI OMEJENO NANJE;
+(b) IBM ni odgovoren za nobeno neposredno, posredno, nakljuèno, posebno, eksemplarièno, kazensko ali posledièno ¹kodo, kar vkljuèuje tudi izgubo podatkov, prihrankov in dobièkov, vendar ni omejeno nanje.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. ©tevilo potrebnih pooblastil PVU temelji na tehnologiji procesorjev (opredeljeni znotraj licenciranja na podlagi enote vrednosti procesorja (PVU) za porazdeljeno programsko opremo na spletnem mestu https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) in ¹tevilu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na èipu. Tako ima na primer procesorski èip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezno procesorsko jedro
+
+Navidezno procesorsko jedro je merska enota, na podlagi katere je mogoèe licencirati program. Fizièni stre¾nik je fizièni raèunalnik, sestavljen iz procesnih enot, pomnilnika in zmo¾nosti vhoda/izhoda, ki izvaja zahtevane postopke, ukaze ali aplikacije za eno ali veè uporabni¹kih ali odjemalskih naprav. Èe se uporabljajo omare, ohi¹ja stre¾ni¹kih rezin ali druga podobna oprema, ¹teje vsaka loèena fizièna naprava (to je rezina ali vgradna naprava), ki vsebuje zahtevane komponente, kot loèen fizièni stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Procesorsko jedro je funkcionalna enota znotraj raèunalni¹ke naprave, ki interpretira in izvaja navodila. Procesorsko jedro je sestavljeno iz vsaj ene enote za krmiljenje navodil in ene ali veè aritmetiènih ali logiènih enot. Navidezno procesorsko jedro je procesorsko jedro v neparticioniranem fiziènem stre¾niku ali navidezno jedro, ki je dodeljeno virtualnemu stre¾niku. Imetnik licence mora pridobiti pooblastila za vsako navidezno procesorsko jedro, ki je na voljo za program.
+
+Imetnik licence lahko razmesti program (èe je podprt) z licenciranjem celotne kapacitete, licenciranjem podkapacitete (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ali licenciranjem vsebnika (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Za dodatne informacije glejte povezana spletna mesta.
+
+Navidezni stre¾nik
+
+Navidezni stre¾nik je merska enota, na podlagi katere je lahko licenciran program. Stre¾nik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmo¾nosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohi¹ja stre¾ni¹kih rezin ali drugo podobno opremo, ¹teje vsaka loèena fizièna naprava (to je rezina ali ohi¹na naprava), ki vsebuje zahtevane komponente, kot loèen stre¾nik. Navidezni stre¾nik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu stre¾niku, ali neparticioniran fizièni stre¾nik. Imetnik licence mora pridobiti pooblastila za navidezni stre¾nik za vsak navidezni stre¾nik, ki je na voljo za program, ne glede na ¹tevilo procesorskih jeder ali ¹tevila kopij programa v navideznem stre¾niku.
+
+Za uporabo programa s strani imetnike licence poleg zgoraj navedenih pogojev veljajo tudi naslednji pogoji.
+
+A. Imetnik licence je pri uporabi programa omejen na naslednje funkcije, kot je navedeno spodaj ali kot je navedeno v razdelku Druge re¹itve visoke razpolo¾ljivosti.
+
+1. Funkcija upravitelja èakalnih vrst z veè primerki
+
+Imetnik licence lahko uporablja funkcijo upravitelja èakalne vrste z veè primerki programa samo za namene pripravljenosti. Nameni pripravljenosti so opredeljeni tako, da vkljuèujejo zagon programa, vendar se zagotovi, da program ostane nedejaven, razen èe aktivni in loèeno poobla¹èeni kopiji programa IBM MQ ne uspe preklopiti na dvojnik programa visoke razpolo¾ljivosti. Èe se to zgodi, se lahko dvojnik programa visoke razpolo¾ljivosti uporabi za izvedbo produktivnega dela v obdobju samodejnega preklopa ob napaki. Program se ¹teje za >>nedejavnega<<, èe se, dokler se ne izvede samodejni preklop ob napaki, ne uporablja za izvajanje kakr¹nega koli produktivnega dela ter se uporablja izkljuèno za skrbni¹ka dejanja.
+
+2. Funkcija visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov
+
+Da lahko imetnik licence uporablja funkcijo visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov programa, mora izvesti konfiguracijo na treh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na treh stre¾nikih upravitelji èakalnih vrst podvojenih podatkov. Dva od stre¾nikov sta lahko konfigurirana in poobla¹èena kot dvojnika IBM MQ Advanced High Availability Replica, vendar mora biti kopija IBM MQ na tretjem konfiguriranem stre¾niku licencirana loèeno s pridobitvijo pooblastil za IBM MQ Advanced. Med uporabo te funkcije visoke razpolo¾ljivosti skupaj s podvojevanjem podatkov v mesto za obnovitev po hudi napaki, morajo biti trije stre¾niki visoke razpolo¾ljivosti na mestu za obnovitev po hudi napaki prav tako poobla¹èeni, kot je opisano zgoraj.
+
+3. Funkcija za obnovitev po hudi napaki upravitelja èakalnih vrst podvojenih podatkov
+
+Da lahko imetnik licence uporablja funkcijo visoke razpolo¾ljivosti upravitelja èakalnih vrst podvojenih podatkov programa, mora izvesti konfiguracijo na dveh stre¾nikih, poleg tega pa morajo biti vsi upravitelji èakalnih vrst na dveh stre¾nikih upravitelji èakalnih vrst podvojenih podatkov. Eden od stre¾nikov je lahko konfiguriran in poobla¹èen kot dvojnik IBM MQ Advanced High Availability Replica, vendar mora biti kopija IBM MQ na drugem konfiguriranem stre¾niku licencirana loèeno s pridobitvijo pooblastil za IBM MQ Advanced. Ta konfiguracija obnovitve po hudi napaki na dveh stre¾nikih je loèena konfiguracija od uporabe treh stre¾nikov kot konfiguracijo visoke razpolo¾ljivosti, tudi èe se uporablja s podvojevanjem podatkov v mesto za obnovitev po hudi napaki.
+
+B. Druge re¹itve visoke razpolo¾ljivosti
+
+Èe se imetnik licence odloèi za uporabo drugih re¹itev visoke razpolo¾ljivosti (samodejnega preklopa ob napaki) skupaj s programom, lahko imetnik licence uporablja program kot dvojnik visoke razpolo¾ljivosti, dokler se nahaja na stre¾niku v pripravljenosti za varnostne namene in program ¹e ni zagnan. V primeru okvare aktivnega stre¾nika lahko komponente visoke razpolo¾ljivosti samodejno za¾enejo program, v tem primeru se lahko program uporabi za izvedbo produktivnega dela v obdobju samodejnega preklopa ob napaki.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

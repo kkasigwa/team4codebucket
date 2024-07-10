@@ -1,0 +1,1120 @@
+NOTICE
+
+This document includes License Information documents below for multiple Programs. Each License Information document identifies the Program(s) to which it applies. Only those License Information documents for the Program(s) for which Licensee has acquired entitlements apply.
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Observability by Instana Application Performance Monitoring
+
+Permitted Components
+
+Licensee is permitted to use only the following components or functions of the identified Bundled or Supporting Program:
+IBM MQ Tracing
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Observability by Instana Application Performance Monitoring
+
+Permitted Components
+
+Licensee is permitted to use only the following components or functions of the identified Bundled or Supporting Program:
+IBM MQ Tracing
+
+Non-Production Limitation
+
+If the Program is designated as "Non-Production", Licensee can only use the Program as part of Licensee's internal development and test environment for internal non-production activities.
+
+Components Not Used for Establishing Required Entitlements
+
+Licensee may install and use the following Program components, under the license terms, but these components are not used to determine the number of entitlements required for the Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Redistributables
+
+The Program includes components that are Redistributable and they are listed below. Redistributables may be distributed, in object-code form, only as part of Licensee's value-added application that was developed using the Program ("Licensee's Application") and only to support use of Licensee's Application. If the Redistributables include a Java Runtime Environment, Licensee must also include other non-Java Redistributables with Licensee's Application. Licensee may not remove any copyright or notice files contained in the Redistributables or use IBM's, it's suppliers' or distributors' names or trademarks in connection with the marketing of Licensee's Application without IBM's or that supplier's or distributor's prior written consent. Licensee's license agreement with the end user must be at least as protective of IBM as the terms of this Agreement.
+
+IBM, its suppliers and distributors provide the Redistributables and related documentation without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The following are Redistributables:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+For Source Components and Sample Materials listed as Redistributables, Licensee may redistribute modified versions of those Source Components or Sample Materials consistent with the terms of this license and any instructions in the Program's accompanying documentation, if any.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Virtual Processor Core
+
+Virtual Processor Core is a unit of measure by which the Program can be licensed. A Physical Server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate Physical Server. A Virtual Server is either a virtual computer created by partitioning the resources available to a Physical Server or an unpartitioned Physical Server. A Processor Core is a functional unit within a computing device that interprets and executes instructions. A Processor Core consists of at least one instruction control unit and one or more arithmetic or logic units. A Virtual Processor Core is a Processor Core in an unpartitioned Physical Server, or a virtual core assigned to a Virtual Server. Licensee must obtain entitlements for each Virtual Processor Core made available to the Program.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information. 
+
+Virtual Server
+
+Virtual Server is a unit of measure by which the Program can be licensed. A server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate server. A virtual server is either a virtual computer created by partitioning the resources available to a physical server or an unpartitioned physical server. Licensee must obtain Virtual Server entitlements for each virtual server made available to the Program, regardless of the number of processor cores in the virtual server or the number of copies of the Program on the virtual server.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Native High Availability Feature
+
+Licensee's use of the native high availability (automatic failover) feature of the Program ("Native High Availability") requires configuration on three servers and requires that all queue managers on the three servers are Native High Availability Queue Managers. The Program must be licensed on one server by obtaining entitlements to IBM MQ Advanced, but the two replica servers are not used to determine the number of entitlements required for the Program.
+
+B. Other High Availability Features
+
+Licensee's use of other high availability (automatic failover) features will require Licensee to obtain sufficient entitlement to IBM MQ High Availability Replica or IBM MQ Advanced High Availability Replica (each a "High Availability Replica") to cover Licensee's high availability requirements as described in the separate license terms accompanying the High Availability Replica. 
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Components Not Used for Establishing Required Entitlements
+
+Licensee may install and use the following Program components, under the license terms, but these components are not used to determine the number of entitlements required for the Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Redistributables
+
+The Program includes components that are Redistributable and they are listed below. Redistributables may be distributed, in object-code form, only as part of Licensee's value-added application that was developed using the Program ("Licensee's Application") and only to support use of Licensee's Application. If the Redistributables include a Java Runtime Environment, Licensee must also include other non-Java Redistributables with Licensee's Application. Licensee may not remove any copyright or notice files contained in the Redistributables or use IBM's, it's suppliers' or distributors' names or trademarks in connection with the marketing of Licensee's Application without IBM's or that supplier's or distributor's prior written consent. Licensee's license agreement with the end user must be at least as protective of IBM as the terms of this Agreement.
+
+IBM, its suppliers and distributors provide the Redistributables and related documentation without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The following are Redistributables:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+For Source Components and Sample Materials listed as Redistributables, Licensee may redistribute modified versions of those Source Components or Sample Materials consistent with the terms of this license and any instructions in the Program's accompanying documentation, if any.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Virtual Processor Core
+
+Virtual Processor Core is a unit of measure by which the Program can be licensed. A Physical Server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate Physical Server. A Virtual Server is either a virtual computer created by partitioning the resources available to a Physical Server or an unpartitioned Physical Server. A Processor Core is a functional unit within a computing device that interprets and executes instructions. A Processor Core consists of at least one instruction control unit and one or more arithmetic or logic units. A Virtual Processor Core is a Processor Core in an unpartitioned Physical Server, or a virtual core assigned to a Virtual Server. Licensee must obtain entitlements for each Virtual Processor Core made available to the Program.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information. 
+
+Virtual Server
+
+Virtual Server is a unit of measure by which the Program can be licensed. A server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate server. A virtual server is either a virtual computer created by partitioning the resources available to a physical server or an unpartitioned physical server. Licensee must obtain Virtual Server entitlements for each virtual server made available to the Program, regardless of the number of processor cores in the virtual server or the number of copies of the Program on the virtual server.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Native High Availability Feature
+
+Licensee's use of the native high availability (automatic failover) feature of the Program ("Native High Availability") requires configuration on three servers and requires that all queue managers on the three servers are Native High Availability Queue Managers. The Program must be licensed on one server by obtaining entitlements to IBM MQ Advanced, but the two replica servers are not used to determine the number of entitlements required for the Program.
+
+B. Other High Availability Features
+
+Licensee's use of other high availability (automatic failover) features will require Licensee to obtain sufficient entitlement to IBM MQ High Availability Replica or IBM MQ Advanced High Availability Replica (each a "High Availability Replica") to cover Licensee's high availability requirements as described in the separate license terms accompanying the High Availability Replica. 
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ for Non-Production Environment 9.4
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ for Non-Production Environment 9.4
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Non-Production Limitation
+
+If the Program is designated as "Non-Production", Licensee can only use the Program as part of Licensee's internal development and test environment for internal non-production activities.
+
+Components Not Used for Establishing Required Entitlements
+
+Licensee may install and use the following Program components, under the license terms, but these components are not used to determine the number of entitlements required for the Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Redistributables
+
+The Program includes components that are Redistributable and they are listed below. Redistributables may be distributed, in object-code form, only as part of Licensee's value-added application that was developed using the Program ("Licensee's Application") and only to support use of Licensee's Application. If the Redistributables include a Java Runtime Environment, Licensee must also include other non-Java Redistributables with Licensee's Application. Licensee may not remove any copyright or notice files contained in the Redistributables or use IBM's, it's suppliers' or distributors' names or trademarks in connection with the marketing of Licensee's Application without IBM's or that supplier's or distributor's prior written consent. Licensee's license agreement with the end user must be at least as protective of IBM as the terms of this Agreement.
+
+IBM, its suppliers and distributors provide the Redistributables and related documentation without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The following are Redistributables:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+For Source Components and Sample Materials listed as Redistributables, Licensee may redistribute modified versions of those Source Components or Sample Materials consistent with the terms of this license and any instructions in the Program's accompanying documentation, if any.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Virtual Processor Core
+
+Virtual Processor Core is a unit of measure by which the Program can be licensed. A Physical Server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate Physical Server. A Virtual Server is either a virtual computer created by partitioning the resources available to a Physical Server or an unpartitioned Physical Server. A Processor Core is a functional unit within a computing device that interprets and executes instructions. A Processor Core consists of at least one instruction control unit and one or more arithmetic or logic units. A Virtual Processor Core is a Processor Core in an unpartitioned Physical Server, or a virtual core assigned to a Virtual Server. Licensee must obtain entitlements for each Virtual Processor Core made available to the Program.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information. 
+
+Virtual Server
+
+Virtual Server is a unit of measure by which the Program can be licensed. A server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate server. A virtual server is either a virtual computer created by partitioning the resources available to a physical server or an unpartitioned physical server. Licensee must obtain Virtual Server entitlements for each virtual server made available to the Program, regardless of the number of processor cores in the virtual server or the number of copies of the Program on the virtual server.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Native High Availability Feature
+
+Licensee's use of the native high availability (automatic failover) feature of the Program ("Native High Availability") requires configuration on three servers and requires that all queue managers on the three servers are Native High Availability Queue Managers. The Program must be licensed on one server by obtaining entitlements to IBM MQ Advanced, but the two replica servers are not used to determine the number of entitlements required for the Program.
+
+B. Other High Availability Features
+
+Licensee's use of other high availability (automatic failover) features will require Licensee to obtain sufficient entitlement to IBM MQ High Availability Replica or IBM MQ Advanced High Availability Replica (each a "High Availability Replica") to cover Licensee's high availability requirements as described in the separate license terms accompanying the High Availability Replica. 
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ High Availability Replica
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Bundled Programs
+
+Licensee is authorized to install and use the Bundled Programs identified below. A Bundled Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Bundled Program. In the event of conflict, the terms in this License Information document supersede the Bundled Program's terms. The Principal Program and any Bundled Programs are all part of the Program, as a whole. Therefore, Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Bundled Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Bundled Program on a 10 VPC machine and another Bundled Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Bundled Programs:
+IBM MQ High Availability Replica
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Aspera faspio Gateway
+
+Components Not Used for Establishing Required Entitlements
+
+Licensee may install and use the following Program components, under the license terms, but these components are not used to determine the number of entitlements required for the Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Virtual Processor Core
+
+Virtual Processor Core is a unit of measure by which the Program can be licensed. A Physical Server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate Physical Server. A Virtual Server is either a virtual computer created by partitioning the resources available to a Physical Server or an unpartitioned Physical Server. A Processor Core is a functional unit within a computing device that interprets and executes instructions. A Processor Core consists of at least one instruction control unit and one or more arithmetic or logic units. A Virtual Processor Core is a Processor Core in an unpartitioned Physical Server, or a virtual core assigned to a Virtual Server. Licensee must obtain entitlements for each Virtual Processor Core made available to the Program.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information. 
+
+Virtual Server
+
+Virtual Server is a unit of measure by which the Program can be licensed. A server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate server. A virtual server is either a virtual computer created by partitioning the resources available to a physical server or an unpartitioned physical server. Licensee must obtain Virtual Server entitlements for each virtual server made available to the Program, regardless of the number of processor cores in the virtual server or the number of copies of the Program on the virtual server.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Licensee's use of the Program is limited to use of the following features as stated below or as stated in the Other High Availability Solutions section. 
+
+1. Multi-Instance Queue Manager Feature
+
+Licensee is permitted to use the multi-instance queue manager feature of the Program for Stand-by Purposes only. Stand-by Purposes are defined as having the Program started, but ensuring that the Program remains idle unless the active and separately entitled IBM MQ copy of the program fails over to the high availability replica Program. If this occurs, the high availability replica Program may be used to carry out productive work during the period of failover. The Program is considered "idle" if, until a failover takes place, it is not used to carry out productive work of any kind and is used exclusively for administrative actions. 
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on three servers and requires that all queue managers on the three servers be Replicated Data Queue Managers. Two of the servers may be configured and entitled as IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the third configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. When using this high availability feature in conjunction with replication to a disaster recovery site, the three high availability servers at the disaster recovery site must also be entitled as described above.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on two servers and requires that all queue managers on the two servers be Replicated Data Queue Managers. One of the servers may be configured and entitled as a IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the second configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. This disaster recovery configuration of two servers is a separate configuration to using three servers as a high availability configuration, even when that is used with replication to a disaster recovery site. 
+
+B. Other High Availability Solutions
+
+If Licensee chooses to use other high availability (automatic failover) solutions along with the Program, Licensee is permitted to use the Program as a high availability replica so long as it resides for backup purposes on a standby server and the Program is not started. The Program may be started automatically by the high availability components in the event of the active server failing, in which event the Program may be used to carry out productive work during the period of failover.
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Redistributables
+
+The Program includes components that are Redistributable and they are listed below. Redistributables may be distributed, in object-code form, only as part of Licensee's value-added application that was developed using the Program ("Licensee's Application") and only to support use of Licensee's Application. If the Redistributables include a Java Runtime Environment, Licensee must also include other non-Java Redistributables with Licensee's Application. Licensee may not remove any copyright or notice files contained in the Redistributables or use IBM's, it's suppliers' or distributors' names or trademarks in connection with the marketing of Licensee's Application without IBM's or that supplier's or distributor's prior written consent. Licensee's license agreement with the end user must be at least as protective of IBM as the terms of this Agreement.
+
+IBM, its suppliers and distributors provide the Redistributables and related documentation without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The following are Redistributables:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+For Source Components and Sample Materials listed as Redistributables, Licensee may redistribute modified versions of those Source Components or Sample Materials consistent with the terms of this license and any instructions in the Program's accompanying documentation, if any.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Install
+
+Install is a unit of measure by which the Program can be licensed. An Install is an installed copy of the Program on a physical or virtual disk made available to be executed on a computer. Licensee must obtain an entitlement for each Install of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Install
+
+Install is a unit of measure by which the Program can be licensed. An Install is an installed copy of the Program on a physical or virtual disk made available to be executed on a computer. Licensee must obtain an entitlement for each Install of the Program.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Licensee's use of the Program is limited to use of the following features as stated below or as stated in the Other High Availability Solutions section. 
+
+1. Multi-Instance Queue Manager Feature
+
+Licensee is permitted to use the multi-instance queue manager feature of the Program for Stand-by Purposes only. Stand-by Purposes are defined as having the Program started, but ensuring that the Program remains idle unless the active and separately entitled IBM MQ copy of the program fails over to the high availability replica Program. If this occurs, the high availability replica Program may be used to carry out productive work during the period of failover. The Program is considered "idle" if, until a failover takes place, it is not used to carry out productive work of any kind and is used exclusively for administrative actions. 
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on three servers and requires that all queue managers on the three servers be Replicated Data Queue Managers. Two of the servers may be configured and entitled as IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the third configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. When using this high availability feature in conjunction with replication to a disaster recovery site, the three high availability servers at the disaster recovery site must also be entitled as described above.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on two servers and requires that all queue managers on the two servers be Replicated Data Queue Managers. One of the servers may be configured and entitled as a IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the second configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. This disaster recovery configuration of two servers is a separate configuration to using three servers as a high availability configuration, even when that is used with replication to a disaster recovery site. 
+
+B. Other High Availability Solutions
+
+If Licensee chooses to use other high availability (automatic failover) solutions along with the Program, Licensee is permitted to use the Program as a high availability replica so long as it resides for backup purposes on a standby server and the Program is not started. The Program may be started automatically by the high availability components in the event of the active server failing, in which event the Program may be used to carry out productive work during the period of failover.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+IMPORTANT: READ CAREFULLY
+
+Two license agreements are presented below.
+
+1. IBM International License Agreement for Evaluation of Programs
+2. IBM International Program License Agreement
+
+If Licensee is obtaining the Program for purposes of productive use (other than evaluation, testing, trial "try or buy," or demonstration): By clicking on the "Accept" button below, Licensee accepts the IBM International Program License Agreement, without modification.
+
+If Licensee is obtaining the Program for the purpose of evaluation, testing, trial "try or buy," or demonstration (collectively, an "Evaluation"): By clicking on the "Accept" button below, Licensee accepts both (i) the IBM International License Agreement for Evaluation of Programs (the "Evaluation License"), without modification; and (ii) the IBM International Program License Agreement (the "IPLA"), without modification.
+
+The Evaluation License will apply during the term of Licensee's Evaluation.
+
+The IPLA will automatically apply if Licensee elects to retain the Program after the Evaluation (or obtain additional copies of the Program for use after the Evaluation) by entering into a procurement agreement (e.g., the IBM International Passport Advantage or the IBM Passport Advantage Express agreements).
+
+The Evaluation License and the IPLA are not in effect concurrently; neither modifies the other; and each is independent of the other.
+
+The complete text of each of these two license agreements follow.
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Evaluation of Programs (i125-5543-06) applies.
+
+Program Name (Program Number):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Evaluation Period
+
+The evaluation period begins on the date that Licensee agrees to the terms of this Agreement and ends after 90 days.
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Observability by Instana Application Performance Monitoring
+
+Permitted Components
+
+Licensee is permitted to use only the following components or functions of the identified Bundled or Supporting Program:
+IBM MQ Tracing
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Observability by Instana Application Performance Monitoring
+
+Permitted Components
+
+Licensee is permitted to use only the following components or functions of the identified Bundled or Supporting Program:
+IBM MQ Tracing
+
+Components Not Used for Establishing Required Entitlements
+
+Licensee may install and use the following Program components, under the license terms, but these components are not used to determine the number of entitlements required for the Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+Source Components and Sample Materials
+
+The Program includes components in source code form ("Source Components"), or other materials identified as Sample Materials or both. Licensee may copy and modify Source Components and Sample Materials for internal use only within the limits of the license rights under this Agreement; provided, however, that Licensee may not alter or delete any copyright information or notices contained in the Source Components or Sample Materials. IBM provides the Source Components and Sample Materials without obligation of support and "AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The following units of measure may apply to Licensee's use of the Program.
+
+Processor Value Unit (PVU)
+
+Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of PVU entitlements required is based on the processor technology (defined within the Processor Value Unit (PVU) licensing for Distributed Software website at https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) and the number of processors made available to the Program. IBM continues to define a processor, for the purpose of PVU-based licensing, to be each processor core on a chip. A dual-core processor chip, for example, has two processor cores.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information.
+
+Virtual Processor Core
+
+Virtual Processor Core is a unit of measure by which the Program can be licensed. A Physical Server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate Physical Server. A Virtual Server is either a virtual computer created by partitioning the resources available to a Physical Server or an unpartitioned Physical Server. A Processor Core is a functional unit within a computing device that interprets and executes instructions. A Processor Core consists of at least one instruction control unit and one or more arithmetic or logic units. A Virtual Processor Core is a Processor Core in an unpartitioned Physical Server, or a virtual core assigned to a Virtual Server. Licensee must obtain entitlements for each Virtual Processor Core made available to the Program.
+
+Licensee can deploy the Program (if supported) using full capacity licensing, sub-capacity licensing (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), or container licensing (https://www.ibm.com/software/passportadvantage/containerlicenses.html). See the linked websites for more information. 
+
+Virtual Server
+
+Virtual Server is a unit of measure by which the Program can be licensed. A server is a physical computer that is comprised of processing units, memory, and input/output capabilities and that executes requested procedures, commands, or applications for one or more users or client devices. Where racks, blade enclosures, or other similar equipment is being employed, each separable physical device (for example, a blade or a rack-mounted device) that has the required components is considered itself a separate server. A virtual server is either a virtual computer created by partitioning the resources available to a physical server or an unpartitioned physical server. Licensee must obtain Virtual Server entitlements for each virtual server made available to the Program, regardless of the number of processor cores in the virtual server or the number of copies of the Program on the virtual server.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+A. Licensee's use of the Program is limited to use of the following features as stated below or as stated in the Other High Availability Solutions section. 
+
+1. Multi-Instance Queue Manager Feature
+
+Licensee is permitted to use the multi-instance queue manager feature of the Program for Stand-by Purposes only. Stand-by Purposes are defined as having the Program started, but ensuring that the Program remains idle unless the active and separately entitled IBM MQ copy of the program fails over to the high availability replica Program. If this occurs, the high availability replica Program may be used to carry out productive work during the period of failover. The Program is considered "idle" if, until a failover takes place, it is not used to carry out productive work of any kind and is used exclusively for administrative actions. 
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on three servers and requires that all queue managers on the three servers be Replicated Data Queue Managers. Two of the servers may be configured and entitled as IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the third configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. When using this high availability feature in conjunction with replication to a disaster recovery site, the three high availability servers at the disaster recovery site must also be entitled as described above.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Licensee's use of this replicated data queue manager feature of the Program requires configuration on two servers and requires that all queue managers on the two servers be Replicated Data Queue Managers. One of the servers may be configured and entitled as a IBM MQ Advanced High Availability Replica, but the copy of IBM MQ on the second configured server must be licensed separately by obtaining entitlements to IBM MQ Advanced. This disaster recovery configuration of two servers is a separate configuration to using three servers as a high availability configuration, even when that is used with replication to a disaster recovery site. 
+
+B. Other High Availability Solutions
+
+If Licensee chooses to use other high availability (automatic failover) solutions along with the Program, Licensee is permitted to use the Program as a high availability replica so long as it resides for backup purposes on a standby server and the Program is not started. The Program may be started automatically by the high availability components in the event of the active server failing, in which event the Program may be used to carry out productive work during the period of failover.
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

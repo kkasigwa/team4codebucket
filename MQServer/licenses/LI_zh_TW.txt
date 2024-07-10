@@ -1,0 +1,1119 @@
+ÎÃãôËçâú
+
+ÆÛÅÆÇµÄùÉÖÄ¶ÇÄÇéÓìá£È¢ïËÆîÄæÚæûâÅÃÅõ¡¤ÇÖÚæûâÅÃÅõÅ¡É±ÑÀÍüÌ§ïËÆîÄææÚ¡¾æÚá«¡¿á£È¢¡¤Ý·ÚæûâÄ©ÄØÌ½ÚµÚæûâÄææÚ¡¾æÚá«¡¿á£È¢ÄæÚæûâÅÃÅõÅÉ×äïËÆî¡¤
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Observability by Instana Application Performance Monitoring
+
+ÔÆÆîÄ÷Çµ
+
+Ý·ÚæûâÄ©ã¯ÓîËðÆîÍÔÑÀÌù¡Öòññ¢Îêá£È¢¡×ÍÐ¡ÖÅÅßÎá£È¢¡×ÄæÄ¶ÇÄÄ÷ÇµÍÐÅü×ä¡¨
+IBM MQ Tracing
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Observability by Instana Application Performance Monitoring
+
+ÔÆÆîÄ÷Çµ
+
+Ý·ÚæûâÄ©ã¯ÓîËðÆîÍÔÑÀÌù¡Öòññ¢Îêá£È¢¡×ÍÐ¡ÖÅÅßÎá£È¢¡×ÄæÄ¶ÇÄÄ÷ÇµÍÐÅü×ä¡¨
+IBM MQ Tracing
+
+ÏæÆßÈ¢É¢äÆÓîÌ±
+
+Ó¼¡ÖÆÛá£È¢¡×ÑÀÌùÒ³ïËÆî¡ÖÏæÆßÈ¢É¢äÆ¡×¡¢Ð¬Ý·ÚæûâÄ©ã¯ÓîÍõÒ³âÐÈçÄùÝåÏæÆßÈ¢É¢äÆÒ¤Ù¯¡¢Ùò¡ÖÆÛá£È¢¡×åµÉ¢Ý·ÚæûâÄ©ÄùÝåâäàõêØàÁæÜô¿èºÄæÄ¡ÝåÅ¡ÈÔËðÆîÄæ¡¤
+
+ÏæÆîÍõÐúÇ¡ÆÒÓÑÚæûâÄæÄ÷Çµ
+
+Ý·ÚæûâÄ©ÚµËíÚæûâÛ¾à¡ÇøæÒÅ¯ËðÆîÄ¶ÇÄá£È¢Ä÷Çµ¡¢ÈþæÚá«Ä÷ÇµÄâÝ·ÆîÅèÉ²Ìù¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+Æ«ÇÂß×ÆÌÝÔüÕ
+
+¡ÖÆÛá£È¢¡×ÄùÉÖ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ä÷Çµ¡¢ËäÇÄÆüÇñÄ¶¡¤è×¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ò³ß×ÆÌÕë¡¢óÜÅèÆøÎûî£ÖªÈ¢Ò³Äæ¡¢Åâã¯ÓîÙòÄæÉ¢Ò³Ý·ÚæûâÄ©É³Æî¡ÖÆÛá£È¢¡×âäàõÄæÝ·ÚæûâÄ©ÅûÔ«óÜÆîá£È¢¡¾¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×¡¿ÄæÄ¡ÝåÅ¡¡¢Ëäã¯ÓîÆîÅèÅÅßÎè×¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×ÄæËðÆî¡¤¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÄùÉÖ¡ÖJava ÙÚÈçÕëßæô¿èº¡×Ï¯¡¢Ý·ÚæûâÄ©óÜÇ©Íõ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Äã×ÊÄ«Ì§Åì¡ÖÏæ Java Æ«ÇÂß×ÆÌÝÔüÕ¡×¡¤Ý·ÚæûâÄ©ÄâÚµÜÃØæ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÍÔÉÖááÉ¢ûâÍÐÎÃãôËçâúóòÕù¡¢ÆÜËçÇ¿Ì½Úµ IBM¡£Ì§ËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÕóÓòÇÑãô¡¢Ý·ÚæûâÄ©ÍõÈçïÚ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Õë¡¢Ç©ÄâÚµËðÆî IBM ÍÐæÚËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÇØê¢ÍÐÙ¸íº¡¤Ý·ÚæûâÄ©êØÜÜê¦ËðÆîÏ¯ÍÔÓÔÚæûâÇÙÒüè× IBM ÄæÏñû¬¡¢ÈÝÅ·óÜêØÆÛÇÙÒüÄæÛ¾à¡ÒÞÇÑ¡¤
+
+IBM¡£Ì§ËòóÜÙ¸Å¯åîïÚÙ¸ÏûËí¡ÖÜ¢Îí¡×ßÈËò¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Å¯ÒÞùÃë©ÍüÅÆÇµ¡¢ËäàÒÅÅßÎÄæåøÙ­¡¢ÅâÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÇ¶ÈôÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÎûÏñøý¡¢ÅèÅ¯ó¼ÆüÄæïËÙÇÍÌÅ¯ÜÊÇÙÖÖÌùÕæÆîÎûÏñøýêØðêÏñ¡¤
+
+ÅèÄ¶Ò³Æ«¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×¡¨
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+ÞóÇÄÒ³¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Äæ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢Ý·ÚæûâÄ©ËíÆÛÚæûâÛ¾à¡Å¯¡ÖÆÛá£È¢¡×òñÏáë©ÍüÅÆÇµ¡¾ÇñÈ´¡¿ÄãÄæÑÀÆü¡¢ÚµÇÂß×ÆÌæÚá«¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÄæÔºÓÔÎê¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÝ¨Ü¡ðÂÕøÅÀ
+
+¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖèÒüÕÈùÎ¤ðÂ¡×ÑÒÄ¡ê¡èÒüÕçÙæª¡¢ÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢Æ«Ò³Ä¡ÈíÍÐÇéÈíËðÆîÏ¯ÍÐÄ¡Ô¶ÍÐÇéÔ¶ÆîÅÂê¦æÒåôÙÚÈçÍÔÓÑÊåÎûá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢¡¤Ó¼çªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂñ¢î®ÍÐÌ§ÅìùËÈýÝÃÞ¬¡¢Ð¬ÊäÄ¡Þ¬È´ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐÕúÑÞæÒç¥æÒåô¡¿ÆÛËÎÉ»áþÒ³Ä¡ÝåÔ¶É±¡ÖèÒüÕÈùÎ¤ðÂ¡×¡¤¡ÖáðóéÈùÎ¤ðÂ¡×ÑÒÄ¡Ýå÷³ÆñÅ¡Þ´Æ«Ëò¡ÖèÒüÕÈùÎ¤ðÂ¡×ÍÐÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéçÙæª¡¤¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀÍõæØúÁêØÙÚÈçÑÀÅïÄæçªê«æÒåôÄùÄæÅü×äÞÌÈí¡¢Ä¡Ô¶Ý¨Ü¡ðÂÕøÅÀÈÝÅ·ÆñÄ¡Ô¶ÑÀÅïÚÕÌ±ÞÌÈíÅ¯Ä¡ÍÐÇéÔ¶ê«Ý´ÍÐüÊòÒÞÌÈíÍÔé¬È©¡¤¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÒ³ÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ÄãÄæ¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×¡¢ÍÐÅ¡ØÙá¿¡ÖáðóéÈùÎ¤ðÂ¡×ÄæáðóéÕøÅÀ¡¤Ý·ÚæûâÄ©óÜÒ³Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÊäÄ¡¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×Ì½ÚµÚæûâËðÆî¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÈùÎ¤ðÂ
+
+¡ÖáðóéÈùÎ¤ðÂ¡×ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤ÞÌÄ¡¡ÖÈùÎ¤ðÂ¡×ÏûÑÀÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢ËäÒ³Ä¡ÍÐÇéÔ¶ËðÆîÏ¯ÍÐÆîÅÂê¦æÒåôÙÚÈçÍÔëæÄæá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢ÄæÄ¡Ì¦èÒüÕçÙæª¡¤ÞóÄØçªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂÙ×Õ½ÍÐÌ§ÅìùËÈýÝÃÞ¬ÈÔËÆ¡¢ÊäÄ¡Ô¶Ì¦Þ¬ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐæÒÈ´ÕúÑÞÄææÒåô¡¿¡¢ÉáÝ·ÞÌñÁáþÒ³Ô¶É±ÈùÎ¤ðÂ¡¤ê¢¡ÖáðóéÈùÎ¤ðÂ¡×Ï¯¡¢ÏûÑÀ÷³ÆñÅ¡Þ´ (partitioning) Æ«ËòèÒüÕÈùÎ¤ðÂÍÐÆÜÅ¡Þ´èÒüÕÈùÎ¤ðÂËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéÈùÎ¤ðÂ¡¤Äâï¢æÚáðóéÈùÎ¤ðÂÄãÄæÝ¨Ü¡ðÂÕøÅÀÍÐæÚáðóéÈùÎ¤ðÂÄ¸ÄæÆÛá£È¢îïÆÛí°âØÒ³Èô¡¢Ý·ÚæûâÄ©ëæÌ½ÚµËòÆÛá£È¢ËðÆîÄæÇÖáðóéÈùÎ¤ðÂÄæáðóéÈùÎ¤ðÂÚæûâ¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. ÔÏÆíØíÆ«ÆîÍÌÖÖÌùÅü×ä(feature)
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÔÏÆíØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¾¡ÖÔÏÆíØíÆ«ÆîÍÌ¡×¡¿¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³¡ÖÔÏÆíØíÆ«ÆîÍÌÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîæÚÖÖÌùÅü×ä¡¤ ÆÛá£È¢ÆÒâüÌ½Úµ IBM MQ Advanced ÇãÄ¡Ô¶ÈùÎ¤ðÂÄ¸ÄæÚæûâ¡¢ÈþÄ¨Ô¶Ê½ÆÛÈùÎ¤ðÂÄâÆîÍõâ£Èõ¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌÖÖÌùÅü×ä (feature)
+
+Ý·ÚæûâÄ©ÍÔÌ½ÚµÄæ IBM MQ High Availability Replica ÍÐ IBM MQ Advanced High Availability Replica¡¾ÇÖê¢Ò³Ä¡Ô¶ "High Availability Replica"¡¿Úæûâí°âØ¡¢âüËÍÅèÛàêä High Availability Replica óôÏáÔ¶É±ÚæûâÛ¾à¡ÍÔç¥Ý·ÚæûâÄ©ØíÆ«ÆîÍÌÓÑÊå¡¢Ý·ÚæûâÄ©ÅÉ×äËðÆîÌ§ÅìØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¤
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+ÏæÆîÍõÐúÇ¡ÆÒÓÑÚæûâÄæÄ÷Çµ
+
+Ý·ÚæûâÄ©ÚµËíÚæûâÛ¾à¡ÇøæÒÅ¯ËðÆîÄ¶ÇÄá£È¢Ä÷Çµ¡¢ÈþæÚá«Ä÷ÇµÄâÝ·ÆîÅèÉ²Ìù¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+Æ«ÇÂß×ÆÌÝÔüÕ
+
+¡ÖÆÛá£È¢¡×ÄùÉÖ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ä÷Çµ¡¢ËäÇÄÆüÇñÄ¶¡¤è×¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ò³ß×ÆÌÕë¡¢óÜÅèÆøÎûî£ÖªÈ¢Ò³Äæ¡¢Åâã¯ÓîÙòÄæÉ¢Ò³Ý·ÚæûâÄ©É³Æî¡ÖÆÛá£È¢¡×âäàõÄæÝ·ÚæûâÄ©ÅûÔ«óÜÆîá£È¢¡¾¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×¡¿ÄæÄ¡ÝåÅ¡¡¢Ëäã¯ÓîÆîÅèÅÅßÎè×¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×ÄæËðÆî¡¤¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÄùÉÖ¡ÖJava ÙÚÈçÕëßæô¿èº¡×Ï¯¡¢Ý·ÚæûâÄ©óÜÇ©Íõ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Äã×ÊÄ«Ì§Åì¡ÖÏæ Java Æ«ÇÂß×ÆÌÝÔüÕ¡×¡¤Ý·ÚæûâÄ©ÄâÚµÜÃØæ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÍÔÉÖááÉ¢ûâÍÐÎÃãôËçâúóòÕù¡¢ÆÜËçÇ¿Ì½Úµ IBM¡£Ì§ËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÕóÓòÇÑãô¡¢Ý·ÚæûâÄ©ÍõÈçïÚ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Õë¡¢Ç©ÄâÚµËðÆî IBM ÍÐæÚËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÇØê¢ÍÐÙ¸íº¡¤Ý·ÚæûâÄ©êØÜÜê¦ËðÆîÏ¯ÍÔÓÔÚæûâÇÙÒüè× IBM ÄæÏñû¬¡¢ÈÝÅ·óÜêØÆÛÇÙÒüÄæÛ¾à¡ÒÞÇÑ¡¤
+
+IBM¡£Ì§ËòóÜÙ¸Å¯åîïÚÙ¸ÏûËí¡ÖÜ¢Îí¡×ßÈËò¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Å¯ÒÞùÃë©ÍüÅÆÇµ¡¢ËäàÒÅÅßÎÄæåøÙ­¡¢ÅâÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÇ¶ÈôÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÎûÏñøý¡¢ÅèÅ¯ó¼ÆüÄæïËÙÇÍÌÅ¯ÜÊÇÙÖÖÌùÕæÆîÎûÏñøýêØðêÏñ¡¤
+
+ÅèÄ¶Ò³Æ«¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×¡¨
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+ÞóÇÄÒ³¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Äæ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢Ý·ÚæûâÄ©ËíÆÛÚæûâÛ¾à¡Å¯¡ÖÆÛá£È¢¡×òñÏáë©ÍüÅÆÇµ¡¾ÇñÈ´¡¿ÄãÄæÑÀÆü¡¢ÚµÇÂß×ÆÌæÚá«¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÄæÔºÓÔÎê¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÝ¨Ü¡ðÂÕøÅÀ
+
+¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖèÒüÕÈùÎ¤ðÂ¡×ÑÒÄ¡ê¡èÒüÕçÙæª¡¢ÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢Æ«Ò³Ä¡ÈíÍÐÇéÈíËðÆîÏ¯ÍÐÄ¡Ô¶ÍÐÇéÔ¶ÆîÅÂê¦æÒåôÙÚÈçÍÔÓÑÊåÎûá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢¡¤Ó¼çªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂñ¢î®ÍÐÌ§ÅìùËÈýÝÃÞ¬¡¢Ð¬ÊäÄ¡Þ¬È´ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐÕúÑÞæÒç¥æÒåô¡¿ÆÛËÎÉ»áþÒ³Ä¡ÝåÔ¶É±¡ÖèÒüÕÈùÎ¤ðÂ¡×¡¤¡ÖáðóéÈùÎ¤ðÂ¡×ÑÒÄ¡Ýå÷³ÆñÅ¡Þ´Æ«Ëò¡ÖèÒüÕÈùÎ¤ðÂ¡×ÍÐÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéçÙæª¡¤¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀÍõæØúÁêØÙÚÈçÑÀÅïÄæçªê«æÒåôÄùÄæÅü×äÞÌÈí¡¢Ä¡Ô¶Ý¨Ü¡ðÂÕøÅÀÈÝÅ·ÆñÄ¡Ô¶ÑÀÅïÚÕÌ±ÞÌÈíÅ¯Ä¡ÍÐÇéÔ¶ê«Ý´ÍÐüÊòÒÞÌÈíÍÔé¬È©¡¤¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÒ³ÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ÄãÄæ¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×¡¢ÍÐÅ¡ØÙá¿¡ÖáðóéÈùÎ¤ðÂ¡×ÄæáðóéÕøÅÀ¡¤Ý·ÚæûâÄ©óÜÒ³Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÊäÄ¡¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×Ì½ÚµÚæûâËðÆî¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÈùÎ¤ðÂ
+
+¡ÖáðóéÈùÎ¤ðÂ¡×ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤ÞÌÄ¡¡ÖÈùÎ¤ðÂ¡×ÏûÑÀÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢ËäÒ³Ä¡ÍÐÇéÔ¶ËðÆîÏ¯ÍÐÆîÅÂê¦æÒåôÙÚÈçÍÔëæÄæá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢ÄæÄ¡Ì¦èÒüÕçÙæª¡¤ÞóÄØçªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂÙ×Õ½ÍÐÌ§ÅìùËÈýÝÃÞ¬ÈÔËÆ¡¢ÊäÄ¡Ô¶Ì¦Þ¬ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐæÒÈ´ÕúÑÞÄææÒåô¡¿¡¢ÉáÝ·ÞÌñÁáþÒ³Ô¶É±ÈùÎ¤ðÂ¡¤ê¢¡ÖáðóéÈùÎ¤ðÂ¡×Ï¯¡¢ÏûÑÀ÷³ÆñÅ¡Þ´ (partitioning) Æ«ËòèÒüÕÈùÎ¤ðÂÍÐÆÜÅ¡Þ´èÒüÕÈùÎ¤ðÂËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéÈùÎ¤ðÂ¡¤Äâï¢æÚáðóéÈùÎ¤ðÂÄãÄæÝ¨Ü¡ðÂÕøÅÀÍÐæÚáðóéÈùÎ¤ðÂÄ¸ÄæÆÛá£È¢îïÆÛí°âØÒ³Èô¡¢Ý·ÚæûâÄ©ëæÌ½ÚµËòÆÛá£È¢ËðÆîÄæÇÖáðóéÈùÎ¤ðÂÄæáðóéÈùÎ¤ðÂÚæûâ¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. ÔÏÆíØíÆ«ÆîÍÌÖÖÌùÅü×ä(feature)
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÔÏÆíØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¾¡ÖÔÏÆíØíÆ«ÆîÍÌ¡×¡¿¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³¡ÖÔÏÆíØíÆ«ÆîÍÌÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîæÚÖÖÌùÅü×ä¡¤ ÆÛá£È¢ÆÒâüÌ½Úµ IBM MQ Advanced ÇãÄ¡Ô¶ÈùÎ¤ðÂÄ¸ÄæÚæûâ¡¢ÈþÄ¨Ô¶Ê½ÆÛÈùÎ¤ðÂÄâÆîÍõâ£Èõ¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌÖÖÌùÅü×ä (feature)
+
+Ý·ÚæûâÄ©ÍÔÌ½ÚµÄæ IBM MQ High Availability Replica ÍÐ IBM MQ Advanced High Availability Replica¡¾ÇÖê¢Ò³Ä¡Ô¶ "High Availability Replica"¡¿Úæûâí°âØ¡¢âüËÍÅèÛàêä High Availability Replica óôÏáÔ¶É±ÚæûâÛ¾à¡ÍÔç¥Ý·ÚæûâÄ©ØíÆ«ÆîÍÌÓÑÊå¡¢Ý·ÚæûâÄ©ÅÉ×äËðÆîÌ§ÅìØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¤
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ for Non-Production Environment 9.4
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ for Non-Production Environment 9.4
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+ÏæÆßÈ¢É¢äÆÓîÌ±
+
+Ó¼¡ÖÆÛá£È¢¡×ÑÀÌùÒ³ïËÆî¡ÖÏæÆßÈ¢É¢äÆ¡×¡¢Ð¬Ý·ÚæûâÄ©ã¯ÓîÍõÒ³âÐÈçÄùÝåÏæÆßÈ¢É¢äÆÒ¤Ù¯¡¢Ùò¡ÖÆÛá£È¢¡×åµÉ¢Ý·ÚæûâÄ©ÄùÝåâäàõêØàÁæÜô¿èºÄæÄ¡ÝåÅ¡ÈÔËðÆîÄæ¡¤
+
+ÏæÆîÍõÐúÇ¡ÆÒÓÑÚæûâÄæÄ÷Çµ
+
+Ý·ÚæûâÄ©ÚµËíÚæûâÛ¾à¡ÇøæÒÅ¯ËðÆîÄ¶ÇÄá£È¢Ä÷Çµ¡¢ÈþæÚá«Ä÷ÇµÄâÝ·ÆîÅèÉ²Ìù¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+Æ«ÇÂß×ÆÌÝÔüÕ
+
+¡ÖÆÛá£È¢¡×ÄùÉÖ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ä÷Çµ¡¢ËäÇÄÆüÇñÄ¶¡¤è×¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ò³ß×ÆÌÕë¡¢óÜÅèÆøÎûî£ÖªÈ¢Ò³Äæ¡¢Åâã¯ÓîÙòÄæÉ¢Ò³Ý·ÚæûâÄ©É³Æî¡ÖÆÛá£È¢¡×âäàõÄæÝ·ÚæûâÄ©ÅûÔ«óÜÆîá£È¢¡¾¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×¡¿ÄæÄ¡ÝåÅ¡¡¢Ëäã¯ÓîÆîÅèÅÅßÎè×¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×ÄæËðÆî¡¤¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÄùÉÖ¡ÖJava ÙÚÈçÕëßæô¿èº¡×Ï¯¡¢Ý·ÚæûâÄ©óÜÇ©Íõ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Äã×ÊÄ«Ì§Åì¡ÖÏæ Java Æ«ÇÂß×ÆÌÝÔüÕ¡×¡¤Ý·ÚæûâÄ©ÄâÚµÜÃØæ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÍÔÉÖááÉ¢ûâÍÐÎÃãôËçâúóòÕù¡¢ÆÜËçÇ¿Ì½Úµ IBM¡£Ì§ËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÕóÓòÇÑãô¡¢Ý·ÚæûâÄ©ÍõÈçïÚ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Õë¡¢Ç©ÄâÚµËðÆî IBM ÍÐæÚËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÇØê¢ÍÐÙ¸íº¡¤Ý·ÚæûâÄ©êØÜÜê¦ËðÆîÏ¯ÍÔÓÔÚæûâÇÙÒüè× IBM ÄæÏñû¬¡¢ÈÝÅ·óÜêØÆÛÇÙÒüÄæÛ¾à¡ÒÞÇÑ¡¤
+
+IBM¡£Ì§ËòóÜÙ¸Å¯åîïÚÙ¸ÏûËí¡ÖÜ¢Îí¡×ßÈËò¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Å¯ÒÞùÃë©ÍüÅÆÇµ¡¢ËäàÒÅÅßÎÄæåøÙ­¡¢ÅâÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÇ¶ÈôÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÎûÏñøý¡¢ÅèÅ¯ó¼ÆüÄæïËÙÇÍÌÅ¯ÜÊÇÙÖÖÌùÕæÆîÎûÏñøýêØðêÏñ¡¤
+
+ÅèÄ¶Ò³Æ«¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×¡¨
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+ÞóÇÄÒ³¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Äæ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢Ý·ÚæûâÄ©ËíÆÛÚæûâÛ¾à¡Å¯¡ÖÆÛá£È¢¡×òñÏáë©ÍüÅÆÇµ¡¾ÇñÈ´¡¿ÄãÄæÑÀÆü¡¢ÚµÇÂß×ÆÌæÚá«¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÄæÔºÓÔÎê¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÝ¨Ü¡ðÂÕøÅÀ
+
+¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖèÒüÕÈùÎ¤ðÂ¡×ÑÒÄ¡ê¡èÒüÕçÙæª¡¢ÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢Æ«Ò³Ä¡ÈíÍÐÇéÈíËðÆîÏ¯ÍÐÄ¡Ô¶ÍÐÇéÔ¶ÆîÅÂê¦æÒåôÙÚÈçÍÔÓÑÊåÎûá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢¡¤Ó¼çªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂñ¢î®ÍÐÌ§ÅìùËÈýÝÃÞ¬¡¢Ð¬ÊäÄ¡Þ¬È´ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐÕúÑÞæÒç¥æÒåô¡¿ÆÛËÎÉ»áþÒ³Ä¡ÝåÔ¶É±¡ÖèÒüÕÈùÎ¤ðÂ¡×¡¤¡ÖáðóéÈùÎ¤ðÂ¡×ÑÒÄ¡Ýå÷³ÆñÅ¡Þ´Æ«Ëò¡ÖèÒüÕÈùÎ¤ðÂ¡×ÍÐÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéçÙæª¡¤¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀÍõæØúÁêØÙÚÈçÑÀÅïÄæçªê«æÒåôÄùÄæÅü×äÞÌÈí¡¢Ä¡Ô¶Ý¨Ü¡ðÂÕøÅÀÈÝÅ·ÆñÄ¡Ô¶ÑÀÅïÚÕÌ±ÞÌÈíÅ¯Ä¡ÍÐÇéÔ¶ê«Ý´ÍÐüÊòÒÞÌÈíÍÔé¬È©¡¤¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÒ³ÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ÄãÄæ¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×¡¢ÍÐÅ¡ØÙá¿¡ÖáðóéÈùÎ¤ðÂ¡×ÄæáðóéÕøÅÀ¡¤Ý·ÚæûâÄ©óÜÒ³Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÊäÄ¡¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×Ì½ÚµÚæûâËðÆî¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÈùÎ¤ðÂ
+
+¡ÖáðóéÈùÎ¤ðÂ¡×ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤ÞÌÄ¡¡ÖÈùÎ¤ðÂ¡×ÏûÑÀÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢ËäÒ³Ä¡ÍÐÇéÔ¶ËðÆîÏ¯ÍÐÆîÅÂê¦æÒåôÙÚÈçÍÔëæÄæá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢ÄæÄ¡Ì¦èÒüÕçÙæª¡¤ÞóÄØçªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂÙ×Õ½ÍÐÌ§ÅìùËÈýÝÃÞ¬ÈÔËÆ¡¢ÊäÄ¡Ô¶Ì¦Þ¬ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐæÒÈ´ÕúÑÞÄææÒåô¡¿¡¢ÉáÝ·ÞÌñÁáþÒ³Ô¶É±ÈùÎ¤ðÂ¡¤ê¢¡ÖáðóéÈùÎ¤ðÂ¡×Ï¯¡¢ÏûÑÀ÷³ÆñÅ¡Þ´ (partitioning) Æ«ËòèÒüÕÈùÎ¤ðÂÍÐÆÜÅ¡Þ´èÒüÕÈùÎ¤ðÂËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéÈùÎ¤ðÂ¡¤Äâï¢æÚáðóéÈùÎ¤ðÂÄãÄæÝ¨Ü¡ðÂÕøÅÀÍÐæÚáðóéÈùÎ¤ðÂÄ¸ÄæÆÛá£È¢îïÆÛí°âØÒ³Èô¡¢Ý·ÚæûâÄ©ëæÌ½ÚµËòÆÛá£È¢ËðÆîÄæÇÖáðóéÈùÎ¤ðÂÄæáðóéÈùÎ¤ðÂÚæûâ¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. ÔÏÆíØíÆ«ÆîÍÌÖÖÌùÅü×ä(feature)
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÔÏÆíØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¾¡ÖÔÏÆíØíÆ«ÆîÍÌ¡×¡¿¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³¡ÖÔÏÆíØíÆ«ÆîÍÌÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîæÚÖÖÌùÅü×ä¡¤ ÆÛá£È¢ÆÒâüÌ½Úµ IBM MQ Advanced ÇãÄ¡Ô¶ÈùÎ¤ðÂÄ¸ÄæÚæûâ¡¢ÈþÄ¨Ô¶Ê½ÆÛÈùÎ¤ðÂÄâÆîÍõâ£Èõ¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌÖÖÌùÅü×ä (feature)
+
+Ý·ÚæûâÄ©ÍÔÌ½ÚµÄæ IBM MQ High Availability Replica ÍÐ IBM MQ Advanced High Availability Replica¡¾ÇÖê¢Ò³Ä¡Ô¶ "High Availability Replica"¡¿Úæûâí°âØ¡¢âüËÍÅèÛàêä High Availability Replica óôÏáÔ¶É±ÚæûâÛ¾à¡ÍÔç¥Ý·ÚæûâÄ©ØíÆ«ÆîÍÌÓÑÊå¡¢Ý·ÚæûâÄ©ÅÉ×äËðÆîÌ§ÅìØíÆ«ÆîÍÌ¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿ÖÖÌùÅü×ä (feature)¡¤
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ High Availability Replica
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+òññ¢Îêá£È¢
+
+Ý·ÚæûâÄ©È´ûâÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡Öòññ¢Îêá£È¢¡×¡¤òññ¢Îêá£È¢Æ«×äóôÏáÚæûâÛ¾à¡¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚòññ¢Îêá£È¢ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚòññ¢Îêá£È¢ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢¡ÖÅäá£È¢¡×êØ¡Öòññ¢Îêá£È¢¡×Ú¾Ò³¡Öá£È¢¡×Ä¡ÝåÅ¡¡¤ÇÞÈº¡¢ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡Öòññ¢Îêá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡Öòññ¢Îêá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+òññ¢Îêá£È¢¡¨
+IBM MQ High Availability Replica
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Aspera faspio Gateway
+
+ÏæÆîÍõÐúÇ¡ÆÒÓÑÚæûâÄæÄ÷Çµ
+
+Ý·ÚæûâÄ©ÚµËíÚæûâÛ¾à¡ÇøæÒÅ¯ËðÆîÄ¶ÇÄá£È¢Ä÷Çµ¡¢ÈþæÚá«Ä÷ÇµÄâÝ·ÆîÅèÉ²Ìù¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÝ¨Ü¡ðÂÕøÅÀ
+
+¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖèÒüÕÈùÎ¤ðÂ¡×ÑÒÄ¡ê¡èÒüÕçÙæª¡¢ÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢Æ«Ò³Ä¡ÈíÍÐÇéÈíËðÆîÏ¯ÍÐÄ¡Ô¶ÍÐÇéÔ¶ÆîÅÂê¦æÒåôÙÚÈçÍÔÓÑÊåÎûá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢¡¤Ó¼çªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂñ¢î®ÍÐÌ§ÅìùËÈýÝÃÞ¬¡¢Ð¬ÊäÄ¡Þ¬È´ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐÕúÑÞæÒç¥æÒåô¡¿ÆÛËÎÉ»áþÒ³Ä¡ÝåÔ¶É±¡ÖèÒüÕÈùÎ¤ðÂ¡×¡¤¡ÖáðóéÈùÎ¤ðÂ¡×ÑÒÄ¡Ýå÷³ÆñÅ¡Þ´Æ«Ëò¡ÖèÒüÕÈùÎ¤ðÂ¡×ÍÐÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéçÙæª¡¤¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀÍõæØúÁêØÙÚÈçÑÀÅïÄæçªê«æÒåôÄùÄæÅü×äÞÌÈí¡¢Ä¡Ô¶Ý¨Ü¡ðÂÕøÅÀÈÝÅ·ÆñÄ¡Ô¶ÑÀÅïÚÕÌ±ÞÌÈíÅ¯Ä¡ÍÐÇéÔ¶ê«Ý´ÍÐüÊòÒÞÌÈíÍÔé¬È©¡¤¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÒ³ÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ÄãÄæ¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×¡¢ÍÐÅ¡ØÙá¿¡ÖáðóéÈùÎ¤ðÂ¡×ÄæáðóéÕøÅÀ¡¤Ý·ÚæûâÄ©óÜÒ³Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÊäÄ¡¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×Ì½ÚµÚæûâËðÆî¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÈùÎ¤ðÂ
+
+¡ÖáðóéÈùÎ¤ðÂ¡×ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤ÞÌÄ¡¡ÖÈùÎ¤ðÂ¡×ÏûÑÀÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢ËäÒ³Ä¡ÍÐÇéÔ¶ËðÆîÏ¯ÍÐÆîÅÂê¦æÒåôÙÚÈçÍÔëæÄæá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢ÄæÄ¡Ì¦èÒüÕçÙæª¡¤ÞóÄØçªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂÙ×Õ½ÍÐÌ§ÅìùËÈýÝÃÞ¬ÈÔËÆ¡¢ÊäÄ¡Ô¶Ì¦Þ¬ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐæÒÈ´ÕúÑÞÄææÒåô¡¿¡¢ÉáÝ·ÞÌñÁáþÒ³Ô¶É±ÈùÎ¤ðÂ¡¤ê¢¡ÖáðóéÈùÎ¤ðÂ¡×Ï¯¡¢ÏûÑÀ÷³ÆñÅ¡Þ´ (partitioning) Æ«ËòèÒüÕÈùÎ¤ðÂÍÐÆÜÅ¡Þ´èÒüÕÈùÎ¤ðÂËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéÈùÎ¤ðÂ¡¤Äâï¢æÚáðóéÈùÎ¤ðÂÄãÄæÝ¨Ü¡ðÂÕøÅÀÍÐæÚáðóéÈùÎ¤ðÂÄ¸ÄæÆÛá£È¢îïÆÛí°âØÒ³Èô¡¢Ý·ÚæûâÄ©ëæÌ½ÚµËòÆÛá£È¢ËðÆîÄæÇÖáðóéÈùÎ¤ðÂÄæáðóéÈùÎ¤ðÂÚæûâ¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. Ý·ÚæûâÄ©è×¡ÖÆÛá£È¢¡×ÄæËðÆî¡¢ã¯ÅèÄ¶ÓÝÖÖÉ±Åü×äÍÐ¡ÖÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡×Ä¡åçÍÔÝ½ÌùÄæËðÆîÒ³Óî¡¤
+
+1. ÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢Åü×ä
+
+Ý·ÚæûâÄ©ã¯ÓîÍõÒ³¡ÖÑ¡ÌÔÄæÆøÎû¡×ÈÔËðÆî¡ÖÆÛá£È¢¡×ÄæÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢ÖÖÍÌ¡¤ ÍÔê¢¡ÖÑ¡ÌÔÄæÆøÎû¡×¡¢ÏûÑÀ¡ÖÆÛá£È¢¡×ÄØÚöÙ¯¡¢Èþíýë¥Øæá£È¢ÄæÉ¢ÆîÄãÅ¯ñÁÇ¡ÚæûâÄæ IBM MQ îïÆÛÇÞÆÂÕæÞ¬ßÎÈÔÊÑÆñ¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ú«úýÙÚÈçÉ¢äÆÆÀ¡¢¡ÖÆÛá£È¢¡×ÄóÏñÑ½âçåôÄæÎíèè¡¤ ÇñàõÆíÐ©ÓÝÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤ ¡ÖÆÛá£È¢¡×ÍõàõÆíÆÂÕæÞ¬ßÎÐ©¡¢ÆÜÆîÍõÙÚÈçÇ¶ÈôÆßÈ¢É¢äÆÄÖÉ¢¡¢ÈÔÙñÏÜÆîÍõê§Ü¡Ù¯É¢Ï¯¡¢É»áþÒ³¡Öâçåô¡×¡¤
+
+2. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ØíÆ«ÆîÍÌÅü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîÆÛâúÖÖÉ±Åü×ä¡¤ Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¨ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄµÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ ä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆîÆÛØíÆ«ÆîÍÌÖÖÉ±Åü×äÕë¡¢ÈíÍõË¤ùÅÇßß¦×»ÆºÄæÄµÝåØíÆ«ÆîÍÌÈùÎ¤ðÂ¡¢Ç©óÜËíÐ©ÓÝÅÉÈ¢Ý·Úæûâ¡¤
+
+3. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢Ë¤ùÅÇßß¦ÖÖÉ±Åü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄ¨ÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¡ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄ¨ÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ ÆÛÄ¨ÝåÈùÎ¤ðÂÄæË¤ùÅÇßß¦ØÙåô¡¢Ò³Ä¡ÄâÇÑØÙåô¡¢Ì§ÏûËðÆîÄµÝåÈùÎ¤ðÂÉ¢Ò³ØíÆ«ÆîÍÌØÙåô¡¢É»Ëðä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆî¡¢Ç©ÇÑ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù
+
+Ý·ÚæûâÄ©òÙðåä®ØÙ¡ÖÆÛá£È¢¡×Ä¡Ë÷ËðÆîÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿Ï¯¡¢Ý·ÚæûâÄ©ÚµÙò¡ÖÆÛá£È¢¡×åµÉ¢ØíÆ«ÆîÍÌÊ½ÆÛ¡¢ÚÍæÚÊ½ÆÛã¯ÓîÍõÙ×ÍõÞ¬Ç¹ÄæÆøÎûÈÔÈíÍõÑ¡ÌÔÈùÎ¤ðÂ¡¢Åâ¡ÖÆÛá£È¢¡×Ç©ÌþÆÜÚöÙ¯¡¤ ØíÆ«ÆîÍÌÄ÷ÇµÈ´Æ«×äÍõÉ¢ÆîÄãÈùÎ¤ðÂÆÂÕæÕëÈÜÙ¯ÚöÙ¯¡ÖÆÛá£È¢¡×¡¢È´æÚÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖÆÛá£È¢¡×ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+Æ«ÇÂß×ÆÌÝÔüÕ
+
+¡ÖÆÛá£È¢¡×ÄùÉÖ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ä÷Çµ¡¢ËäÇÄÆüÇñÄ¶¡¤è×¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Ò³ß×ÆÌÕë¡¢óÜÅèÆøÎûî£ÖªÈ¢Ò³Äæ¡¢Åâã¯ÓîÙòÄæÉ¢Ò³Ý·ÚæûâÄ©É³Æî¡ÖÆÛá£È¢¡×âäàõÄæÝ·ÚæûâÄ©ÅûÔ«óÜÆîá£È¢¡¾¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×¡¿ÄæÄ¡ÝåÅ¡¡¢Ëäã¯ÓîÆîÅèÅÅßÎè×¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×ÄæËðÆî¡¤¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÄùÉÖ¡ÖJava ÙÚÈçÕëßæô¿èº¡×Ï¯¡¢Ý·ÚæûâÄ©óÜÇ©Íõ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Äã×ÊÄ«Ì§Åì¡ÖÏæ Java Æ«ÇÂß×ÆÌÝÔüÕ¡×¡¤Ý·ÚæûâÄ©ÄâÚµÜÃØæ¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×ÍÔÉÖááÉ¢ûâÍÐÎÃãôËçâúóòÕù¡¢ÆÜËçÇ¿Ì½Úµ IBM¡£Ì§ËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÕóÓòÇÑãô¡¢Ý·ÚæûâÄ©ÍõÈçïÚ¡ÖÝ·ÚæûâÄ©óÜÆîá£È¢¡×Õë¡¢Ç©ÄâÚµËðÆî IBM ÍÐæÚËòóÜÙ¸ÍÐåîïÚÙ¸ÄæÇØê¢ÍÐÙ¸íº¡¤Ý·ÚæûâÄ©êØÜÜê¦ËðÆîÏ¯ÍÔÓÔÚæûâÇÙÒüè× IBM ÄæÏñû¬¡¢ÈÝÅ·óÜêØÆÛÇÙÒüÄæÛ¾à¡ÒÞÇÑ¡¤
+
+IBM¡£Ì§ËòóÜÙ¸Å¯åîïÚÙ¸ÏûËí¡ÖÜ¢Îí¡×ßÈËò¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Å¯ÒÞùÃë©ÍüÅÆÇµ¡¢ËäàÒÅÅßÎÄæåøÙ­¡¢ÅâÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÇ¶ÈôÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÎûÏñøý¡¢ÅèÅ¯ó¼ÆüÄæïËÙÇÍÌÅ¯ÜÊÇÙÖÖÌùÕæÆîÎûÏñøýêØðêÏñ¡¤
+
+ÅèÄ¶Ò³Æ«¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×¡¨
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+ÞóÇÄÒ³¡ÖÆ«ÇÂß×ÆÌÝÔüÕ¡×Äæ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢Ý·ÚæûâÄ©ËíÆÛÚæûâÛ¾à¡Å¯¡ÖÆÛá£È¢¡×òñÏáë©ÍüÅÆÇµ¡¾ÇñÈ´¡¿ÄãÄæÑÀÆü¡¢ÚµÇÂß×ÆÌæÚá«¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÄæÔºÓÔÎê¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+ÇøæÒ
+
+ê¢¡ÖÇøæÒ¡×Ï¯¡¢ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖÇøæÒ¡×ÏûÑÀÆ«ÍõçÙæªÄæèÒüÕÍÐáðóééöé÷Ä¸ÙÚÈçÄæÆÛá£È¢ÄæÄØÇøæÒîïÆÛ¡¤Ý·ÚæûâÄ©óÜÒ³ÆÛá£È¢ÄæÊäÄ¡¡ÖÇøæÒ¡×Ì½ÚµÄ¡Ç¹Úæûâ¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+ÇøæÒ
+
+ê¢¡ÖÇøæÒ¡×Ï¯¡¢ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖÇøæÒ¡×ÏûÑÀÆ«ÍõçÙæªÄæèÒüÕÍÐáðóééöé÷Ä¸ÙÚÈçÄæÆÛá£È¢ÄæÄØÇøæÒîïÆÛ¡¤Ý·ÚæûâÄ©óÜÒ³ÆÛá£È¢ÄæÊäÄ¡¡ÖÇøæÒ¡×Ì½ÚµÄ¡Ç¹Úæûâ¡¤
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. Ý·ÚæûâÄ©è×¡ÖÆÛá£È¢¡×ÄæËðÆî¡¢ã¯ÅèÄ¶ÓÝÖÖÉ±Åü×äÍÐ¡ÖÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡×Ä¡åçÍÔÝ½ÌùÄæËðÆîÒ³Óî¡¤
+
+1. ÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä
+
+Ý·ÚæûâÄ©ã¯ÓîÍõÒ³¡ÖÑ¡ÌÔÄæÆøÎû¡×ÈÔËðÆî¡ÖÆÛá£È¢¡×ÄæÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¤ÍÔê¢¡ÖÑ¡ÌÔÄæÆøÎû¡×¡¢ÏûÑÀ¡ÖÆÛá£È¢¡×ÄØÚöÙ¯¡¢Èþíýë¥Øæá£È¢ÄæÉ¢ÆîÄãÅ¯ñÁÇ¡ÚæûâÄæ IBM MQ îïÆÛÇÞÆÂÕæÞ¬ßÎÈÔÊÑÆñ¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ú«úýÙÚÈçÉ¢äÆÆÀ¡¢¡ÖÆÛá£È¢¡×ÄóÏñÑ½âçåôÄæÎíèè¡¤ÇñàõÆíÐ©ÓÝÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤¡ÖÆÛá£È¢¡×ÍõàõÆíÆÂÕæÞ¬ßÎÐ©¡¢ÆÜÆîÍõÙÚÈçÇ¶ÈôÆßÈ¢É¢äÆÄÖÉ¢¡¢ÈÔÙñÏÜÆîÍõê§Ü¡Ù¯É¢Ï¯¡¢É»áþÒ³¡Öâçåô¡×¡¤
+
+2. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ØíÆ«ÆîÍÌÖÖÉ±Åü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîÆÛâúÖÖÉ±Åü×ä¡¤Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¨ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄµÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆîÆÛØíÆ«ÆîÍÌÖÖÉ±Åü×äÕë¡¢ÈíÍõË¤ùÅÇßß¦×»ÆºÄæÄµÝåØíÆ«ÆîÍÌÈùÎ¤ðÂ¡¢Ç©óÜËíÐ©ÓÝÅÉÈ¢Ý·Úæûâ¡¤
+
+3. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢Ë¤ùÅÇßß¦ÖÖÉ±Åü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄ¨ÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîÆÛâúÖÖÉ±Åü×ä¡¤Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¡ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄ¨ÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ÆÛÄ¨ÝåÈùÎ¤ðÂÄæË¤ùÅÇßß¦ØÙåô¡¢Ò³Ä¡ÄâÇÑØÙåô¡¢Ì§ÏûËðÆîÄµÝåÈùÎ¤ðÂÉ¢Ò³ØíÆ«ÆîÍÌØÙåô¡¢É»Ëðä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆî¡¢Ç©ÇÑ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù
+
+Ý·ÚæûâÄ©òÙðåä®ØÙ¡ÖÆÛá£È¢¡×Ä¡Ë÷ËðÆîÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿Ï¯¡¢Ý·ÚæûâÄ©ÚµÙò¡ÖÆÛá£È¢¡×åµÉ¢ØíÆ«ÆîÍÌÊ½ÆÛ¡¢ÚÍæÚÊ½ÆÛã¯ÓîÍõÙ×ÍõÞ¬Ç¹ÄæÆøÎûÈÔÈíÍõÑ¡ÌÔÈùÎ¤ðÂ¡¢Åâ¡ÖÆÛá£È¢¡×Ç©ÌþÆÜÚöÙ¯¡¤ØíÆ«ÆîÍÌÄ÷ÇµÈ´Æ«×äÍõÉ¢ÆîÄãÈùÎ¤ðÂÆÂÕæÕëÈÜÙ¯ÚöÙ¯¡ÖÆÛá£È¢¡×¡¢È´æÚÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖÆÛá£È¢¡×ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+ÓìÓÑËçâú¡¨îùÅêÜØïåûô
+
+ÅèÄ¶ÇÄÅøÄ¨Ç¹ÚæûâÇÙÒü¡¤
+
+1. IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ
+2. IBM ÙÏëãá£È¢ÚæûâÇÙÒü
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³ÆßÈ¢É¢äÆÆîÝä¡¾ÈÔÏæâ£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆü â¸ÐêÅÂÉùÇÀÚÙÌ¿ÇÀÝå IBM ÙÏëãá£È¢ÚæûâÇÙÒü¡¤
+
+Ó¼Ý·ÚæûâÄ©Ì½ÚµÆÛá£È¢ÄæÆøÎûÒ³â£Èõ¡£àÁæÜ¡£æÜÆî¡¾æÜÑ¥ÇÂâ¹¡¿ÍÐÆüî¯¡¾ÜÓê¢¡Öâ£Èõ¡×¡¿¡¨ÑºÄ¡Ä¶¡ÖÚÙÌ¿¡×ÄæÄ¶ÅÉÑºâÚ¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑÕëÚÙÌ¿ (i) ÇÀÝåÄæ IBM ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ¡¾¡Öâ£ÈõÚæûâÇÙÒü¡×¡¿¡§Å¯ (ii) ÇÀÝåÄæ IBM ÙÏëãá£È¢ÚæûâÇÙÒü ("IPLA")¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×ïËÆîÍõÝ·ÚæûâÄ©Äæâ£Èõßæ¡¤
+
+Ó¼Ý·ÚæûâÄ©Íõâ£ÈõßæÑ¥øÜÓÔÚèõÕÇÙÒü¡¾ËóÇñ¡¨IBM ÙÏëã Passport Advantage ÍÐ IBM Passport Advantage Express ÇÙÒü¡¿ÈÔòÙðåÏñÖçÆÛá£È¢¡¾ÍÐÌ½ÚµÆÛá£È¢Äæ÷ìÆÀÇ¹í°¡¢ÅèËòâ£ÈõßæÑ¥ËðÆî¡¿¡¢Ð¬ IPLA ÈÜÙ¯ïËÆî¡¤
+
+¡Öâ£ÈõÚæûâÇÙÒü¡×Å¯ IPLA ÄâÚµÇÑÕëÆíÕæ¡§Ì§ÄãÇ¶Ä¡ÇÙÒüÄâÚµÔºÊÑÆ¶Ä¡ÇÙÒü¡§ÅâÈºÄ¨Ç¹Ò³ÇÖÈÜñÁÇ¡ÄæÇÙÒü¡¤
+
+ÅèÄ¶Ò³æÚá«Ä¨Ç¹ÚæûâÇÙÒüÄæÉùðìÄùÕ©¡¤
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - á£È¢â£Èõ (i125-5543-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+â£Èõßæ
+
+â£ÈõßæÈÜÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÛ¾à¡ÄæÅÊØÄê«¡¢Íõ 90 ÅÊÑ¥ÜÜÅÏ¡¤
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Observability by Instana Application Performance Monitoring
+
+ÔÆÆîÄ÷Çµ
+
+Ý·ÚæûâÄ©ã¯ÓîËðÆîÍÔÑÀÌù¡Öòññ¢Îêá£È¢¡×ÍÐ¡ÖÅÅßÎá£È¢¡×ÄæÄ¶ÇÄÄ÷ÇµÍÐÅü×ä¡¨
+IBM MQ Tracing
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãá£È¢ÚæûâÇÙÒü (i125-3301-15)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+ÅÅßÎá£È¢
+
+Ý·ÚæûâÄ©ã¯ÓîËíÆÛÇÙÒüÍõÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡ÖÅäá£È¢¡×ÈÔÇøæÒÅ¯ËðÆîÅèÄ¶ÍÔç¥¡ÖÅÅßÎá£È¢¡×¡¤¡ÖÒ³ÅÅßÎÝ·ÚæûâÄ©ËðÆî¡×ÄæÆîë£¡¢ã¯ÅýÑÄÆÒÓÑÄæËðÆî¡¢ÍÐêØÅäÓÑá£È¢ÍÐÌ§ÅìÅÅßÎá£È¢ÄæÚæûâËðÆîÎþÚÙÒÞùÃÄæËðÆî¡¤¡ÖÅÅßÎá£È¢¡×ÄâÚµÆîÍõÇ¶ÈôÌ§ÅìÆîÝä¡¤¡ÖÅÅßÎá£È¢¡×Æ«×äóôÏáÚæûâÛ¾à¡¡¢È´óôÏáÏ¯¡¢æÚá«ÚæûâÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×æÚ¡ÖÅÅßÎá£È¢¡×ÄæËðÆî¡¤È´Íêú½Ï¯¡¢ÆÛÚæûâÅÃÅõÄãÄæÛ¾à¡ç¤æÚ¡ÖÅÅßÎá£È¢¡×ÄæÛ¾à¡óÀÇ¿ïËÆî¡¤ðìüÕÈÔËÆ¡¢Ý·ÚæûâÄ©ÆÒâüÌ½ÚµËÍÅèÛàêäÝ·ÚæûâÄ©è×ÍÔÈ´¡ÖÅÅßÎá£È¢¡×ÍÔÒ³ÇøæÒêØËðÆîÄæ¡Öá£È¢¡×Úæûâí°¡¢ÈþÆÛÚæûâÅÃÅõÆ¶È´ßÈËòÄâÇÑÚæûâÏ¯ØæÆÀ¡¤ËóÇñ¡¢Ó¼Ð©ÓÝ¡Öá£È¢¡×ÏûÑº VPC¡¾¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×¡¿ßÈËòÚæûâ¡¢ÅâÝ·ÚæûâÄ©ÏûÙòÐ©ßË¡ÖÅäá£È¢¡×ÍÐÑÜÄ¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÄ¡Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢ËäÙòÆ¶Ä¡¡ÖÅÅßÎá£È¢¡×ÇøæÒÍõÜÉÄ¨Ýå 10 Ô¶ VPC Äæñ¢ðÂ¡¢Ð¬Ý·ÚæûâÄ©ÆÒâüÌ½ÚµæÚ¡Öá£È¢¡×Äæ 20 Ô¶ VPC Úæûâ¡¤
+
+ÅÅßÎá£È¢¡¨
+IBM Observability by Instana Application Performance Monitoring
+
+ÔÆÆîÄ÷Çµ
+
+Ý·ÚæûâÄ©ã¯ÓîËðÆîÍÔÑÀÌù¡Öòññ¢Îêá£È¢¡×ÍÐ¡ÖÅÅßÎá£È¢¡×ÄæÄ¶ÇÄÄ÷ÇµÍÐÅü×ä¡¨
+IBM MQ Tracing
+
+ÏæÆîÍõÐúÇ¡ÆÒÓÑÚæûâÄæÄ÷Çµ
+
+Ý·ÚæûâÄ©ÚµËíÚæûâÛ¾à¡ÇøæÒÅ¯ËðÆîÄ¶ÇÄá£È¢Ä÷Çµ¡¢ÈþæÚá«Ä÷ÇµÄâÝ·ÆîÅèÉ²Ìù¡ÖÆÛá£È¢¡×ÍÔëæÄæÚæûâí°âØ¡¤
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Æ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£
+
+ÇãÎÃãôËçâúÄã IBM ÙòÜÉÄµÄ©á£È¢î£áþÒ³¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Õë¡¾Ó¼È´¡¿¡¢ÏÐÆü IBM ÚæûâÝ·ÚæûâÄ©ÚµÒ³Ä¶ÇÄÚÅËç¡¨ 1) ÔºÊÑ¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×Å¯ 2) è×ÎþÚÙÝÙá¸¡ÖÆ«ÔºÊÑÄæÜÉÄµÄ©á£È¢î£¡×ÄæÆÛá£È¢í¼ÜÚâÐÈçõäÔÏÄÖá£¡¢ÚÍã¯ÓîÙ×Íõ â¸ÐêÅÂè×æÚÜÉÄµÄ©á£È¢î£ÍÔÒ³ÄæÔºÊÑâÐÈçØæòãÄæÆøÎûÈÔÒ³Äæ¡¤ IBM ÄæÎ¤Ù­êØÅÅßÎåøÙ­¡¾ÇñÎªÈ´Îûæã¡¿¡¢ã¯ïËÆîÍõÆÜÔºÊÑÄæ¡Öá£È¢¡×¡¤
+
+ñÁÇ¡Úæûâá£È¢î£
+
+NON_IBM_LICENSE óòÕùÍÔÇÄÇÖÄ÷ÇµÅ¡É±áþÒ³¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢Ì§ÚæûâÏûËíÓÔÍõóôÏáÍõ¡ÖÆÛá£È¢¡×¡¾ÈÔÏæÆÛÇÙÒü¡¿Äæ NON_IBM_LICENSE óòÄùïËÆîÜÉÄµÄ©ÚæûâÇÙÒüÛ¾à¡ÄæÝ½ÌùÚæêØÝ·ÚæûâÄ©¡¤ÆÜËôÄæá£È¢ÊÕä»ÍÐÔºÆßá£È¢Æ«×äÅýÉÖ÷ìÆÀÄæ¡ÖñÁÇ¡Úæûâá£È¢î£¡×¡¢æÚá«÷ìÆÀ¡ÖñÁÇ¡Úæûâá£È¢î£¡×Å¯ÒÞùÃÄæÚæûâÇÄÍõÆ¶Ä¡Ç¹óôÏáÍõÆÛá£È¢ÊÕä»ÍÐÔºÆßá£È¢ÄæïËÆî NON_IBM_LICENSE óòÄù¡¤
+
+Ïáâ¡¡¨ôëËðÍõÜÉÄµÄ©ÚæûâÇÙÒü¡£ÆÛÇÙÒüÍÐÝ·ÚæûâÄ©Æ«×äêØ IBM ÍÔøÜå÷ÄæÇ¶ÈôÌ§ÅìÇÙÒü¡¢Þó¡ÖñÁÇ¡Úæûâá£È¢î£¡×ÓÔÈ´Ç¶ÈôÛ¾à¡¡¨
+(a) IBM ßÈËòÐ©ÓÝá£È¢î£ÚæûâÄèÝ·ÚæûâÄ©¡¢ÏûÆÜßÈËòÇ¶ÈôÅÉÈ¢ÄæÏñøý¡§Å¯ ÆÜßÈËòÇ¶ÈôÍüÆüêØó¼ÆüÄæÏñøý¡¢ÅýÑÄÅâÄâÓîÍõÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÄâÌ¿ÄÛöÆÄæÏñøý¡¢ÅèÅ¯ïËÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýêØðêÏñ¡§
+(b) IBM è×ÍõÇ¶ÈôÎþÚÙ¡£âæÚÙ¡£ÏáÚ§¡£ÖÖÖ±¡£ø´Ê»ÍÌ¡£ø´êÈÍÌÍÐÓÏÆíÍÌä´Õ¤¡¢ÅýÑÄÈþÄâÓîÍõæñÕèÄæäæÆÂ¡£Æ«çßßæåçÒÜÄæÈ©ÆÛÅ¯ÍÔÆÂÉ³Öô¡¢äÍÄâÓ×ÝÊÇ¶¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+Ä¶ÇÄÓÓâØÞÌÈíïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+Ý¨Ü¡ðÂì¤Ô«ÞÌÈí (Processor Value Unit, PVU)
+
+¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤ÍÔëæ PVU ÚæûâÄæÇ¹í°¡¢ÏûÅèÝ¨Ü¡ðÂÊÀÝ´¡¾Ý·ÌùåøÍõ ¡ÖÅ¡ß×È¢ÝÔüÕ¡×ê½×»Äæ¡ÖÝ¨Ü¡ðÂì¤Ô«ÞÌÈí (PVU)¡×ÚæûâÄù¡¢æÛÄ¶ÇÄê½Éß¡¨https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html¡¿Å¯Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÝ¨Ü¡ðÂí°âØÒ³Ù×öð¡¤IBM Ò³Åè PVU Ò³ÚæûâÓÓâØÞÌÈíÄæÆøÎû¡¢Ä¡ÝËÙòÄ¡Ô¶Ý¨Ü¡ðÂÌùåøÒ³ßÞÅÚÄ¸ÄæÊäÄ¡Ý¨Ü¡ðÂÕøÅÀ¡¤ËóÇñ¡¢÷äÕøÅÀÝ¨Ü¡ðÂßÞÅÚÈ´Ä¨Ô¶Ý¨Ü¡ðÂÕøÅÀ¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÝ¨Ü¡ðÂÕøÅÀ
+
+¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀ¡ÖÆÛá£È¢¡×ÄæÚæûâÓÓâØÞÌÈí¡¤¡ÖèÒüÕÈùÎ¤ðÂ¡×ÑÒÄ¡ê¡èÒüÕçÙæª¡¢ÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢Æ«Ò³Ä¡ÈíÍÐÇéÈíËðÆîÏ¯ÍÐÄ¡Ô¶ÍÐÇéÔ¶ÆîÅÂê¦æÒåôÙÚÈçÍÔÓÑÊåÎûá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢¡¤Ó¼çªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂñ¢î®ÍÐÌ§ÅìùËÈýÝÃÞ¬¡¢Ð¬ÊäÄ¡Þ¬È´ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐÕúÑÞæÒç¥æÒåô¡¿ÆÛËÎÉ»áþÒ³Ä¡ÝåÔ¶É±¡ÖèÒüÕÈùÎ¤ðÂ¡×¡¤¡ÖáðóéÈùÎ¤ðÂ¡×ÑÒÄ¡Ýå÷³ÆñÅ¡Þ´Æ«Ëò¡ÖèÒüÕÈùÎ¤ðÂ¡×ÍÐÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéçÙæª¡¤¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÑÀÍõæØúÁêØÙÚÈçÑÀÅïÄæçªê«æÒåôÄùÄæÅü×äÞÌÈí¡¢Ä¡Ô¶Ý¨Ü¡ðÂÕøÅÀÈÝÅ·ÆñÄ¡Ô¶ÑÀÅïÚÕÌ±ÞÌÈíÅ¯Ä¡ÍÐÇéÔ¶ê«Ý´ÍÐüÊòÒÞÌÈíÍÔé¬È©¡¤¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×ÏûÒ³ÆÜÅ¡Þ´¡ÖèÒüÕÈùÎ¤ðÂ¡×ÄãÄæ¡ÖÝ¨Ü¡ðÂÕøÅÀ¡×¡¢ÍÐÅ¡ØÙá¿¡ÖáðóéÈùÎ¤ðÂ¡×ÄæáðóéÕøÅÀ¡¤Ý·ÚæûâÄ©óÜÒ³Ëò¡ÖÆÛá£È¢¡×ËðÆîÄæÊäÄ¡¡ÖáðóéÝ¨Ü¡ðÂÕøÅÀ¡×Ì½ÚµÚæûâËðÆî¡¤
+
+Ý·ÚæûâÄ©Æ«ÚèÆîÇÀÕ©âØÚæûâ¡£ÄÍÕ©âØÚæûâ (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ÍÐóÃÇôðÂÚæûâ (https://www.ibm.com/software/passportadvantage/containerlicenses.html) Ýåå÷¡ÖÆÛá£È¢¡×¡¤ÇñëæÌ§ÅìæñØ¹¡¢îùÙ¶ïåù¹á¸ê½×»¡¤
+
+áðóéÈùÎ¤ðÂ
+
+¡ÖáðóéÈùÎ¤ðÂ¡×ÏûÑÀÆÛá£È¢ÄæÚæûâÓÓâØÞÌÈí¡¤ÞÌÄ¡¡ÖÈùÎ¤ðÂ¡×ÏûÑÀÆñÝ¨Ü¡æÒåô¡£Ø´ðÙüÕÅ¯òÓÄ«/òÓÅøÅü×äÜÚÈ©¡¢ËäÒ³Ä¡ÍÐÇéÔ¶ËðÆîÏ¯ÍÐÆîÅÂê¦æÒåôÙÚÈçÍÔëæÄæá£Ê©¡£ÑÀÅïÍÐóÜÆîá£È¢ÄæÄ¡Ì¦èÒüÕçÙæª¡¤ÞóÄØçªÆîÕúÑÞ¡£Ä®ïàÈùÎ¤ðÂÙ×Õ½ÍÐÌ§ÅìùËÈýÝÃÞ¬ÈÔËÆ¡¢ÊäÄ¡Ô¶Ì¦Þ¬ÍÔëæÄ÷ÇµÄæÆ«Å¡÷âèÒüÕæÒåô¡¾ËóÇñ¡¨Ä®ïàÈùÎ¤ðÂÍÐæÒÈ´ÕúÑÞÄææÒåô¡¿¡¢ÉáÝ·ÞÌñÁáþÒ³Ô¶É±ÈùÎ¤ðÂ¡¤ê¢¡ÖáðóéÈùÎ¤ðÂ¡×Ï¯¡¢ÏûÑÀ÷³ÆñÅ¡Þ´ (partitioning) Æ«ËòèÒüÕÈùÎ¤ðÂÍÐÆÜÅ¡Þ´èÒüÕÈùÎ¤ðÂËðÆîÄææñäãÈÔÐúÇ¡ÄæáðóéÈùÎ¤ðÂ¡¤Äâï¢æÚáðóéÈùÎ¤ðÂÄãÄæÝ¨Ü¡ðÂÕøÅÀÍÐæÚáðóéÈùÎ¤ðÂÄ¸ÄæÆÛá£È¢îïÆÛí°âØÒ³Èô¡¢Ý·ÚæûâÄ©ëæÌ½ÚµËòÆÛá£È¢ËðÆîÄæÇÖáðóéÈùÎ¤ðÂÄæáðóéÈùÎ¤ðÂÚæûâ¡¤
+
+ØæÐ©ßËÛ¾à¡ÆÀ¡¢Ä¶ÇÄÛ¾à¡Ç©ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+A. Ý·ÚæûâÄ©è×¡ÖÆÛá£È¢¡×ÄæËðÆî¡¢ã¯ÅèÄ¶ÓÝÖÖÉ±Åü×äÍÐ¡ÖÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡×Ä¡åçÍÔÝ½ÌùÄæËðÆîÒ³Óî¡¤
+
+1. ÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢Åü×ä
+
+Ý·ÚæûâÄ©ã¯ÓîÍõÒ³¡ÖÑ¡ÌÔÄæÆøÎû¡×ÈÔËðÆî¡ÖÆÛá£È¢¡×ÄæÇéÓìèÒËóÈïÇÄê§Ü¡á£È¢ÖÖÍÌ¡¤ ÍÔê¢¡ÖÑ¡ÌÔÄæÆøÎû¡×¡¢ÏûÑÀ¡ÖÆÛá£È¢¡×ÄØÚöÙ¯¡¢Èþíýë¥Øæá£È¢ÄæÉ¢ÆîÄãÅ¯ñÁÇ¡ÚæûâÄæ IBM MQ îïÆÛÇÞÆÂÕæÞ¬ßÎÈÔÊÑÆñ¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ú«úýÙÚÈçÉ¢äÆÆÀ¡¢¡ÖÆÛá£È¢¡×ÄóÏñÑ½âçåôÄæÎíèè¡¤ ÇñàõÆíÐ©ÓÝÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖØíÆ«ÆîÍÌÊ½ÆÛ¡×á£È¢ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤ ¡ÖÆÛá£È¢¡×ÍõàõÆíÆÂÕæÞ¬ßÎÐ©¡¢ÆÜÆîÍõÙÚÈçÇ¶ÈôÆßÈ¢É¢äÆÄÖÉ¢¡¢ÈÔÙñÏÜÆîÍõê§Ü¡Ù¯É¢Ï¯¡¢É»áþÒ³¡Öâçåô¡×¡¤
+
+2. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ØíÆ«ÆîÍÌÅü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄµÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢¡×¡¢Ý·ÚæûâÄ©ÌîÚµËðÆîÆÛâúÖÖÉ±Åü×ä¡¤ Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¨ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄµÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ ä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆîÆÛØíÆ«ÆîÍÌÖÖÉ±Åü×äÕë¡¢ÈíÍõË¤ùÅÇßß¦×»ÆºÄæÄµÝåØíÆ«ÆîÍÌÈùÎ¤ðÂ¡¢Ç©óÜËíÐ©ÓÝÅÉÈ¢Ý·Úæûâ¡¤
+
+3. Ê½ìÑæñÕèÈïÇÄê§Ü¡á£È¢Ë¤ùÅÇßß¦ÖÖÉ±Åü×ä
+
+Ý·ÚæûâÄ©ëæÍõÄ¨ÝåÈùÎ¤ðÂØÙåô¡ÖÆÛá£È¢¡×ÄæÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ÖÖÉ±Åü×ä¡¢ÅâæÚá«ÈùÎ¤ðÂÄ¸ÄæÍÔÈ´ÈïÇÄê§Ü¡á£È¢ÆÒâüÇÀÒ³ÆÛ¡ÖÊ½ìÑæñÕèÈïÇÄê§Ü¡á£È¢ Ð©ÓÝÈùÎ¤ðÂÌ§ÄãÄ¡ÝåÚµÝ·ØÙåôÅ¯Ý·ÚæûâÒ³ IBM MQ Advanced High Availability Replica¡¢ÈþÜÉÄ¨ÝåÄØØÙåôÈùÎ¤ðÂÄ¸Äæ IBM MQ îïÆÛ¡¢âüÆ¶ÆÀÌ½Úµ IBM MQ Advanced ÄæÚæûâ¡¢ÌîÚµÌ½ÚµÌ§Úæûâ¡¤ ÆÛÄ¨ÝåÈùÎ¤ðÂÄæË¤ùÅÇßß¦ØÙåô¡¢Ò³Ä¡ÄâÇÑØÙåô¡¢Ì§ÏûËðÆîÄµÝåÈùÎ¤ðÂÉ¢Ò³ØíÆ«ÆîÍÌØÙåô¡¢É»Ëðä®ØÙÊ½ìÑÈÝË¤ùÅÇßß¦×»ÆºÄ¡Ë÷ËðÆî¡¢Ç©ÇÑ¡¤
+
+B. Ì§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù
+
+Ý·ÚæûâÄ©òÙðåä®ØÙ¡ÖÆÛá£È¢¡×Ä¡Ë÷ËðÆîÌ§ÅìØíÆ«ÆîÍÌæØÊîÅÉÕù¡¾ÈÜÙ¯ÆÂÕæÚÙÅÃ¡¿Ï¯¡¢Ý·ÚæûâÄ©ÚµÙò¡ÖÆÛá£È¢¡×åµÉ¢ØíÆ«ÆîÍÌÊ½ÆÛ¡¢ÚÍæÚÊ½ÆÛã¯ÓîÍõÙ×ÍõÞ¬Ç¹ÄæÆøÎûÈÔÈíÍõÑ¡ÌÔÈùÎ¤ðÂ¡¢Åâ¡ÖÆÛá£È¢¡×Ç©ÌþÆÜÚöÙ¯¡¤ ØíÆ«ÆîÍÌÄ÷ÇµÈ´Æ«×äÍõÉ¢ÆîÄãÈùÎ¤ðÂÆÂÕæÕëÈÜÙ¯ÚöÙ¯¡ÖÆÛá£È¢¡×¡¢È´æÚÚÅÊ°Ï¯¡¢ÚµÍõÆÂÕæÞ¬ßÎßæâæËðÆî¡ÖÆÛá£È¢¡×ÙÚÈçÆßÈ¢É¢äÆÄÖÉ¢¡¤
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

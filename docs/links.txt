@@ -1,0 +1,16 @@
+
+IBM MQ:
+https://www.ibm.com/docs/en/ibm-mq
+
+IBM MQ 9.4:
+https://www.ibm.com/docs/en/ibm-mq/9.4
+
+Installing and uninstalling IBM MQ on Linux:
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=uninstalling-installing-mq-linux
+
+Installing Standalone IBM MQ Explorer 9.3 in Windows and Linux:
+https://www.ibm.com/support/pages/system/files/inline-files/Installing%20Standalone%20MQ%20Explorer%209.3%20in%20Windows%20and%20Linux_4.pdf
+
+Installing the first IBM MQ installation on Linux using the rpm command:
+https://www.ibm.com/docs/en/ibm-mq/9.3?topic=imlur-installing-first-mq-installation-linux-using-rpm-command
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=imlur-installing-first-mq-installation-linux-using-rpm-command

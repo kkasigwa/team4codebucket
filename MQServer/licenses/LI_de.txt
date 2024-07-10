@@ -1,0 +1,1125 @@
+HINWEIS
+
+Dieses Dokument enthält weiter unten Lizenzinformationsdokumente für mehrere Programme. In jedem Lizenzinformationsdokument ist das Programm angegeben, auf das es sich bezieht, wobei auch mehrere Programme angegeben sein können. Es kommen nur die Lizenzinformationsdokumente für diejenigen Programme zur Anwendung, für die der Lizenznehmer Berechtigungen erworben hat.
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Observability by Instana Application Performance Monitoring
+
+Zugelassene Komponenten
+
+Der Lizenznehmer darf nur die folgenden Komponenten oder Funktionen des angegebenen gebündelten Programms oder Unterstützungsprogramms verwenden:
+IBM MQ Tracing
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Observability by Instana Application Performance Monitoring
+
+Zugelassene Komponenten
+
+Der Lizenznehmer darf nur die folgenden Komponenten oder Funktionen des angegebenen gebündelten Programms oder Unterstützungsprogramms verwenden:
+IBM MQ Tracing
+
+eschränkung auf die nicht produktive Nutzung
+
+Wenn das Programm für "Non-Production" bestimmt ist, kann der Lizenznehmer das Programm nur im Rahmen seiner internen Entwicklungs- und Testumgebung für interne nicht produktionsbezogene Aktivitäten einsetzen.
+
+Komponenten, die bei der Ermittlung der erforderlichen Berechtigungen nicht berücksichtigt werden
+
+Der Lizenznehmer darf die folgenden Programmkomponenten gemäß den Lizenzbedingungen installieren und nutzen, diese Komponenten werden bei der Ermittlung der erforderlichen Anzahl an Berechtigungen für das Programm aber nicht einbezogen.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Redistributables
+
+Das Programm enthält weiterverteilbare Komponenten (sog. Redistributables), die nachstehend aufgeführt sind. Redistributables dürfen nur in Form von Objektcode als Bestandteil einer Value-Add-Anwendung des Lizenznehmers, die mithilfe des Programms entwickelt wurde ("Anwendung des Lizenznehmers"), und nur zur Unterstützung der Nutzung der Anwendung des Lizenznehmers weitergegeben werden. Wenn die Redistributables eine Java Runtime Environment enthalten, muss der Lizenznehmer zusätzlich andere nicht auf Java basierende Redistributables in seine Anwendung aufnehmen. Der Lizenznehmer darf keine Copyright- oder Notice-Dateien entfernen, die in den Redistributables enthalten sind, und keine Namen oder Marken von IBM, den Lieferanten und Distributoren von IBM in Verbindung mit der Vermarktung seiner Anwendung verwenden, ohne zuvor deren schriftliche Genehmigung eingeholt zu haben. Die Lizenzvereinbarung des Lizenznehmers mit dem Endbenutzer muss die Rechte von IBM in mindestens demselben Maße schützen, wie sie durch die Bedingungen dieser Vereinbarung geschützt werden.
+
+IBM, ihre Lieferanten und Distributoren stellen die Redistributables und zugehörige Dokumentationen ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die Redistributables sind:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Der Lizenznehmer darf bearbeitete Versionen der Quellenkomponenten oder Beispielmaterialien, die als Redistributables aufgeführt sind, weitergeben, sofern die Weitergabe in Übereinstimmung mit den Bedingungen dieser Lizenz und den Anweisungen in der Begleitdokumentation des Programms erfolgt.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtueller Prozessorkern
+
+"Virtueller Prozessorkern" ist eine Maßeinheit für die Lizenzierung des Programms. Ein physischer Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder eine oder mehrere Clienteinheiten ausführt. Wenn Racks, Bladegehäuse oder andere vergleichbare Geräte verwendet werden, gilt jede trennbare physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit) mit den erforderlichen Komponenten selbst als separater physischer Server. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Ein Prozessorkern ist eine Funktionseinheit in einer Computereinheit, die Befehle interpretiert und ausführt. Ein Prozessorkern besteht aus mindestens einem Steuerwerk und einem oder mehreren Rechenwerken für arithmetische oder logische Operationen. Ein virtueller Prozessorkern ist ein Prozessorkern in einem nicht partitionierten physischen Server oder ein virtueller Kern, der einem virtuellen Server zugeordnet ist. Der Lizenznehmer muss für jeden virtuellen Prozessorkern, der dem Programm zur Verfügung steht, Berechtigungen erwerben.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtual Server
+
+"Virtual Server" ist eine Maßeinheit für die Lizenzierung des Programms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und die angeforderten Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Blade-Gehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (zum Beispiel ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Der Lizenznehmer muss für jeden virtuellen Server, der dem Programm zur Verfügung steht, Virtual-Server-Berechtigungen erwerben, unabhängig von der Anzahl der Prozessorkerne in dem virtuellen Server oder der Anzahl der Programmkopien auf dem virtuellen Server.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A: Native Hochverfügbarkeitsfunktion
+
+Damit der Lizenznehmer die native Hochverfügbarkeitsfunktion (Funktion für automatisches Failover) des Programms ("Native Hochverfügbarkeit") einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen native hoch verfügbare Warteschlangenmanager sein. Das Programm muss auf einem einzigen Server lizenziert werden, indem Berechtigungen für IBM MQ Advanced erworben werden, jedoch werden die beiden Replikationsserver nicht dafür herangezogen, die Anzahl der für das Programm erforderlichen Berechtigungen zu bestimmen.
+
+B. Weitere Hochverfügbarkeitsfunktionen
+
+Für die Nutzung anderer Hochverfügbarkeitsfunktionen (Funktionen für automatisches Failover) muss der Lizenznehmer ausreichende Berechtigungen für IBM MQ High Availability Replica oder IBM MQ Advanced High Availability Replica (jeweils ein "Hochverfügbarkeitsreplikat") erwerben, um seine Hochverfügbarkeitsanforderungen abzudecken, wie in den separaten Lizenzbedingungen für die Hochverfügbarkeitsreplikate erläutert.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+Komponenten, die bei der Ermittlung der erforderlichen Berechtigungen nicht berücksichtigt werden
+
+Der Lizenznehmer darf die folgenden Programmkomponenten gemäß den Lizenzbedingungen installieren und nutzen, diese Komponenten werden bei der Ermittlung der erforderlichen Anzahl an Berechtigungen für das Programm aber nicht einbezogen.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Redistributables
+
+Das Programm enthält weiterverteilbare Komponenten (sog. Redistributables), die nachstehend aufgeführt sind. Redistributables dürfen nur in Form von Objektcode als Bestandteil einer Value-Add-Anwendung des Lizenznehmers, die mithilfe des Programms entwickelt wurde ("Anwendung des Lizenznehmers"), und nur zur Unterstützung der Nutzung der Anwendung des Lizenznehmers weitergegeben werden. Wenn die Redistributables eine Java Runtime Environment enthalten, muss der Lizenznehmer zusätzlich andere nicht auf Java basierende Redistributables in seine Anwendung aufnehmen. Der Lizenznehmer darf keine Copyright- oder Notice-Dateien entfernen, die in den Redistributables enthalten sind, und keine Namen oder Marken von IBM, den Lieferanten und Distributoren von IBM in Verbindung mit der Vermarktung seiner Anwendung verwenden, ohne zuvor deren schriftliche Genehmigung eingeholt zu haben. Die Lizenzvereinbarung des Lizenznehmers mit dem Endbenutzer muss die Rechte von IBM in mindestens demselben Maße schützen, wie sie durch die Bedingungen dieser Vereinbarung geschützt werden.
+
+IBM, ihre Lieferanten und Distributoren stellen die Redistributables und zugehörige Dokumentationen ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die Redistributables sind:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Der Lizenznehmer darf bearbeitete Versionen der Quellenkomponenten oder Beispielmaterialien, die als Redistributables aufgeführt sind, weitergeben, sofern die Weitergabe in Übereinstimmung mit den Bedingungen dieser Lizenz und den Anweisungen in der Begleitdokumentation des Programms erfolgt.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtueller Prozessorkern
+
+"Virtueller Prozessorkern" ist eine Maßeinheit für die Lizenzierung des Programms. Ein physischer Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder eine oder mehrere Clienteinheiten ausführt. Wenn Racks, Bladegehäuse oder andere vergleichbare Geräte verwendet werden, gilt jede trennbare physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit) mit den erforderlichen Komponenten selbst als separater physischer Server. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Ein Prozessorkern ist eine Funktionseinheit in einer Computereinheit, die Befehle interpretiert und ausführt. Ein Prozessorkern besteht aus mindestens einem Steuerwerk und einem oder mehreren Rechenwerken für arithmetische oder logische Operationen. Ein virtueller Prozessorkern ist ein Prozessorkern in einem nicht partitionierten physischen Server oder ein virtueller Kern, der einem virtuellen Server zugeordnet ist. Der Lizenznehmer muss für jeden virtuellen Prozessorkern, der dem Programm zur Verfügung steht, Berechtigungen erwerben.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtual Server
+
+"Virtual Server" ist eine Maßeinheit für die Lizenzierung des Programms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und die angeforderten Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Blade-Gehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (zum Beispiel ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Der Lizenznehmer muss für jeden virtuellen Server, der dem Programm zur Verfügung steht, Virtual-Server-Berechtigungen erwerben, unabhängig von der Anzahl der Prozessorkerne in dem virtuellen Server oder der Anzahl der Programmkopien auf dem virtuellen Server.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A: Native Hochverfügbarkeitsfunktion
+
+Damit der Lizenznehmer die native Hochverfügbarkeitsfunktion (Funktion für automatisches Failover) des Programms ("Native Hochverfügbarkeit") einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen native hoch verfügbare Warteschlangenmanager sein. Das Programm muss auf einem einzigen Server lizenziert werden, indem Berechtigungen für IBM MQ Advanced erworben werden, jedoch werden die beiden Replikationsserver nicht dafür herangezogen, die Anzahl der für das Programm erforderlichen Berechtigungen zu bestimmen.
+
+B. Weitere Hochverfügbarkeitsfunktionen
+
+Für die Nutzung anderer Hochverfügbarkeitsfunktionen (Funktionen für automatisches Failover) muss der Lizenznehmer ausreichende Berechtigungen für IBM MQ High Availability Replica oder IBM MQ Advanced High Availability Replica (jeweils ein "Hochverfügbarkeitsreplikat") erwerben, um seine Hochverfügbarkeitsanforderungen abzudecken, wie in den separaten Lizenzbedingungen für die Hochverfügbarkeitsreplikate erläutert.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ for Non-Production Environment 9.4
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ for Non-Production Environment 9.4
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+eschränkung auf die nicht produktive Nutzung
+
+Wenn das Programm für "Non-Production" bestimmt ist, kann der Lizenznehmer das Programm nur im Rahmen seiner internen Entwicklungs- und Testumgebung für interne nicht produktionsbezogene Aktivitäten einsetzen.
+
+Komponenten, die bei der Ermittlung der erforderlichen Berechtigungen nicht berücksichtigt werden
+
+Der Lizenznehmer darf die folgenden Programmkomponenten gemäß den Lizenzbedingungen installieren und nutzen, diese Komponenten werden bei der Ermittlung der erforderlichen Anzahl an Berechtigungen für das Programm aber nicht einbezogen.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Redistributables
+
+Das Programm enthält weiterverteilbare Komponenten (sog. Redistributables), die nachstehend aufgeführt sind. Redistributables dürfen nur in Form von Objektcode als Bestandteil einer Value-Add-Anwendung des Lizenznehmers, die mithilfe des Programms entwickelt wurde ("Anwendung des Lizenznehmers"), und nur zur Unterstützung der Nutzung der Anwendung des Lizenznehmers weitergegeben werden. Wenn die Redistributables eine Java Runtime Environment enthalten, muss der Lizenznehmer zusätzlich andere nicht auf Java basierende Redistributables in seine Anwendung aufnehmen. Der Lizenznehmer darf keine Copyright- oder Notice-Dateien entfernen, die in den Redistributables enthalten sind, und keine Namen oder Marken von IBM, den Lieferanten und Distributoren von IBM in Verbindung mit der Vermarktung seiner Anwendung verwenden, ohne zuvor deren schriftliche Genehmigung eingeholt zu haben. Die Lizenzvereinbarung des Lizenznehmers mit dem Endbenutzer muss die Rechte von IBM in mindestens demselben Maße schützen, wie sie durch die Bedingungen dieser Vereinbarung geschützt werden.
+
+IBM, ihre Lieferanten und Distributoren stellen die Redistributables und zugehörige Dokumentationen ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die Redistributables sind:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Der Lizenznehmer darf bearbeitete Versionen der Quellenkomponenten oder Beispielmaterialien, die als Redistributables aufgeführt sind, weitergeben, sofern die Weitergabe in Übereinstimmung mit den Bedingungen dieser Lizenz und den Anweisungen in der Begleitdokumentation des Programms erfolgt.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtueller Prozessorkern
+
+"Virtueller Prozessorkern" ist eine Maßeinheit für die Lizenzierung des Programms. Ein physischer Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder eine oder mehrere Clienteinheiten ausführt. Wenn Racks, Bladegehäuse oder andere vergleichbare Geräte verwendet werden, gilt jede trennbare physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit) mit den erforderlichen Komponenten selbst als separater physischer Server. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Ein Prozessorkern ist eine Funktionseinheit in einer Computereinheit, die Befehle interpretiert und ausführt. Ein Prozessorkern besteht aus mindestens einem Steuerwerk und einem oder mehreren Rechenwerken für arithmetische oder logische Operationen. Ein virtueller Prozessorkern ist ein Prozessorkern in einem nicht partitionierten physischen Server oder ein virtueller Kern, der einem virtuellen Server zugeordnet ist. Der Lizenznehmer muss für jeden virtuellen Prozessorkern, der dem Programm zur Verfügung steht, Berechtigungen erwerben.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtual Server
+
+"Virtual Server" ist eine Maßeinheit für die Lizenzierung des Programms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und die angeforderten Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Blade-Gehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (zum Beispiel ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Der Lizenznehmer muss für jeden virtuellen Server, der dem Programm zur Verfügung steht, Virtual-Server-Berechtigungen erwerben, unabhängig von der Anzahl der Prozessorkerne in dem virtuellen Server oder der Anzahl der Programmkopien auf dem virtuellen Server.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A: Native Hochverfügbarkeitsfunktion
+
+Damit der Lizenznehmer die native Hochverfügbarkeitsfunktion (Funktion für automatisches Failover) des Programms ("Native Hochverfügbarkeit") einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen native hoch verfügbare Warteschlangenmanager sein. Das Programm muss auf einem einzigen Server lizenziert werden, indem Berechtigungen für IBM MQ Advanced erworben werden, jedoch werden die beiden Replikationsserver nicht dafür herangezogen, die Anzahl der für das Programm erforderlichen Berechtigungen zu bestimmen.
+
+B. Weitere Hochverfügbarkeitsfunktionen
+
+Für die Nutzung anderer Hochverfügbarkeitsfunktionen (Funktionen für automatisches Failover) muss der Lizenznehmer ausreichende Berechtigungen für IBM MQ High Availability Replica oder IBM MQ Advanced High Availability Replica (jeweils ein "Hochverfügbarkeitsreplikat") erwerben, um seine Hochverfügbarkeitsanforderungen abzudecken, wie in den separaten Lizenzbedingungen für die Hochverfügbarkeitsreplikate erläutert.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ High Availability Replica
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Gebündelte Programme
+
+Der Lizenznehmer ist zur Installation und Nutzung der nachstehend aufgeführten gebündelten Programme berechtigt. Einem gebündelten Programm können Lizenzbedingungen beigefügt sein, die für die Nutzung des gebündelten Programms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des gebündelten Programms. Das Hauptprogramm und alle gebündelten Programme sind Teil des Programms als Ganzes. Daher muss der Lizenznehmer ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller gebündelten Programme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein gebündeltes Programm auf einer 10-VPC-Maschine und ein anderes gebündeltes Programm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Gebündelte Programme:
+IBM MQ High Availability Replica
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Aspera faspio Gateway
+
+Komponenten, die bei der Ermittlung der erforderlichen Berechtigungen nicht berücksichtigt werden
+
+Der Lizenznehmer darf die folgenden Programmkomponenten gemäß den Lizenzbedingungen installieren und nutzen, diese Komponenten werden bei der Ermittlung der erforderlichen Anzahl an Berechtigungen für das Programm aber nicht einbezogen.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtueller Prozessorkern
+
+"Virtueller Prozessorkern" ist eine Maßeinheit für die Lizenzierung des Programms. Ein physischer Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder eine oder mehrere Clienteinheiten ausführt. Wenn Racks, Bladegehäuse oder andere vergleichbare Geräte verwendet werden, gilt jede trennbare physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit) mit den erforderlichen Komponenten selbst als separater physischer Server. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Ein Prozessorkern ist eine Funktionseinheit in einer Computereinheit, die Befehle interpretiert und ausführt. Ein Prozessorkern besteht aus mindestens einem Steuerwerk und einem oder mehreren Rechenwerken für arithmetische oder logische Operationen. Ein virtueller Prozessorkern ist ein Prozessorkern in einem nicht partitionierten physischen Server oder ein virtueller Kern, der einem virtuellen Server zugeordnet ist. Der Lizenznehmer muss für jeden virtuellen Prozessorkern, der dem Programm zur Verfügung steht, Berechtigungen erwerben.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtual Server
+
+"Virtual Server" ist eine Maßeinheit für die Lizenzierung des Programms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und die angeforderten Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Blade-Gehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (zum Beispiel ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Der Lizenznehmer muss für jeden virtuellen Server, der dem Programm zur Verfügung steht, Virtual-Server-Berechtigungen erwerben, unabhängig von der Anzahl der Prozessorkerne in dem virtuellen Server oder der Anzahl der Programmkopien auf dem virtuellen Server.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A: Die Nutzung des Programms durch den Lizenznehmer ist auf die folgenden Features beschränkt, wie nachfolgend oder im Abschnitt "Andere Hochverfügbarkeitslösungen" angegeben.
+
+1. Multi-Instance Queue Manager Feature
+
+Der Lizenznehmer darf das Multi-Instance Queue Manager Feature des Programms nur für Standby-Zwecke verwenden. Im Standby-Modus ist das Programm gestartet, aber es muss sichergestellt werden, dass das Programm inaktiv bleibt, außer wenn die aktive und separat berechtigte IBM MQ-Kopie des Programms einen Failover auf das Hochverfügbarkeitsreplikat des Programms durchführt. Wenn dieser Fall eintritt, kann das Hochverfügbarkeitsreplikat des Programms während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden. Das Programm wird als inaktiv (idle) angesehen, solange kein Failover stattfindet und es ausschließlich für Verwaltungsaktionen und nicht für die Ausführung produktiver Arbeiten genutzt wird.
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen Replicated Data Queue Manager sein. Zwei der Server können als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem dritten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Wenn dieses Hochverfügbarkeitsfeature in Verbindung mit Replikation an einen Disaster-Recovery-Standort verwendet wird, müssen die drei Hochverfügbarkeitsserver am Disaster-Recovery-Standort ebenfalls wie oben beschrieben mit Berechtigungen ausgestattet werden.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf zwei Servern erforderlich, und alle Warteschlangenmanager auf den zwei Servern müssen Replicated Data Queue Manager sein. Einer der Server kann als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem zweiten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Diese aus zwei Servern bestehende Disaster-Recovery-Konfiguration unterscheidet sich von der aus drei Servern bestehenden Hochverfügbarkeitskonfiguration, selbst wenn sie mit Replikation an einen Disaster-Recovery-Standort verwendet wird.
+
+B. Andere Hochverfügbarkeitslösungen
+
+Soll das Programm mit anderen Hochverfügbarkeitslösungen (automatischen Failover-Lösungen) eingesetzt werden, ist der Lizenznehmer berechtigt, das Programm als Hochverfügbarkeitsreplikat zu verwenden, solange sich dieses zu Backup-Zwecken auf einem Standby-Server befindet und das Programm nicht gestartet wird. Das Programm kann bei einem Ausfall des aktiven Servers automatisch von den Hochverfügbarkeitskomponenten gestartet werden und in diesem Fall während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Redistributables
+
+Das Programm enthält weiterverteilbare Komponenten (sog. Redistributables), die nachstehend aufgeführt sind. Redistributables dürfen nur in Form von Objektcode als Bestandteil einer Value-Add-Anwendung des Lizenznehmers, die mithilfe des Programms entwickelt wurde ("Anwendung des Lizenznehmers"), und nur zur Unterstützung der Nutzung der Anwendung des Lizenznehmers weitergegeben werden. Wenn die Redistributables eine Java Runtime Environment enthalten, muss der Lizenznehmer zusätzlich andere nicht auf Java basierende Redistributables in seine Anwendung aufnehmen. Der Lizenznehmer darf keine Copyright- oder Notice-Dateien entfernen, die in den Redistributables enthalten sind, und keine Namen oder Marken von IBM, den Lieferanten und Distributoren von IBM in Verbindung mit der Vermarktung seiner Anwendung verwenden, ohne zuvor deren schriftliche Genehmigung eingeholt zu haben. Die Lizenzvereinbarung des Lizenznehmers mit dem Endbenutzer muss die Rechte von IBM in mindestens demselben Maße schützen, wie sie durch die Bedingungen dieser Vereinbarung geschützt werden.
+
+IBM, ihre Lieferanten und Distributoren stellen die Redistributables und zugehörige Dokumentationen ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die Redistributables sind:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Der Lizenznehmer darf bearbeitete Versionen der Quellenkomponenten oder Beispielmaterialien, die als Redistributables aufgeführt sind, weitergeben, sofern die Weitergabe in Übereinstimmung mit den Bedingungen dieser Lizenz und den Anweisungen in der Begleitdokumentation des Programms erfolgt.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Installation
+
+"Installation" ist eine Maßeinheit für die Lizenzierung des Programms. Eine Installation ist eine installierte Kopie des Programms auf einer physischen oder virtuellen Platte, die zur Ausführung auf einem Computer bereitgestellt wird. Der Lizenznehmer muss für jede Programminstallation eine Berechtigung erwerben.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Installation
+
+"Installation" ist eine Maßeinheit für die Lizenzierung des Programms. Eine Installation ist eine installierte Kopie des Programms auf einer physischen oder virtuellen Platte, die zur Ausführung auf einem Computer bereitgestellt wird. Der Lizenznehmer muss für jede Programminstallation eine Berechtigung erwerben.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A. Die Nutzung des Programms durch den Lizenznehmer ist auf die folgenden Features beschränkt, wie nachfolgend oder wie im Abschnitt "Andere Hochverfügbarkeitslösungen" angegeben.
+
+1. Multi-Instance Queue Manager Feature
+
+Der Lizenznehmer darf das Multi-Instance Queue Manager Feature des Programms nur für Standby-Zwecke verwenden. Im Standby-Modus ist das Programm gestartet, aber es muss sichergestellt werden, dass das Programm inaktiv bleibt, außer wenn die aktive und separat berechtigte IBM MQ-Kopie des Programms einen Failover auf das Hochverfügbarkeitsreplikat des Programms durchführt. Wenn dieser Fall eintritt, kann das Hochverfügbarkeitsreplikat des Programms während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden. Das Programm wird als inaktiv (idle) angesehen, solange kein Failover stattfindet und es ausschließlich für Verwaltungsaktionen und nicht für die Ausführung produktiver Arbeiten genutzt wird.
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen Replicated Data Queue Manager sein. Zwei der Server können als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem dritten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Wenn dieses Hochverfügbarkeitsfeature in Verbindung mit Replikation an einen Disaster-Recovery-Standort verwendet wird, müssen die drei Hochverfügbarkeitsserver am Disaster-Recovery-Standort ebenfalls wie oben beschrieben mit Berechtigungen ausgestattet werden.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf zwei Servern erforderlich, und alle Warteschlangenmanager auf den zwei Servern müssen Replicated Data Queue Manager sein. Einer der Server kann als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem zweiten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Diese aus zwei Servern bestehende Disaster-Recovery-Konfiguration unterscheidet sich von der aus drei Servern bestehenden Hochverfügbarkeitskonfiguration, selbst wenn sie mit Replikation an einen Disaster-Recovery-Standort verwendet wird.
+
+B. Andere Hochverfügbarkeitslösungen
+
+Soll das Programm mit anderen Hochverfügbarkeitslösungen (automatischen Failover-Lösungen) eingesetzt werden, ist der Lizenznehmer berechtigt, das Programm als Hochverfügbarkeitsreplikat zu verwenden, solange es sich zu Backup-Zwecken auf einem Standby-Server befindet und nicht gestartet wird. Das Programm kann bei einem Ausfall des aktiven Servers automatisch von den Hochverfügbarkeitskomponenten gestartet werden und in diesem Fall während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+WICHTIG: BITTE AUFMERKSAM LESEN
+
+Es folgen zwei Lizenzvereinbarungen.
+
+1. IBM Internationale Nutzungsbedingungen für die Bewertung von Programmen
+2. IBM Internationale Nutzungsbedingungen für Programmpakete
+
+Wenn der Lizenznehmer das Programm für die produktive Nutzung (nicht für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Wenn der Lizenznehmer das Programm für Bewertungs-, Erprobungs- oder Vorführungszwecke oder für einen Probezeitraum (gemeinsam als "Bewertung" bezeichnet) bezieht: Durch Zustimmung per Mausklick bestätigt der Lizenznehmer sowohl (i) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für die Bewertung von Programmen ("Probelizenz") als auch (ii) die uneingeschränkte Geltung der IBM Internationalen Nutzungsbedingungen für Programmpakete (IPLA).
+
+Die Probelizenz gilt für die Dauer des Bewertungszeitraums.
+
+Die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen automatisch zur Anwendung, wenn der Lizenznehmer sich dafür entscheidet, das Programm nach dem Bewertungszeitraum zu behalten (oder zusätzliche Programmkopien zur Nutzung nach Ablauf des Bewertungszeitraums zu beziehen), indem er eine entsprechende Beschaffungsvereinbarung (z. B. den IBM International Passport Advantage-Vertrag oder den IBM Passport Advantage Express-Vertrag) abschließt.
+
+Die Probelizenz und die IBM Internationalen Nutzungsbedingungen für Programmpakete kommen nicht gleichzeitig zur Anwendung; sie schränken sich weder gegenseitig ein, noch ergänzen sie sich gegenseitig und sind voneinander unabhängige Vereinbarungen.
+
+Der vollständige Text der beiden Lizenzvereinbarungen ist nachfolgend aufgeführt.
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für die Bewertung von Programmen (i125-5543-06).
+
+Programmname (Programmnummer):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Bewertungszeitraum
+
+Der Bewertungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet nach 90 Tagen.
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Observability by Instana Application Performance Monitoring
+
+Zugelassene Komponenten
+
+Der Lizenznehmer darf nur die folgenden Komponenten oder Funktionen des angegebenen gebündelten Programms oder Unterstützungsprogramms verwenden:
+IBM MQ Tracing
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programmpakete (i125-3301-15).
+
+Programmname (Programmnummer):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Unterstützungsprogramme
+
+Der Lizenznehmer darf die nachstehend aufgeführten Unterstützungsprogramme nur zur Unterstützung seiner Nutzung des Hauptprogramms im Rahmen dieser Vereinbarung installieren und nutzen. Der Ausdruck "nur zur Unterstützung seiner Nutzung" umfasst lediglich notwendige Nutzungen oder Nutzungen, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms stehen. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, die für die Nutzung des Unterstützungsprogramms durch den Lizenznehmer gelten. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Der Lizenznehmer muss ausreichende Berechtigungen für das Programm als Ganzes erwerben, um die Installation und Nutzung aller Unterstützungsprogramme abzudecken, außer wenn in diesem Lizenzinformationsdokument separate Berechtigungen bereitgestellt werden. Beispiel: Angenommen, dieses Programm würde auf VPC-Basis (Virtual Processor Core, virtueller Prozessorkern) lizenziert und der Lizenznehmer würde das Hauptprogramm oder ein Unterstützungsprogramm auf einer 10-VPC-Maschine und ein anderes Unterstützungsprogramm auf einer zweiten 10-VPC-Maschine installieren, dann müsste er 20 VPC-Berechtigungen für das Programm erwerben.
+
+Unterstützungsprogramme:
+IBM Observability by Instana Application Performance Monitoring
+
+Zugelassene Komponenten
+
+Der Lizenznehmer darf nur die folgenden Komponenten oder Funktionen des angegebenen gebündelten Programms oder Unterstützungsprogramms verwenden:
+IBM MQ Tracing
+
+Komponenten, die bei der Ermittlung der erforderlichen Berechtigungen nicht berücksichtigt werden
+
+Der Lizenznehmer darf die folgenden Programmkomponenten gemäß den Lizenzbedingungen installieren und nutzen, diese Komponenten werden bei der Ermittlung der erforderlichen Anzahl an Berechtigungen für das Programm aber nicht einbezogen.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Modifizierbarer Code einer Drittpartei
+
+Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
+
+Separat lizenzierter Code
+
+Jede in der NON_IBM_LICENSE-Datei aufgeführte Komponente gilt als "Separat lizenzierter Code", der gemäß den Bedingungen der maßgeblichen Drittanbieter-Lizenzvereinbarung und nicht gemäß dieser Vereinbarung für den Lizenznehmer lizenziert wird. Die Drittanbieter-Lizenzvereinbarungen sind in den NON_IBM_LICENSE-Dateien enthalten, die dem Programm beigepackt sind. Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen in der jeweiligen NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist.
+
+Hinweis: Ungeachtet der Bedingungen in der Drittanbieter-Lizenzvereinbarung, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung und übernimmt weder ausdrücklich noch stillschweigend eine Gewährleistung für den separat lizenzierten Code; dies gilt insbesondere in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+(b) IBM haftet nicht für unmittelbare und mittelbare Schäden oder Folgeschäden, wie beispielsweise Datenverlust, entgangene Einsparungen und entgangenen Gewinn hinsichtlich des separat lizenzierten Codes.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Die folgenden Maßeinheiten können für die Programmnutzung durch den Lizenznehmer gelten.
+
+Prozessor-Value-Unit (PVU)
+
+"Prozessor-Value-Unit" (PVU) ist eine Maßeinheit für die Lizenzierung des Programms. Die Anzahl der erforderlichen PVU-Berechtigungen basiert auf der Prozessortechnologie (siehe die Website PVU-Lizenzierung für Distributed Software unter https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) und der Anzahl der Prozessoren, die dem Programm zur Verfügung stehen. Nach der weiterhin gültigen Definition von IBM ist für die Zwecke der PVU-basierten Lizenzierung jeder Prozessorkern auf einem Chip ein Prozessor. Ein Doppelkernprozessorchip hat z. B. zwei Prozessorkerne.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtueller Prozessorkern
+
+"Virtueller Prozessorkern" ist eine Maßeinheit für die Lizenzierung des Programms. Ein physischer Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder eine oder mehrere Clienteinheiten ausführt. Wenn Racks, Bladegehäuse oder andere vergleichbare Geräte verwendet werden, gilt jede trennbare physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit) mit den erforderlichen Komponenten selbst als separater physischer Server. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Ein Prozessorkern ist eine Funktionseinheit in einer Computereinheit, die Befehle interpretiert und ausführt. Ein Prozessorkern besteht aus mindestens einem Steuerwerk und einem oder mehreren Rechenwerken für arithmetische oder logische Operationen. Ein virtueller Prozessorkern ist ein Prozessorkern in einem nicht partitionierten physischen Server oder ein virtueller Kern, der einem virtuellen Server zugeordnet ist. Der Lizenznehmer muss für jeden virtuellen Prozessorkern, der dem Programm zur Verfügung steht, Berechtigungen erwerben.
+
+Der Lizenznehmer kann das Programm (sofern unterstützt) mit Full-Capacity-Lizenzierung, Sub-Capacity-Lizenzierung (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) oder Container-Lizenzierung (https://www.ibm.com/software/passportadvantage/containerlicenses.html) einsetzen. Auf den verlinkten Websites sind weitere Informationen zu finden.
+
+Virtual Server
+
+"Virtual Server" ist eine Maßeinheit für die Lizenzierung des Programms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und die angeforderten Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Blade-Gehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (zum Beispiel ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server. Der Lizenznehmer muss für jeden virtuellen Server, der dem Programm zur Verfügung steht, Virtual-Server-Berechtigungen erwerben, unabhängig von der Anzahl der Prozessorkerne in dem virtuellen Server oder der Anzahl der Programmkopien auf dem virtuellen Server.
+
+Zusätzlich zu den obigen Bestimmungen gelten die folgenden Bedingungen für die Programmnutzung durch den Lizenznehmer.
+
+A: Die Nutzung des Programms durch den Lizenznehmer ist auf die folgenden Features beschränkt, wie nachfolgend oder im Abschnitt "Andere Hochverfügbarkeitslösungen" angegeben.
+
+1. Multi-Instance Queue Manager Feature
+
+Der Lizenznehmer darf das Multi-Instance Queue Manager Feature des Programms nur für Standby-Zwecke verwenden. Im Standby-Modus ist das Programm gestartet, aber es muss sichergestellt werden, dass das Programm inaktiv bleibt, außer wenn die aktive und separat berechtigte IBM MQ-Kopie des Programms einen Failover auf das Hochverfügbarkeitsreplikat des Programms durchführt. Wenn dieser Fall eintritt, kann das Hochverfügbarkeitsreplikat des Programms während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden. Das Programm wird als inaktiv (idle) angesehen, solange kein Failover stattfindet und es ausschließlich für Verwaltungsaktionen und nicht für die Ausführung produktiver Arbeiten genutzt wird.
+
+2. Replicated Data Queue Manager High Availability Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf drei Servern erforderlich, und alle Warteschlangenmanager auf den drei Servern müssen Replicated Data Queue Manager sein. Zwei der Server können als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem dritten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Wenn dieses Hochverfügbarkeitsfeature in Verbindung mit Replikation an einen Disaster-Recovery-Standort verwendet wird, müssen die drei Hochverfügbarkeitsserver am Disaster-Recovery-Standort ebenfalls wie oben beschrieben mit Berechtigungen ausgestattet werden.
+
+3. Replicated Data Queue Manager Disaster Recovery Feature
+
+Damit der Lizenznehmer dieses Replicated Data Queue Manager Feature des Programms einsetzen kann, ist eine Konfiguration auf zwei Servern erforderlich, und alle Warteschlangenmanager auf den zwei Servern müssen Replicated Data Queue Manager sein. Einer der Server kann als IBM MQ Advanced High Availability Replica konfiguriert und berechtigt werden, die Kopie von IBM MQ auf dem zweiten konfigurierten Server muss allerdings separat durch den Erwerb von Berechtigungen für IBM MQ Advanced lizenziert werden. Diese aus zwei Servern bestehende Disaster-Recovery-Konfiguration unterscheidet sich von der aus drei Servern bestehenden Hochverfügbarkeitskonfiguration, selbst wenn sie mit Replikation an einen Disaster-Recovery-Standort verwendet wird.
+
+B. Andere Hochverfügbarkeitslösungen
+
+Soll das Programm mit anderen Hochverfügbarkeitslösungen (automatischen Failover-Lösungen) eingesetzt werden, ist der Lizenznehmer berechtigt, das Programm als Hochverfügbarkeitsreplikat zu verwenden, solange sich dieses zu Backup-Zwecken auf einem Standby-Server befindet und das Programm nicht gestartet wird. Das Programm kann bei einem Ausfall des aktiven Servers automatisch von den Hochverfügbarkeitskomponenten gestartet werden und in diesem Fall während der Dauer des Failover für die Ausführung produktiver Arbeiten eingesetzt werden.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

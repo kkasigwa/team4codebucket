@@ -1,0 +1,147 @@
+#!/bin/bash
+# <copyright
+# notice="lm-source-program"
+# pids="5724-H72"
+# years="2023,2024"
+# crc="">
+# Licensed Materials - Property of IBM
+#
+# 5724-H72
+#
+# (C) Copyright IBM Corp. 2023, 2024 All Rights Reserved.
+#
+# US Government Users Restricted Rights - Use, duplication or
+# disclosure restricted by GSA ADP Schedule Contract with
+# IBM Corp.
+# </copyright>
+
+# RHEL version this script is intended to work with
+rhel_ver=9
+
+print_usage()  {
+
+  # Check if we have an mqrc binary on the path
+  if [[ -x $(command -v mqrc) ]]; then
+    mqrc_output=`mqrc -c 9.4 -n $rhel_ver -b AMQ3632`
+  # or can we find it from the current installation?
+  elif [[ -x $MQ_INSTALLATION_PATH/bin/mqrc ]]; then
+    mqrc_output=`$MQ_INSTALLATION_PATH/bin/mqrc -v 9.4 -n $rhel_ver -b AMQ3632`
+  fi
+  
+  # If we didn't get any mqrc output, or it's a version that doesn't know about AMQ3632, print the builtin default string
+  if [[ -z $mqrc_output || $mqrc_output == "No matching return codes" ]]; then
+    print_default_usage
+  else
+    echo $mqrc_output
+  fi
+
+}
+
+print_default_usage()  {
+
+  printf "AMQ3632I: Usage: modver [ [-?|-h] | [-m|-M] [-v] [kernelLevel] ]\n"
+  printf " -?|-h \t Show this usage text and exit\n"
+  printf " -m \t Print the minimum IBM MQ 9.4 Long Term Support maintenance level compatible with the appropriate kernel module kernel level\n"
+  printf " -M \t Only print the minimum compatible IBM MQ 9.4 Long Term Support maintenance level, do not print the kernel module\n"
+  printf " -v \t Print verbose output\n"
+  printf " kernelLevel \t A RHEL %u kernel level to test, if omitted the currently running kernel level returned by 'uname -a' is used\n" $rhel_ver
+
+}
+
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    -m)
+      show_mqver=1
+      shift
+      ;;
+    -M)
+      show_mqver=2
+      shift
+      ;;
+    -v|--verbose)
+      bVerbose=1
+      shift
+      ;;
+    -h|-?)
+      print_usage
+      exit 0
+      ;;
+    -*|--*)
+      echo "Error: Unknown option $1"
+      print_usage
+      exit 1
+      ;;
+    *)
+      if [[ $# -gt 1 ]]; then
+        echo "Error: Kernel level must be final argument"
+        print_usage
+        exit 2
+      fi
+      krel=("$1")
+      shift # past argument
+      ;;
+  esac
+done
+
+if [[ -z $krel ]]; then
+  krel=$(uname -r)
+  if [[ $bVerbose ]]; then 
+    echo "Detected current kernel version: $krel"
+  fi
+fi
+
+kver=${krel%.el9*.x86_64}
+
+#
+# Expects 2 arguments - kmod rpm file and minimum MQ level
+#
+print_kmod() {
+
+  # Print the kmod unless in MQ version-only mode
+  if [[ $show_mqver -ne 2 ]]; then
+    if [[ $bVerbose ]]; then
+      echo "Kernel module '$1' is compatible with kernel '$krel'"
+    else
+      echo $1
+    fi
+  fi
+
+  # Print the MQ minimum version if requested
+  if [[ $show_mqver -gt 0 ]]; then
+    if [[ $bVerbose ]]; then
+      echo "Minimum compatible IBM MQ 9.4 Long Term Support maintenance level for '$1' is '$2'"
+    else
+      echo $2
+    fi
+  fi
+}
+
+case $krel in
+  5.14.0-284.*)
+    if [ $(echo -e "$kver\n5.14.0-284.40.1" | sort -V | tail -n1) = "$kver" ]
+    then
+      print_kmod kmod-drbd-9.2.8_5.14.0_284.40.1-1.x86_64.rpm 9.3.0.0
+    elif [ $(echo -e "$kver\n5.14.0-284.30.1" | sort -V | tail -n1) = "$kver" ]
+    then
+      print_kmod kmod-drbd-9.2.8_5.14.0_284.30.1-1.x86_64.rpm 9.3.0.0
+    else
+      print_kmod kmod-drbd-9.2.8_5.14.0_284.11.1-1.x86_64.rpm 9.3.0.0
+    fi
+    ;;
+  5.14.0-362.*)
+    if [ $(echo -e "$kver\n5.14.0-362.18.1" | sort -V | tail -n1) = "$kver" ]
+    then
+      print_kmod kmod-drbd-9.2.8_5.14.0_362.18.1-1.x86_64.rpm 9.3.0.0
+    else
+      print_kmod kmod-drbd-9.2.8_5.14.0_362.8.1-1.x86_64.rpm 9.3.0.0
+    fi
+    ;;
+  5.14.0-427.*)
+    print_kmod kmod-drbd-9.2.8_5.14.0_427.13.1-1.x86_64.rpm 9.3.0.0
+    ;;
+  *)
+    echo "Unsupported kernel release."
+    echo "Please see http://ibm.biz/mqrdqmkernelmods for more information."
+    exit 1
+    ;;
+esac

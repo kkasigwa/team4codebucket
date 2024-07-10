@@ -1,0 +1,1125 @@
+PEMBERITAHUAN
+
+Dokumen ini termasuk dokumen-dokumen Informasi tentang Lisensi di bawah ini untuk beberapa Program. Masing-masing dokumen Informasi tentang Lisensi mengidentifikasi Program(-program) yang untuknya Informasi tentang Lisensi tersebut berlaku. Hanya dokumen-dokumen Informasi tentang Lisensi untuk Program(-program) tersebut yang untuknya Pemegang Lisensi telah memperoleh kepemilikan-kepemilikan yang berlaku.
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponen-komponen yang Diizinkan
+
+Pemegang Lisensi diperbolehkan untuk hanya menggunakan komponen atau fungsi Bundel Program atau Program Pendukung yang diidentifikasi berikut ini:
+IBM MQ Tracing
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponen-komponen yang Diizinkan
+
+Pemegang Lisensi diperbolehkan untuk hanya menggunakan komponen atau fungsi Bundel Program atau Program Pendukung yang diidentifikasi berikut ini:
+IBM MQ Tracing
+
+Batasan Non-Produksi
+
+Apabila Program ditetapkan sebagai "Non-Produksi", Pemegang Lisensi hanya dapat menggunakan Program sebagai bagian dari pengembangan internal Pemegang Lisensi dan lingkungan pengujian untuk aktivitas non-produksi internal.
+
+Komponen yang Tidak Digunakan untuk Menetapkan Kepemilikan yang Diperlukan
+
+Pemegang Lisensi dapat memasang dan menggunakan komponen-komponen Program berikut, berdasarkan syarat-syarat lisensi, tetapi komponen-komponen ini tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Perangkat Lunak yang Dapat Didistribusikan Ulang (Redistributable)
+
+Program mencakup komponen-komponen yang Dapat Didistribusikan Kembali (Redistributable) dan komponen-komponen tersebut dicantumkan di bawah. Komponen yang Dapat Didistribusikan Kembali (Redistributable) dapat didistribusikan, dalam bentuk kode objek, sebagai bagian dari aplikasi bernilai tambah milik Pemegang Lisensi yang dikembangkan dengan menggunakan Program ("Aplikasi Pemegang Lisensi") dan hanya untuk mendukung penggunaan Aplikasi Pemegang Lisensi. Jika Redistributable mencakup Lingkungan Java Runtime, Pemegang Lisensi juga harus menyertakan Redistributable non-Java lainnya dengan Aplikasi Pemegang Lisensi. Pemegang Lisensi tidak dapat menghapus setiap hak cipta atau file pemberitahuan yang termuat dalam Redistributable atau menggunakan nama atau merek dagang IBM, pemasok, atau distributornya yang berkaitan dengan pemasaran Aplikasi Pemegang Lisensi tanpa adanya persetujuan tertulis sebelumnya dari IBM atau pemasok atau distributor tersebut. Perjanjian lisensi Pemegang dengan pengguna akhir Lisensi harus setidaknya bersifat melindungi IBM sebagaimana syarat-syarat Perjanjian ini.
+
+IBM, para pemasok dan distributornya memberikan Perangkat Lunak yang Dapat Didistribusikan (Redistributable) dan dokumentasi terkait tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK JAMINAN KEPEMILIKAN, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Berikut ini adalah Perangkat Lunak yang Dapat Didistribusikan Kembali:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Untuk Komponen Sumber dan Material Contoh yang tercantum sebagai Redistributable, Pemegang Lisensi dapat mendistribusikan kembali versi Komponen Sumber atau Material Contoh yang dimodifikasi tersebut sesuai dengan syarat-syarat lisensi ini dan setiap instruksi dalam dokumentasi yang menyertai Program, jika ada.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Inti Prosesor Virtual
+
+Inti Prosesor Virtual adalah unit ukuran yang olehnya Program dapat diberi lisensi. Server Fisik adalah komputer fisik yang terdiri dari unit pemrosesan, memori, dan kemampuan input/output, serta yang menjalankan prosedur, perintah, atau aplikasi yang diminta untuk satu atau beberapa perangkat klien atau pengguna. Apabila rak, kerangka blade (blade enclosure), atau peralatan lainnya yang serupa sedang dijalankan, masing-masing perangkat fisik yang dapat dipisahkan (misalnya, blade atau perangkat yang terpasang dalam rak) yang memiliki komponen yang diperlukan dianggap sebagai Server Fisik yang terpisah. Server Virtual adalah komputer virtual yang dibuat dengan memartisikan sumber daya yang tersedia ke suatu Server Fisik, atau Server Fisik yang belum dipartisi. Inti Prosesor adalah unit fungsional dalam perangkat komputerisasi yang menginterpretasikan dan melaksanakan instruksi. Inti Prosesor terdiri atas setidaknya sebuah unit kendali instruksi dan satu atau beberapa unit aritmetika atau unit logika. Inti Prosesor Virtual adalah Inti Prosesor dalam suatu Server Fisik yang tidak dipartisi, atau inti virtual yang ditetapkan ke suatu Server Virtual. Pemegang Lisensi harus memperoleh kepemilikan untuk setiap Inti Prosesor Virtual yang disediakan untuk Program.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Server Maya
+
+Server Maya adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Server adalah komputer dalam bentuk fisik yang terdiri atas unit pemroses, memori, dan kemampuan masukan/keluaran dan yang menjalankan prosedur, perintah atau aplikasi yang diminta untuk satu pengguna atau client device atau lebih. Apabila rak, blade enclosure, atau peralatan lain yang serupa sedang dijalankan, masing-masing perangkat fisik yang terpisah (misalnya, blade atau perangkat yang tersusun dalam rak) yang memiliki komponen yang diperlukan menganggap dirinya sebagai server yang terpisah. Server maya adalah komputer maya yang diciptakan dengan melakukan partisi atas sumber yang tersedia untuk server fisik atau server fisik yang tidak dipartisi. Pemegang Lisensi harus mendapatkan kepemilikan atas Server Maya untuk masing-masing server maya yang disediakan untuk Program, tanpa memperhatikan jumlah inti prosesor dalam server maya atau jumlah salinan Program dalam server maya.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Fitur Ketersediaan Tinggi Native
+
+Penggunaan fitur ketersediaan tinggi asli (kegagalan otomatis) dari Program ("Ketersediaan Tinggi Asli") oleh Penerima Lisensi memerlukan konfigurasi pada tiga server dan mengharuskan semua pengelola antrean pada tiga server adalah Pengelola Antrean Ketersediaan Tinggi Asli. Program harus dilisensikan pada satu server dengan memperoleh kepemilikan atas IBM MQ Advanced, tetapi dua server replika tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+
+B. Fitur Ketersediaan Tinggi Lainnya
+
+Penggunaan fitur ketersediaan tinggi (kegagalan otomatis) lainnya oleh Penerima Lisensi akan mengharuskan Penerima Lisensi untuk memperoleh kepemilikan yang memadai atas Replika Ketersediaan Tinggi IBM MQ atau Replika Ketersediaan Tinggi IBM MQ Advanced (masing-masing disebut "Replika Ketersediaan Tinggi") untuk memenuhi persyaratan ketersediaan tinggi Penerima Lisensi sebagaimana yang diuraikan dalam persyaratan lisensi terpisah yang menyertai Replika Ketersediaan Tinggi.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Komponen yang Tidak Digunakan untuk Menetapkan Kepemilikan yang Diperlukan
+
+Pemegang Lisensi dapat memasang dan menggunakan komponen-komponen Program berikut, berdasarkan syarat-syarat lisensi, tetapi komponen-komponen ini tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Perangkat Lunak yang Dapat Didistribusikan Ulang (Redistributable)
+
+Program mencakup komponen-komponen yang Dapat Didistribusikan Kembali (Redistributable) dan komponen-komponen tersebut dicantumkan di bawah. Komponen yang Dapat Didistribusikan Kembali (Redistributable) dapat didistribusikan, dalam bentuk kode objek, sebagai bagian dari aplikasi bernilai tambah milik Pemegang Lisensi yang dikembangkan dengan menggunakan Program ("Aplikasi Pemegang Lisensi") dan hanya untuk mendukung penggunaan Aplikasi Pemegang Lisensi. Jika Redistributable mencakup Lingkungan Java Runtime, Pemegang Lisensi juga harus menyertakan Redistributable non-Java lainnya dengan Aplikasi Pemegang Lisensi. Pemegang Lisensi tidak dapat menghapus setiap hak cipta atau file pemberitahuan yang termuat dalam Redistributable atau menggunakan nama atau merek dagang IBM, pemasok, atau distributornya yang berkaitan dengan pemasaran Aplikasi Pemegang Lisensi tanpa adanya persetujuan tertulis sebelumnya dari IBM atau pemasok atau distributor tersebut. Perjanjian lisensi Pemegang dengan pengguna akhir Lisensi harus setidaknya bersifat melindungi IBM sebagaimana syarat-syarat Perjanjian ini.
+
+IBM, para pemasok dan distributornya memberikan Perangkat Lunak yang Dapat Didistribusikan (Redistributable) dan dokumentasi terkait tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK JAMINAN KEPEMILIKAN, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Berikut ini adalah Perangkat Lunak yang Dapat Didistribusikan Kembali:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Untuk Komponen Sumber dan Material Contoh yang tercantum sebagai Redistributable, Pemegang Lisensi dapat mendistribusikan kembali versi Komponen Sumber atau Material Contoh yang dimodifikasi tersebut sesuai dengan syarat-syarat lisensi ini dan setiap instruksi dalam dokumentasi yang menyertai Program, jika ada.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Inti Prosesor Virtual
+
+Inti Prosesor Virtual adalah unit ukuran yang olehnya Program dapat diberi lisensi. Server Fisik adalah komputer fisik yang terdiri dari unit pemrosesan, memori, dan kemampuan input/output, serta yang menjalankan prosedur, perintah, atau aplikasi yang diminta untuk satu atau beberapa perangkat klien atau pengguna. Apabila rak, kerangka blade (blade enclosure), atau peralatan lainnya yang serupa sedang dijalankan, masing-masing perangkat fisik yang dapat dipisahkan (misalnya, blade atau perangkat yang terpasang dalam rak) yang memiliki komponen yang diperlukan dianggap sebagai Server Fisik yang terpisah. Server Virtual adalah komputer virtual yang dibuat dengan memartisikan sumber daya yang tersedia ke suatu Server Fisik, atau Server Fisik yang belum dipartisi. Inti Prosesor adalah unit fungsional dalam perangkat komputerisasi yang menginterpretasikan dan melaksanakan instruksi. Inti Prosesor terdiri atas setidaknya sebuah unit kendali instruksi dan satu atau beberapa unit aritmetika atau unit logika. Inti Prosesor Virtual adalah Inti Prosesor dalam suatu Server Fisik yang tidak dipartisi, atau inti virtual yang ditetapkan ke suatu Server Virtual. Pemegang Lisensi harus memperoleh kepemilikan untuk setiap Inti Prosesor Virtual yang disediakan untuk Program.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Server Maya
+
+Server Maya adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Server adalah komputer dalam bentuk fisik yang terdiri atas unit pemroses, memori, dan kemampuan masukan/keluaran dan yang menjalankan prosedur, perintah atau aplikasi yang diminta untuk satu pengguna atau client device atau lebih. Apabila rak, blade enclosure, atau peralatan lain yang serupa sedang dijalankan, masing-masing perangkat fisik yang terpisah (misalnya, blade atau perangkat yang tersusun dalam rak) yang memiliki komponen yang diperlukan menganggap dirinya sebagai server yang terpisah. Server maya adalah komputer maya yang diciptakan dengan melakukan partisi atas sumber yang tersedia untuk server fisik atau server fisik yang tidak dipartisi. Pemegang Lisensi harus mendapatkan kepemilikan atas Server Maya untuk masing-masing server maya yang disediakan untuk Program, tanpa memperhatikan jumlah inti prosesor dalam server maya atau jumlah salinan Program dalam server maya.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Fitur Ketersediaan Tinggi Native
+
+Penggunaan fitur ketersediaan tinggi asli (kegagalan otomatis) dari Program ("Ketersediaan Tinggi Asli") oleh Penerima Lisensi memerlukan konfigurasi pada tiga server dan mengharuskan semua pengelola antrean pada tiga server adalah Pengelola Antrean Ketersediaan Tinggi Asli. Program harus dilisensikan pada satu server dengan memperoleh kepemilikan atas IBM MQ Advanced, tetapi dua server replika tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+
+B. Fitur Ketersediaan Tinggi Lainnya
+
+Penggunaan fitur ketersediaan tinggi (kegagalan otomatis) lainnya oleh Penerima Lisensi akan mengharuskan Penerima Lisensi untuk memperoleh kepemilikan yang memadai atas Replika Ketersediaan Tinggi IBM MQ atau Replika Ketersediaan Tinggi IBM MQ Advanced (masing-masing disebut "Replika Ketersediaan Tinggi") untuk memenuhi persyaratan ketersediaan tinggi Penerima Lisensi sebagaimana yang diuraikan dalam persyaratan lisensi terpisah yang menyertai Replika Ketersediaan Tinggi.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ for Non-Production Environment 9.4
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ for Non-Production Environment 9.4
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Batasan Non-Produksi
+
+Apabila Program ditetapkan sebagai "Non-Produksi", Pemegang Lisensi hanya dapat menggunakan Program sebagai bagian dari pengembangan internal Pemegang Lisensi dan lingkungan pengujian untuk aktivitas non-produksi internal.
+
+Komponen yang Tidak Digunakan untuk Menetapkan Kepemilikan yang Diperlukan
+
+Pemegang Lisensi dapat memasang dan menggunakan komponen-komponen Program berikut, berdasarkan syarat-syarat lisensi, tetapi komponen-komponen ini tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Perangkat Lunak yang Dapat Didistribusikan Ulang (Redistributable)
+
+Program mencakup komponen-komponen yang Dapat Didistribusikan Kembali (Redistributable) dan komponen-komponen tersebut dicantumkan di bawah. Komponen yang Dapat Didistribusikan Kembali (Redistributable) dapat didistribusikan, dalam bentuk kode objek, sebagai bagian dari aplikasi bernilai tambah milik Pemegang Lisensi yang dikembangkan dengan menggunakan Program ("Aplikasi Pemegang Lisensi") dan hanya untuk mendukung penggunaan Aplikasi Pemegang Lisensi. Jika Redistributable mencakup Lingkungan Java Runtime, Pemegang Lisensi juga harus menyertakan Redistributable non-Java lainnya dengan Aplikasi Pemegang Lisensi. Pemegang Lisensi tidak dapat menghapus setiap hak cipta atau file pemberitahuan yang termuat dalam Redistributable atau menggunakan nama atau merek dagang IBM, pemasok, atau distributornya yang berkaitan dengan pemasaran Aplikasi Pemegang Lisensi tanpa adanya persetujuan tertulis sebelumnya dari IBM atau pemasok atau distributor tersebut. Perjanjian lisensi Pemegang dengan pengguna akhir Lisensi harus setidaknya bersifat melindungi IBM sebagaimana syarat-syarat Perjanjian ini.
+
+IBM, para pemasok dan distributornya memberikan Perangkat Lunak yang Dapat Didistribusikan (Redistributable) dan dokumentasi terkait tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK JAMINAN KEPEMILIKAN, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Berikut ini adalah Perangkat Lunak yang Dapat Didistribusikan Kembali:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Untuk Komponen Sumber dan Material Contoh yang tercantum sebagai Redistributable, Pemegang Lisensi dapat mendistribusikan kembali versi Komponen Sumber atau Material Contoh yang dimodifikasi tersebut sesuai dengan syarat-syarat lisensi ini dan setiap instruksi dalam dokumentasi yang menyertai Program, jika ada.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Inti Prosesor Virtual
+
+Inti Prosesor Virtual adalah unit ukuran yang olehnya Program dapat diberi lisensi. Server Fisik adalah komputer fisik yang terdiri dari unit pemrosesan, memori, dan kemampuan input/output, serta yang menjalankan prosedur, perintah, atau aplikasi yang diminta untuk satu atau beberapa perangkat klien atau pengguna. Apabila rak, kerangka blade (blade enclosure), atau peralatan lainnya yang serupa sedang dijalankan, masing-masing perangkat fisik yang dapat dipisahkan (misalnya, blade atau perangkat yang terpasang dalam rak) yang memiliki komponen yang diperlukan dianggap sebagai Server Fisik yang terpisah. Server Virtual adalah komputer virtual yang dibuat dengan memartisikan sumber daya yang tersedia ke suatu Server Fisik, atau Server Fisik yang belum dipartisi. Inti Prosesor adalah unit fungsional dalam perangkat komputerisasi yang menginterpretasikan dan melaksanakan instruksi. Inti Prosesor terdiri atas setidaknya sebuah unit kendali instruksi dan satu atau beberapa unit aritmetika atau unit logika. Inti Prosesor Virtual adalah Inti Prosesor dalam suatu Server Fisik yang tidak dipartisi, atau inti virtual yang ditetapkan ke suatu Server Virtual. Pemegang Lisensi harus memperoleh kepemilikan untuk setiap Inti Prosesor Virtual yang disediakan untuk Program.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Server Maya
+
+Server Maya adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Server adalah komputer dalam bentuk fisik yang terdiri atas unit pemroses, memori, dan kemampuan masukan/keluaran dan yang menjalankan prosedur, perintah atau aplikasi yang diminta untuk satu pengguna atau client device atau lebih. Apabila rak, blade enclosure, atau peralatan lain yang serupa sedang dijalankan, masing-masing perangkat fisik yang terpisah (misalnya, blade atau perangkat yang tersusun dalam rak) yang memiliki komponen yang diperlukan menganggap dirinya sebagai server yang terpisah. Server maya adalah komputer maya yang diciptakan dengan melakukan partisi atas sumber yang tersedia untuk server fisik atau server fisik yang tidak dipartisi. Pemegang Lisensi harus mendapatkan kepemilikan atas Server Maya untuk masing-masing server maya yang disediakan untuk Program, tanpa memperhatikan jumlah inti prosesor dalam server maya atau jumlah salinan Program dalam server maya.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Fitur Ketersediaan Tinggi Native
+
+Penggunaan fitur ketersediaan tinggi asli (kegagalan otomatis) dari Program ("Ketersediaan Tinggi Asli") oleh Penerima Lisensi memerlukan konfigurasi pada tiga server dan mengharuskan semua pengelola antrean pada tiga server adalah Pengelola Antrean Ketersediaan Tinggi Asli. Program harus dilisensikan pada satu server dengan memperoleh kepemilikan atas IBM MQ Advanced, tetapi dua server replika tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+
+B. Fitur Ketersediaan Tinggi Lainnya
+
+Penggunaan fitur ketersediaan tinggi (kegagalan otomatis) lainnya oleh Penerima Lisensi akan mengharuskan Penerima Lisensi untuk memperoleh kepemilikan yang memadai atas Replika Ketersediaan Tinggi IBM MQ atau Replika Ketersediaan Tinggi IBM MQ Advanced (masing-masing disebut "Replika Ketersediaan Tinggi") untuk memenuhi persyaratan ketersediaan tinggi Penerima Lisensi sebagaimana yang diuraikan dalam persyaratan lisensi terpisah yang menyertai Replika Ketersediaan Tinggi.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ High Availability Replica
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Bundel Program
+
+Pemegang Lisensi berhak untuk menginstal dan menggunakan Bundel Program yang diidentifikasikan di bawah ini. Bundel Program dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Bundel Program tersebut. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi Lisensi ini menggantikan syarat-syarat Bundel Program. Program Utama dan setiap Bundel Program, semuanya adalah bagian dari Program, secara keseluruhan. Oleh karena itu, Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan semua Bundel Program, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Bundel Program pada 10 mesin VPC dan Bundel Program lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Bundel Program:
+IBM MQ High Availability Replica
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Aspera faspio Gateway
+
+Komponen yang Tidak Digunakan untuk Menetapkan Kepemilikan yang Diperlukan
+
+Pemegang Lisensi dapat memasang dan menggunakan komponen-komponen Program berikut, berdasarkan syarat-syarat lisensi, tetapi komponen-komponen ini tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Inti Prosesor Virtual
+
+Inti Prosesor Virtual adalah unit ukuran yang olehnya Program dapat diberi lisensi. Server Fisik adalah komputer fisik yang terdiri dari unit pemrosesan, memori, dan kemampuan input/output, serta yang menjalankan prosedur, perintah, atau aplikasi yang diminta untuk satu atau beberapa perangkat klien atau pengguna. Apabila rak, kerangka blade (blade enclosure), atau peralatan lainnya yang serupa sedang dijalankan, masing-masing perangkat fisik yang dapat dipisahkan (misalnya, blade atau perangkat yang terpasang dalam rak) yang memiliki komponen yang diperlukan dianggap sebagai Server Fisik yang terpisah. Server Virtual adalah komputer virtual yang dibuat dengan memartisikan sumber daya yang tersedia ke suatu Server Fisik, atau Server Fisik yang belum dipartisi. Inti Prosesor adalah unit fungsional dalam perangkat komputerisasi yang menginterpretasikan dan melaksanakan instruksi. Inti Prosesor terdiri atas setidaknya sebuah unit kendali instruksi dan satu atau beberapa unit aritmetika atau unit logika. Inti Prosesor Virtual adalah Inti Prosesor dalam suatu Server Fisik yang tidak dipartisi, atau inti virtual yang ditetapkan ke suatu Server Virtual. Pemegang Lisensi harus memperoleh kepemilikan untuk setiap Inti Prosesor Virtual yang disediakan untuk Program.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Server Maya
+
+Server Maya adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Server adalah komputer dalam bentuk fisik yang terdiri atas unit pemroses, memori, dan kemampuan masukan/keluaran dan yang menjalankan prosedur, perintah atau aplikasi yang diminta untuk satu pengguna atau client device atau lebih. Apabila rak, blade enclosure, atau peralatan lain yang serupa sedang dijalankan, masing-masing perangkat fisik yang terpisah (misalnya, blade atau perangkat yang tersusun dalam rak) yang memiliki komponen yang diperlukan menganggap dirinya sebagai server yang terpisah. Server maya adalah komputer maya yang diciptakan dengan melakukan partisi atas sumber yang tersedia untuk server fisik atau server fisik yang tidak dipartisi. Pemegang Lisensi harus mendapatkan kepemilikan atas Server Maya untuk masing-masing server maya yang disediakan untuk Program, tanpa memperhatikan jumlah inti prosesor dalam server maya atau jumlah salinan Program dalam server maya.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Penggunaan Program oleh Penerima Lisensi terbatas pada penggunaan fitur-fitur berikut sebagaimana dinyatakan di bawah atau sebagaimana dinyatakan di bagian Solusi Ketersediaan Tinggi Lainnya.
+
+1. Fitur Pengelola Antrean Multi-Instans
+
+Penerima Lisensi diizinkan untuk menggunakan fitur pengelola antrean multi-instans dari Program untuk Keperluan Siaga saja. Keperluan Siaga didefinisikan sebagai memulai Program, tetapi memastikan bahwa Program tetap menganggur kecuali jika salinan program IBM MQ yang aktif dan dimiliki secara terpisah gagal ke Program replika ketersediaan tinggi. Jika hal ini terjadi, Program replika ketersediaan tinggi dapat digunakan untuk melaksanakan pekerjaan produktif selama periode kegagalan. Program dianggap "menganggur" jika, sampai terjadi kegagalan, Program tidak digunakan untuk melaksanakan pekerjaan produktif dalam bentuk apa pun dan hanya digunakan untuk tindakan administratif.
+
+2. Fitur Ketersediaan Tinggi Pengelola Antrean Data yang Direplikasi
+
+Penggunaan fitur pengelola antrean data yang direplikasi dari Program oleh Penerima Lisensi ini memerlukan konfigurasi pada tiga server dan mengharuskan semua pengelola antrean pada tiga server menjadi Pengelola Antrean Data yang Direplikasi. Dua server dapat dikonfigurasi dan diberi hak sebagai IBM MQ Advanced High Availability Replica, tetapi salinan IBM MQ pada server ketiga yang dikonfigurasi harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Ketika menggunakan fitur ketersediaan tinggi ini bersamaan dengan replikasi terhadap situs pemulihan bencana, ketiga server ketersediaan tinggi pada situs pemulihan bencana juga harus memiliki hak sebagaimana diuraikan di atas.
+
+3. Fitur Pemulihan Bencana Pengelola Antrean Data yang Direplikasi
+
+Penggunaan fitur pengelola antrean data yang direplikasi dari Program ini oleh Penerima Lisensi memerlukan konfigurasi pada dua server dan mengharuskan semua pengelola antrean pada dua server menjadi Pengelola Antrean Data yang Direplikasi. Salah satu server dapat dikonfigurasi dan diberi hak sebagai IBM MQ Advanced High Availability Replica, tetapi salinan IBM MQ pada server kedua yang dikonfigurasi harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Konfigurasi pemulihan bencana dua server ini merupakan konfigurasi terpisah terhadap penggunaan tiga server sebagai konfigurasi ketersediaan tinggi, meski ketika digunakan dengan replikasi terhadap situs pemulihan bencana.
+
+B. Solusi Ketersediaan Tinggi Lainnya
+
+Jika Penerima Lisensi memilih untuk menggunakan solusi ketersediaan tinggi (kegagalan otomatis) lainnya bersama dengan Program, Penerima Lisensi diizinkan untuk menggunakan Program sebagai replika ketersediaan tinggi selama Program ada untuk keperluan cadangan di server siaga dan Program tidak dimulai. Program dapat dimulai secara otomatis oleh komponen ketersediaan tinggi apabila terjadi kegagalan server aktif, yang mana Program dapat digunakan untuk melakukan pekerjaan produktif selama periode kegagalan.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Perangkat Lunak yang Dapat Didistribusikan Ulang (Redistributable)
+
+Program mencakup komponen-komponen yang Dapat Didistribusikan Kembali (Redistributable) dan komponen-komponen tersebut dicantumkan di bawah. Komponen yang Dapat Didistribusikan Kembali (Redistributable) dapat didistribusikan, dalam bentuk kode objek, sebagai bagian dari aplikasi bernilai tambah milik Pemegang Lisensi yang dikembangkan dengan menggunakan Program ("Aplikasi Pemegang Lisensi") dan hanya untuk mendukung penggunaan Aplikasi Pemegang Lisensi. Jika Redistributable mencakup Lingkungan Java Runtime, Pemegang Lisensi juga harus menyertakan Redistributable non-Java lainnya dengan Aplikasi Pemegang Lisensi. Pemegang Lisensi tidak dapat menghapus setiap hak cipta atau file pemberitahuan yang termuat dalam Redistributable atau menggunakan nama atau merek dagang IBM, pemasok, atau distributornya yang berkaitan dengan pemasaran Aplikasi Pemegang Lisensi tanpa adanya persetujuan tertulis sebelumnya dari IBM atau pemasok atau distributor tersebut. Perjanjian lisensi Pemegang dengan pengguna akhir Lisensi harus setidaknya bersifat melindungi IBM sebagaimana syarat-syarat Perjanjian ini.
+
+IBM, para pemasok dan distributornya memberikan Perangkat Lunak yang Dapat Didistribusikan (Redistributable) dan dokumentasi terkait tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK JAMINAN KEPEMILIKAN, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Berikut ini adalah Perangkat Lunak yang Dapat Didistribusikan Kembali:
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Untuk Komponen Sumber dan Material Contoh yang tercantum sebagai Redistributable, Pemegang Lisensi dapat mendistribusikan kembali versi Komponen Sumber atau Material Contoh yang dimodifikasi tersebut sesuai dengan syarat-syarat lisensi ini dan setiap instruksi dalam dokumentasi yang menyertai Program, jika ada.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Pemasangan
+
+Pemasangan adalah unit ukuran yang olehnya Program dapat diberi lisensi. Pemasangan adalah salinan Program yang dipasang di disket dalam bentuk fisik atau maya yang disediakan untuk dijalankan di komputer. Pemegang Lisensi harus mendapatkan kepemilikan untuk masing-masing Pemasangan Program.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Pemasangan
+
+Pemasangan adalah unit ukuran yang olehnya Program dapat diberi lisensi. Pemasangan adalah salinan Program yang dipasang di disket dalam bentuk fisik atau maya yang disediakan untuk dijalankan di komputer. Pemegang Lisensi harus mendapatkan kepemilikan untuk masing-masing Pemasangan Program.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Penggunaan Pemegang Lisensi atas Program terbatas untuk menggunakan fitur-fitur berikut sebagaimana yang dinyatakan di bawah atau sebagaimana yang dinyatakan dalam pasal Solusi Ketersediaan Tinggi Lainnya. 
+
+1. Fitur Multi-Instance Queue Manager
+
+Pemegang Lisensi diizinkan untuk menggunakan fitur manajer antrean multi-mesin virtual dari Program hanya untuk Tujuan Siaga. Tujuan Siaga didefinisikan sebagai kondisi saat Program dimulai, namun Program dipastikan tetap diam kecuali salinan IBM MQ dari program yang aktif dan dimiliki secara terpisah beralih (failover) ke Program replika dengan ketersediaan tinggi. Apabila hal tersebut terjadi, Program replika dengan ketersediaan tinggi dapat digunakan untuk menjalankan kerja produktif selama periode pengalihan (failover). Program dianggap "diam" apabila, hingga pengalihan terjadi, tidak digunakan untuk menjalankan kerja produktif jenis apa pun dan digunakan secara eksklusif untuk tindakan administratif. 
+
+2. Fitur Replicated Data Queue Manager Ketersediaan Tinggi
+
+Penggunaan Pemegang Lisensi atas fitur manager antrean replika data dari Program mewajibkan konfigurasi tiga server dan mewajibkan semua manager antrean pada tiga server tersebut menjadi Replicated Data Queue Managers. Dua server tersebut dapat dikonfigurasi dan dimiliki sebagai Replika IBM MQ Advanced dengan Ketersediaan Tinggi tetapi salinan IBM MQ pada server terkonfigurasi yang ketiga harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Ketika menggunakan fitur ketersediaan tinggi ini bersama dengan replikasi pada situs pemulihan bencana, ketiga server dengan ketersediaan tinggi pada situs pemulihan bencana tersebut juga harus dimiliki sebagaimana yang diuraikan di atas.
+
+3. Fitur Replicated Data Queue Manager Pemulihan Bencana
+
+Penggunaan Pemegang Lisensi atas fitur manager antrean replika data dari Program mewajibkan konfigurasi dua server dan mewajibkan semua manager antrean pada dua server tersebut menjadi Replicated Data Queue Managers. Salah satu server tersebut dapat dikonfigurasi dan dimiliki sebagai Replika IBM MQ Advanced dengan Ketersediaan Tinggi tetapi salinan IBM MQ pada server terkonfigurasi yang kedua harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Konfigurasi pemulihan bencana dari dua server tersebut adalah konfigurasi terpisah untuk penggunaan tiga server sebagai konfigurasi ketersediaan tinggi, bahkan ketika digunakan dengan replikasi situs pemulihan bencana. 
+
+B. Solusi Ketersediaan Tinggi Lainnya
+
+Apabila Pemegang Lisensi memilih untuk menggunakan solusi ketersediaan tinggi lainnya (kegagalan otomatis) bersama dengan Program, Pemegang Lisensi diizinkan untuk menggunakan Program sebagai replika ketersediaan tinggi selama hal tersebut adalah untuk tujuan pencadangan pada server siaga dan Program belum dimulai. Program dapat dimulai secara otomatis oleh komponen ketersediaan tinggi apabila server aktif mengalami kegagalan, di mana Program dapat digunakan untuk menjalankan kerja produktif selama periode pengalihan.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+PENTING: BACALAH DENGAN SAKSAMA
+
+Dua perjanjian lisensi dijabarkan di bawah ini.
+
+1. Perjanjian Lisensi Internasional IBM untuk Evaluasi Program
+2. Perjanjian Lisensi Program Internasional IBM
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan penggunaan produktif (selain evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima Perjanjian Lisensi Program Internasional IBM, tanpa modifikasi.
+
+Jika Pemegang Lisensi mendapatkan Program untuk tujuan evaluasi, pengujian, percobaan "coba atau beli," atau demonstrasi (semuanya disebut dengan "Evaluasi"): Dengan mengeklik pada tombol "Terima" di bawah ini, Pemegang Lisensi menerima baik (i) Perjanjian Lisensi Internasional IBM untuk Evaluasi Program ("Lisensi Evaluasi"), tanpa modifikasi; maupun (ii) Perjanjian Lisensi Program Internasional IBM ("IPLA"), tanpa modifikasi.
+
+Lisensi Evaluasi akan berlaku selama jangka waktu Evaluasi Pemegang Lisensi.
+
+IPLA akan berlaku secara otomatis apabila Pemegang Lisensi memilih untuk menyimpan Program setelah Evaluasi (atau mendapat salinan tambahan dari Program untuk penggunaan setelah Evaluasi) dengan mengadakan perjanjian pengadaan barang/jasa (sebagai contoh perjanjian Keuntungan Paspor Internasional IBM atau perjanjian Ekspres Keuntungan Paspor IBM).
+
+Lisensi Evaluasi dan IPLA tidak berlaku secara bersamaan; juga tidak memodifikasi lainnya; dan saling bergantung satu sama lain.
+
+Teks lengkap dari masing-masing kedua perjanjian lisensi akan menyusul.
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Evaluasi Program (i125-5543-06) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Evaluasi
+
+Periode evaluasi dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir setelah 90 hari.
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponen-komponen yang Diizinkan
+
+Pemegang Lisensi diperbolehkan untuk hanya menggunakan komponen atau fungsi Bundel Program atau Program Pendukung yang diidentifikasi berikut ini:
+IBM MQ Tracing
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Program Internasional (i125-3301-15) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Program Pendukung
+
+Pemegang Lisensi berhak memasang dan menggunakan Program Pendukung yang diidentifikasi di bawah ini hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini. Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan mencakup penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang dilisensikan atas Program Utama atau Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pemegang Lisensi harus memperoleh kepemilikan yang memadai atas Program, secara keseluruhan, untuk mencakup pemasangan dan penggunaan Pemegang Lisensi atas semua Program Pendukung, kecuali apabila kepemilikan yang terpisah diberikan di dalam dokumen Informasi Lisensi. Misalnya, jika Program ini dilisensikan pada basis Inti Prosesor Virtual (Virtual Processor Core - "VPC") dan Pemegang Lisensi memasang Program Utama atau Program Pendukung pada 10 mesin VPC dan Program Pendukung lainnya pada 10 mesin VPC kedua, Pemegang Lisensi akan diwajibkan memperoleh kepemilikan 20 VPC atas Program.
+
+Program Pendukung:
+IBM Observability by Instana Application Performance Monitoring
+
+Komponen-komponen yang Diizinkan
+
+Pemegang Lisensi diperbolehkan untuk hanya menggunakan komponen atau fungsi Bundel Program atau Program Pendukung yang diidentifikasi berikut ini:
+IBM MQ Tracing
+
+Komponen yang Tidak Digunakan untuk Menetapkan Kepemilikan yang Diperlukan
+
+Pemegang Lisensi dapat memasang dan menggunakan komponen-komponen Program berikut, berdasarkan syarat-syarat lisensi, tetapi komponen-komponen ini tidak digunakan untuk menentukan jumlah kepemilikan yang diperlukan untuk Program.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+Kode Berlisensi Terpisah
+
+Masing-masing komponen yang tercantum dalam file NON_IBM_LICENSE dianggap sebagai "Kode Berlisensi Terpisah" yang dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian(-perjanjian) lisensi pihak ketiga yang berlaku, yang tercantum dalam file(-file) NON_IBM_LICENSE yang menyertai Program, dan bukan Perjanjian ini. Pembaruan atau perbaikan Program di masa mendatang dapat berisi Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi terkait tercantum dalam file NON_IBM_LICENSE yang berlaku, yang menyertai pembaruan atau perbaikan Program. 
+
+Catatan: Terlepas dari syarat-syarat apa pun dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian apa pun lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, sehubungan dengan Kode Berlisensi Terpisah:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA JAMINAN DALAM BENTUK APA PUN DAN MENOLAK SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN HAK MILIK, TIDAK ADANYA PELANGGARAN ATAU TIDAK ADANYA GANGGUAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU;
+(b) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, insidental, khusus, eksemplari, hukuman atau konsekuensial termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit ukuran berikut ini dapat berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Unit Nilai Prosesor (PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Unit Nilai Prosesor (PVU) yang dilisensikan untuk situs web Perangkat Lunak yang Didistribusikan di https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM tetap menentukan prosesor, untuk tujuan pemberian lisensi berbasis PVU, sebagai masing-masing inti prosesor pada sebuah chip. Sebagai contoh, chip prosesor dua inti (dual-core) memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Inti Prosesor Virtual
+
+Inti Prosesor Virtual adalah unit ukuran yang olehnya Program dapat diberi lisensi. Server Fisik adalah komputer fisik yang terdiri dari unit pemrosesan, memori, dan kemampuan input/output, serta yang menjalankan prosedur, perintah, atau aplikasi yang diminta untuk satu atau beberapa perangkat klien atau pengguna. Apabila rak, kerangka blade (blade enclosure), atau peralatan lainnya yang serupa sedang dijalankan, masing-masing perangkat fisik yang dapat dipisahkan (misalnya, blade atau perangkat yang terpasang dalam rak) yang memiliki komponen yang diperlukan dianggap sebagai Server Fisik yang terpisah. Server Virtual adalah komputer virtual yang dibuat dengan memartisikan sumber daya yang tersedia ke suatu Server Fisik, atau Server Fisik yang belum dipartisi. Inti Prosesor adalah unit fungsional dalam perangkat komputerisasi yang menginterpretasikan dan melaksanakan instruksi. Inti Prosesor terdiri atas setidaknya sebuah unit kendali instruksi dan satu atau beberapa unit aritmetika atau unit logika. Inti Prosesor Virtual adalah Inti Prosesor dalam suatu Server Fisik yang tidak dipartisi, atau inti virtual yang ditetapkan ke suatu Server Virtual. Pemegang Lisensi harus memperoleh kepemilikan untuk setiap Inti Prosesor Virtual yang disediakan untuk Program.
+
+Pemegang Lisensi dapat menyebarkan Program (jika didukung) menggunakan pemberian lisensi kapasitas penuh, pemberian lisensi subkapasitas (https://www.ibm.com/software/passportadvantage/subcaplicensing.html), atau pemberian lisensi kontainer (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Lihat situs web yang ditautkan untuk informasi lebih lanjut.
+
+Server Maya
+
+Server Maya adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Server adalah komputer dalam bentuk fisik yang terdiri atas unit pemroses, memori, dan kemampuan masukan/keluaran dan yang menjalankan prosedur, perintah atau aplikasi yang diminta untuk satu pengguna atau client device atau lebih. Apabila rak, blade enclosure, atau peralatan lain yang serupa sedang dijalankan, masing-masing perangkat fisik yang terpisah (misalnya, blade atau perangkat yang tersusun dalam rak) yang memiliki komponen yang diperlukan menganggap dirinya sebagai server yang terpisah. Server maya adalah komputer maya yang diciptakan dengan melakukan partisi atas sumber yang tersedia untuk server fisik atau server fisik yang tidak dipartisi. Pemegang Lisensi harus mendapatkan kepemilikan atas Server Maya untuk masing-masing server maya yang disediakan untuk Program, tanpa memperhatikan jumlah inti prosesor dalam server maya atau jumlah salinan Program dalam server maya.
+
+Selain hal-hal di atas, syarat-syarat berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+A. Penggunaan Program oleh Penerima Lisensi terbatas pada penggunaan fitur-fitur berikut sebagaimana dinyatakan di bawah atau sebagaimana dinyatakan di bagian Solusi Ketersediaan Tinggi Lainnya.
+
+1. Fitur Pengelola Antrean Multi-Instans
+
+Penerima Lisensi diizinkan untuk menggunakan fitur pengelola antrean multi-instans dari Program untuk Keperluan Siaga saja. Keperluan Siaga didefinisikan sebagai memulai Program, tetapi memastikan bahwa Program tetap menganggur kecuali jika salinan program IBM MQ yang aktif dan dimiliki secara terpisah gagal ke Program replika ketersediaan tinggi. Jika hal ini terjadi, Program replika ketersediaan tinggi dapat digunakan untuk melaksanakan pekerjaan produktif selama periode kegagalan. Program dianggap "menganggur" jika, sampai terjadi kegagalan, Program tidak digunakan untuk melaksanakan pekerjaan produktif dalam bentuk apa pun dan hanya digunakan untuk tindakan administratif.
+
+2. Fitur Ketersediaan Tinggi Pengelola Antrean Data yang Direplikasi
+
+Penggunaan fitur pengelola antrean data yang direplikasi dari Program oleh Penerima Lisensi ini memerlukan konfigurasi pada tiga server dan mengharuskan semua pengelola antrean pada tiga server menjadi Pengelola Antrean Data yang Direplikasi. Dua server dapat dikonfigurasi dan diberi hak sebagai IBM MQ Advanced High Availability Replica, tetapi salinan IBM MQ pada server ketiga yang dikonfigurasi harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Ketika menggunakan fitur ketersediaan tinggi ini bersamaan dengan replikasi terhadap situs pemulihan bencana, ketiga server ketersediaan tinggi pada situs pemulihan bencana juga harus memiliki hak sebagaimana diuraikan di atas.
+
+3. Fitur Pemulihan Bencana Pengelola Antrean Data yang Direplikasi
+
+Penggunaan fitur pengelola antrean data yang direplikasi dari Program ini oleh Penerima Lisensi memerlukan konfigurasi pada dua server dan mengharuskan semua pengelola antrean pada dua server menjadi Pengelola Antrean Data yang Direplikasi. Salah satu server dapat dikonfigurasi dan diberi hak sebagai IBM MQ Advanced High Availability Replica, tetapi salinan IBM MQ pada server kedua yang dikonfigurasi harus dilisensikan secara terpisah dengan memperoleh kepemilikan atas IBM MQ Advanced. Konfigurasi pemulihan bencana dua server ini merupakan konfigurasi terpisah terhadap penggunaan tiga server sebagai konfigurasi ketersediaan tinggi, meski ketika digunakan dengan replikasi terhadap situs pemulihan bencana.
+
+B. Solusi Ketersediaan Tinggi Lainnya
+
+Jika Penerima Lisensi memilih untuk menggunakan solusi ketersediaan tinggi (kegagalan otomatis) lainnya bersama dengan Program, Penerima Lisensi diizinkan untuk menggunakan Program sebagai replika ketersediaan tinggi selama Program ada untuk keperluan cadangan di server siaga dan Program tidak dimulai. Program dapat dimulai secara otomatis oleh komponen ketersediaan tinggi apabila terjadi kegagalan server aktif, yang mana Program dapat digunakan untuk melakukan pekerjaan produktif selama periode kegagalan.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+

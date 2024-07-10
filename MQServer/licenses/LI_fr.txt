@@ -1,0 +1,1125 @@
+AVIS
+
+Ce document inclut ci-dessous des documents Informations sur la Licence pour différents Logiciels. Chaque document Informations sur la Licence identifie le ou les Logiciels auxquels il s&#39;applique. Seuls les documents Informations sur la Licence correspondant au(x) Logiciel(s) pour lesquels le Détenteur de la Licence a fait l&#39;acquisition d&#39;Autorisations d&#39;Utilisation s&#39;appliquent.
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ 9.4 (Evaluation)
+IBM MQ for Non-Production Environment 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Observability by Instana Application Performance Monitoring
+
+Composants autorisés
+
+Le Détenteur de la Licence est autorisé à utiliser uniquement les composants ou fonctions suivants du Logiciel Auxiliaire correspondant : 
+IBM MQ Tracing
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ 9.4 (5724-H72)
+IBM MQ for Non-Production Environment 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Observability by Instana Application Performance Monitoring
+
+Composants autorisés
+
+Le Détenteur de la Licence est autorisé à utiliser uniquement les composants ou fonctions suivants du Logiciel Auxiliaire correspondant : 
+IBM MQ Tracing
+
+Restriction d'utilisation hors production
+
+Si le Logiciel porte la mention "Non-Production", le Détenteur de la Licence n'est autorisé à utiliser le Logiciel que dans le cadre d'un environnement de développement et de test en interne, pour des activités internes autres que la production.
+
+Composants non pris en compte pour établir les Autorisations d'Utilisation requises
+
+Le Détenteur de la Licence est autorisé à installer et à utiliser les composants du Logiciel suivants, conformément aux dispositions de la licence, mais lesdits composants ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Logiciels Redistribuables
+
+Le Logiciel comprend des Logiciels Redistribuables qui sont répertoriés ci-dessous. Les Logiciels Redistribuables peuvent être distribués, sous forme de code objet, uniquement dans le cadre de l'application à valeur ajoutée développée par le Détenteur de la Licence à l'aide du Logiciel (son "Application") et uniquement pour prendre en charge l'utilisation de son Application. Dans le cas où les Logiciels Redistribuables contiennent Java Runtime Environment, le Détenteur de la Licence doit également inclure des Logiciels Redistribuables non-Java équivalents avec son Application. Le Détenteur de la Licence n'est pas autorisé à retirer les mentions de copyright ou les autres fichiers contenus dans les Logiciels Redistribuables ni à utiliser les noms ou les marques d'IBM ou de ses fournisseurs ou distributeurs dans le cadre de la commercialisation de son Application sans autorisation écrite préalable de leur part. Le Contrat de licence entre le Détenteur de la Licence et l'utilisateur final doit être au moins aussi protecteur d'IBM que les dispositions du présent Contrat.
+
+IBM, ses fournisseurs et ses distributeurs fournissent lesdits Logiciels Redistribuables ainsi que leur documentation sans obligation de support. Ces éléments sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les Logiciels Redistribuables sont les suivants : 
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Le Détenteur de la Licence peut distribuer des versions modifiées des Composants Source, Échantillons et Exemples répertoriés en tant que Logiciels Redistribuables, sous réserve que lesdites modifications aient été effectuées conformément aux dispositions de la présente licence et aux instructions de la documentation fournie avec le Logiciel, le cas échéant.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Coeur Processeur Virtuel
+
+Le terme "Coeur Processeur Virtuel" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Le terme "Serveur Physique" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou dispositifs clients. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un Serveur Physique à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources disponibles pour un Serveur Physique, soit un Serveur Physique non partitionné. Un Coeur de Processeur désigne une unité fonctionnelle d'une unité informatique qui interprète et exécute des instructions. Un Coeur Processeur est composé d'au moins une unité de contrôle des instructions et d'une ou plusieurs unités logiques ou arithmétiques. Un Coeur de Processeur Virtuel est un Coeur de Processeur situé dans un Serveur Physique non partitionné ou un Coeur virtuel alloué à un Serveur Virtuel. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Coeur de Processeur Virtuel disponible pour le Logiciel.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Serveur Virtuel
+
+Le terme "Serveur Virtuel" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le terme "Serveur" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné. Le Détenteur de la Licence doit obtenir une Autorisation d'Utilisation de type Serveur Virtuel pour chaque serveur virtuel mis à la disposition du Logiciel, quel que soit le nombre de Coeurs Processeur résidant dans le serveur virtuel et quel que soit le nombre d'exemplaires du Logiciel présents sur le serveur virtuel.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. Fonction Haute disponibilité native
+
+L'utilisation par le Détenteur de la Licence de la fonction Haute disponibilité native (reprise en ligne automatique) du Logiciel ("Haute disponibilité native") nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente à haute disponibilité native. Le Logiciel doit faire l'objet d'une licence sur un serveur par l'obtention d'Autorisations d'Utilisation pour IBM MQ Advanced, mais les deux serveurs répliques ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+
+B. Autres fonctions à haute disponibilité
+
+L'utilisation par le Détenteur de la licence d'autres fonctions à haute disponibilité (reprise en ligne automatique) nécessite que le Détenteur de la licence obtienne une Autorisation d'Utilisation suffisante pour IBM MQ High Availability Replica ou IBM MQ Advanced High Availability Replica (chacune étant une "Réplique à haute disponibilité") pour couvrir les besoins du Détenteur de la Licence en matière de haute disponibilité, tel que décrit dans les dispositions de licence distinctes accompagnant la Réplique à haute disponibilité.
+
+
+
+L/N: L-RZND-SLUBFC
+D/N: L-RZND-SLUBFC
+P/N: L-RZND-SLUBFC
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Composants non pris en compte pour établir les Autorisations d'Utilisation requises
+
+Le Détenteur de la Licence est autorisé à installer et à utiliser les composants du Logiciel suivants, conformément aux dispositions de la licence, mais lesdits composants ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Logiciels Redistribuables
+
+Le Logiciel comprend des Logiciels Redistribuables qui sont répertoriés ci-dessous. Les Logiciels Redistribuables peuvent être distribués, sous forme de code objet, uniquement dans le cadre de l'application à valeur ajoutée développée par le Détenteur de la Licence à l'aide du Logiciel (son "Application") et uniquement pour prendre en charge l'utilisation de son Application. Dans le cas où les Logiciels Redistribuables contiennent Java Runtime Environment, le Détenteur de la Licence doit également inclure des Logiciels Redistribuables non-Java équivalents avec son Application. Le Détenteur de la Licence n'est pas autorisé à retirer les mentions de copyright ou les autres fichiers contenus dans les Logiciels Redistribuables ni à utiliser les noms ou les marques d'IBM ou de ses fournisseurs ou distributeurs dans le cadre de la commercialisation de son Application sans autorisation écrite préalable de leur part. Le Contrat de licence entre le Détenteur de la Licence et l'utilisateur final doit être au moins aussi protecteur d'IBM que les dispositions du présent Contrat.
+
+IBM, ses fournisseurs et ses distributeurs fournissent lesdits Logiciels Redistribuables ainsi que leur documentation sans obligation de support. Ces éléments sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les Logiciels Redistribuables sont les suivants : 
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Le Détenteur de la Licence peut distribuer des versions modifiées des Composants Source, Échantillons et Exemples répertoriés en tant que Logiciels Redistribuables, sous réserve que lesdites modifications aient été effectuées conformément aux dispositions de la présente licence et aux instructions de la documentation fournie avec le Logiciel, le cas échéant.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Coeur Processeur Virtuel
+
+Le terme "Coeur Processeur Virtuel" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Le terme "Serveur Physique" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou dispositifs clients. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un Serveur Physique à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources disponibles pour un Serveur Physique, soit un Serveur Physique non partitionné. Un Coeur de Processeur désigne une unité fonctionnelle d'une unité informatique qui interprète et exécute des instructions. Un Coeur Processeur est composé d'au moins une unité de contrôle des instructions et d'une ou plusieurs unités logiques ou arithmétiques. Un Coeur de Processeur Virtuel est un Coeur de Processeur situé dans un Serveur Physique non partitionné ou un Coeur virtuel alloué à un Serveur Virtuel. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Coeur de Processeur Virtuel disponible pour le Logiciel.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Serveur Virtuel
+
+Le terme "Serveur Virtuel" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le terme "Serveur" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné. Le Détenteur de la Licence doit obtenir une Autorisation d'Utilisation de type Serveur Virtuel pour chaque serveur virtuel mis à la disposition du Logiciel, quel que soit le nombre de Coeurs Processeur résidant dans le serveur virtuel et quel que soit le nombre d'exemplaires du Logiciel présents sur le serveur virtuel.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. Fonction Haute disponibilité native
+
+L'utilisation par le Détenteur de la Licence de la fonction Haute disponibilité native (reprise en ligne automatique) du Logiciel ("Haute disponibilité native") nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente à haute disponibilité native. Le Logiciel doit faire l'objet d'une licence sur un serveur par l'obtention d'Autorisations d'Utilisation pour IBM MQ Advanced, mais les deux serveurs répliques ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+
+B. Autres fonctions à haute disponibilité
+
+L'utilisation par le Détenteur de la licence d'autres fonctions à haute disponibilité (reprise en ligne automatique) nécessite que le Détenteur de la licence obtienne une Autorisation d'Utilisation suffisante pour IBM MQ High Availability Replica ou IBM MQ Advanced High Availability Replica (chacune étant une "Réplique à haute disponibilité") pour couvrir les besoins du Détenteur de la Licence en matière de haute disponibilité, tel que décrit dans les dispositions de licence distinctes accompagnant la Réplique à haute disponibilité.
+
+
+
+L/N: L-EHXT-MQCRN9
+D/N: L-EHXT-MQCRN9
+P/N: L-EHXT-MQCRN9
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced for Non-Production Environment 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ for Non-Production Environment 9.4
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced for Non-Production Environment 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ for Non-Production Environment 9.4
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Restriction d'utilisation hors production
+
+Si le Logiciel porte la mention "Non-Production", le Détenteur de la Licence n'est autorisé à utiliser le Logiciel que dans le cadre d'un environnement de développement et de test en interne, pour des activités internes autres que la production.
+
+Composants non pris en compte pour établir les Autorisations d'Utilisation requises
+
+Le Détenteur de la Licence est autorisé à installer et à utiliser les composants du Logiciel suivants, conformément aux dispositions de la licence, mais lesdits composants ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Logiciels Redistribuables
+
+Le Logiciel comprend des Logiciels Redistribuables qui sont répertoriés ci-dessous. Les Logiciels Redistribuables peuvent être distribués, sous forme de code objet, uniquement dans le cadre de l'application à valeur ajoutée développée par le Détenteur de la Licence à l'aide du Logiciel (son "Application") et uniquement pour prendre en charge l'utilisation de son Application. Dans le cas où les Logiciels Redistribuables contiennent Java Runtime Environment, le Détenteur de la Licence doit également inclure des Logiciels Redistribuables non-Java équivalents avec son Application. Le Détenteur de la Licence n'est pas autorisé à retirer les mentions de copyright ou les autres fichiers contenus dans les Logiciels Redistribuables ni à utiliser les noms ou les marques d'IBM ou de ses fournisseurs ou distributeurs dans le cadre de la commercialisation de son Application sans autorisation écrite préalable de leur part. Le Contrat de licence entre le Détenteur de la Licence et l'utilisateur final doit être au moins aussi protecteur d'IBM que les dispositions du présent Contrat.
+
+IBM, ses fournisseurs et ses distributeurs fournissent lesdits Logiciels Redistribuables ainsi que leur documentation sans obligation de support. Ces éléments sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les Logiciels Redistribuables sont les suivants : 
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Le Détenteur de la Licence peut distribuer des versions modifiées des Composants Source, Échantillons et Exemples répertoriés en tant que Logiciels Redistribuables, sous réserve que lesdites modifications aient été effectuées conformément aux dispositions de la présente licence et aux instructions de la documentation fournie avec le Logiciel, le cas échéant.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Coeur Processeur Virtuel
+
+Le terme "Coeur Processeur Virtuel" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Le terme "Serveur Physique" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou dispositifs clients. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un Serveur Physique à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources disponibles pour un Serveur Physique, soit un Serveur Physique non partitionné. Un Coeur de Processeur désigne une unité fonctionnelle d'une unité informatique qui interprète et exécute des instructions. Un Coeur Processeur est composé d'au moins une unité de contrôle des instructions et d'une ou plusieurs unités logiques ou arithmétiques. Un Coeur de Processeur Virtuel est un Coeur de Processeur situé dans un Serveur Physique non partitionné ou un Coeur virtuel alloué à un Serveur Virtuel. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Coeur de Processeur Virtuel disponible pour le Logiciel.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Serveur Virtuel
+
+Le terme "Serveur Virtuel" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le terme "Serveur" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné. Le Détenteur de la Licence doit obtenir une Autorisation d'Utilisation de type Serveur Virtuel pour chaque serveur virtuel mis à la disposition du Logiciel, quel que soit le nombre de Coeurs Processeur résidant dans le serveur virtuel et quel que soit le nombre d'exemplaires du Logiciel présents sur le serveur virtuel.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. Fonction Haute disponibilité native
+
+L'utilisation par le Détenteur de la Licence de la fonction Haute disponibilité native (reprise en ligne automatique) du Logiciel ("Haute disponibilité native") nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente à haute disponibilité native. Le Logiciel doit faire l'objet d'une licence sur un serveur par l'obtention d'Autorisations d'Utilisation pour IBM MQ Advanced, mais les deux serveurs répliques ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+
+B. Autres fonctions à haute disponibilité
+
+L'utilisation par le Détenteur de la licence d'autres fonctions à haute disponibilité (reprise en ligne automatique) nécessite que le Détenteur de la licence obtienne une Autorisation d'Utilisation suffisante pour IBM MQ High Availability Replica ou IBM MQ Advanced High Availability Replica (chacune étant une "Réplique à haute disponibilité") pour couvrir les besoins du Détenteur de la Licence en matière de haute disponibilité, tel que décrit dans les dispositions de licence distinctes accompagnant la Réplique à haute disponibilité.
+
+
+
+L/N: L-DRNQ-NGCA76
+D/N: L-DRNQ-NGCA76
+P/N: L-DRNQ-NGCA76
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced High Availability Replica 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ High Availability Replica
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced High Availability Replica 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Logiciels Groupés
+
+Le Détenteur de la Licence est autorisé à installer et utiliser les Logiciels Groupés identifiés ci-dessous. Un Logiciel Groupé peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Groupé par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Groupé. Le Logiciel Principal et les Logiciels Groupés font tous partie du Logiciel dans son ensemble. Par conséquent, le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Groupés, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Groupé sur une machine avec 10 VPC et un autre Logiciel Groupé sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Groupés :
+IBM MQ High Availability Replica
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Aspera faspio Gateway
+
+Composants non pris en compte pour établir les Autorisations d'Utilisation requises
+
+Le Détenteur de la Licence est autorisé à installer et à utiliser les composants du Logiciel suivants, conformément aux dispositions de la licence, mais lesdits composants ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+IBM MQ Managed File Transfer Agent 9.4
+IBM MQ Telemetry 9.4
+IBM Aspera faspio Gateway
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Coeur Processeur Virtuel
+
+Le terme "Coeur Processeur Virtuel" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Le terme "Serveur Physique" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou dispositifs clients. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un Serveur Physique à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources disponibles pour un Serveur Physique, soit un Serveur Physique non partitionné. Un Coeur de Processeur désigne une unité fonctionnelle d'une unité informatique qui interprète et exécute des instructions. Un Coeur Processeur est composé d'au moins une unité de contrôle des instructions et d'une ou plusieurs unités logiques ou arithmétiques. Un Coeur de Processeur Virtuel est un Coeur de Processeur situé dans un Serveur Physique non partitionné ou un Coeur virtuel alloué à un Serveur Virtuel. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Coeur de Processeur Virtuel disponible pour le Logiciel.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Serveur Virtuel
+
+Le terme "Serveur Virtuel" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le terme "Serveur" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné. Le Détenteur de la Licence doit obtenir une Autorisation d'Utilisation de type Serveur Virtuel pour chaque serveur virtuel mis à la disposition du Logiciel, quel que soit le nombre de Coeurs Processeur résidant dans le serveur virtuel et quel que soit le nombre d'exemplaires du Logiciel présents sur le serveur virtuel.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. L'utilisation du Logiciel par le Détenteur de la Licence est limitée aux fonctions suivantes, comme défini ci-dessous ou dans la section « Autres solutions à haute disponibilité ».
+
+1. Fonction de gestionnaire de files d'attente multi-instance
+
+Le Détenteur de la Licence est autorisé à utiliser la fonction de gestionnaire de files d'attente multi-instance du Logiciel aux fins de secours uniquement. Aux fins de secours, le Logiciel est démarré, mais on s'assure qu'il reste inactif à moins que la copie IBM MQ active et autorisée séparément du logiciel bascule sur le Logiciel de réplique à haute disponibilité. Si cela se produit, le Logiciel de réplique à haute disponibilité peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident. Le Logiciel est considéré en mode de "Secours veille" si, jusqu'à ce qu'une reprise après incident ait lieu, il n'est pas utilisé pour effectuer un travail productif de quelque nature que ce soit et est utilisé exclusivement pour des tâches d'administration.
+
+2. Fonction de haute disponibilité du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente de données répliquées. Deux des serveurs peuvent être configurés et autorisés en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le troisième serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Lors de l'utilisation de cette fonctionnalité de haute disponibilité en conjonction avec la réplication sur un site de reprise après incident, les trois serveurs à haute disponibilité sur le site de reprise après incident doivent également être autorisés comme décrit ci-dessus.
+
+3. Fonction de reprise après incident du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur deux serveurs et exige que tous les gestionnaires de file d'attente sur ces deux serveurs soient des gestionnaires de file d'attente de L'un des serveurs peut être configuré et autorisé en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le second serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Cette configuration de reprise après incident de deux serveurs se différencie d'une configuration qui utilise trois serveurs en tant que configuration à haute disponibilité, même lorsqu'elle est utilisée avec une réplication sur un site de reprise après incident.
+
+B. Autres solutions à haute disponibilité
+
+Si le Détenteur de la Licence choisit d'utiliser d'autres solutions à haute disponibilité (reprise en ligne automatique) en plus du Logiciel, il est autorisé à utiliser le Logiciel comme réplique à haute disponibilité tant que le Logiciel réside sur un serveur de secours à des fins de sauvegarde et que le Logiciel n'est pas démarré. Le Logiciel peut être démarré automatiquement par les composants à haute disponibilité en cas de défaillance du serveur actif, auquel cas le Logiciel peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident.
+
+
+
+L/N: L-FCZY-FVZ76C
+D/N: L-FCZY-FVZ76C
+P/N: L-FCZY-FVZ76C
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Managed File Transfer Service 9.4 (Evaluation)
+IBM MQ Managed File Transfer Agent 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Managed File Transfer Service 9.4 (5724-H72)
+IBM MQ Managed File Transfer Agent 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Logiciels Redistribuables
+
+Le Logiciel comprend des Logiciels Redistribuables qui sont répertoriés ci-dessous. Les Logiciels Redistribuables peuvent être distribués, sous forme de code objet, uniquement dans le cadre de l'application à valeur ajoutée développée par le Détenteur de la Licence à l'aide du Logiciel (son "Application") et uniquement pour prendre en charge l'utilisation de son Application. Dans le cas où les Logiciels Redistribuables contiennent Java Runtime Environment, le Détenteur de la Licence doit également inclure des Logiciels Redistribuables non-Java équivalents avec son Application. Le Détenteur de la Licence n'est pas autorisé à retirer les mentions de copyright ou les autres fichiers contenus dans les Logiciels Redistribuables ni à utiliser les noms ou les marques d'IBM ou de ses fournisseurs ou distributeurs dans le cadre de la commercialisation de son Application sans autorisation écrite préalable de leur part. Le Contrat de licence entre le Détenteur de la Licence et l'utilisateur final doit être au moins aussi protecteur d'IBM que les dispositions du présent Contrat.
+
+IBM, ses fournisseurs et ses distributeurs fournissent lesdits Logiciels Redistribuables ainsi que leur documentation sans obligation de support. Ces éléments sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les Logiciels Redistribuables sont les suivants : 
+All files and/or modules identified on the IBM MQ Redistributable Components 
+https://www.ibm.com/docs/en/ibm-mq/9.4?topic=information-mq-redistributable-components page in IBM MQ Documentation may be redistributed by Licensee in accordance with the provisions of the 'Redistributables' section of the Program's License Information document.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Le Détenteur de la Licence peut distribuer des versions modifiées des Composants Source, Échantillons et Exemples répertoriés en tant que Logiciels Redistribuables, sous réserve que lesdites modifications aient été effectuées conformément aux dispositions de la présente licence et aux instructions de la documentation fournie avec le Logiciel, le cas échéant.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Installation
+
+Le terme "Installation" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Une Installation désigne un exemplaire du Logiciel installé sur un disque physique ou virtuel et mis à disposition pour être exécuté sur un ordinateur. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Installation du Logiciel.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+
+L/N: L-LNVD-8WJD7H
+D/N: L-LNVD-8WJD7H
+P/N: L-LNVD-8WJD7H
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced Message Security 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Advanced Message Security 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+
+L/N: L-ZABN-CJ5BGB
+D/N: L-ZABN-CJ5BGB
+P/N: L-ZABN-CJ5BGB
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Telemetry 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Telemetry 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Installation
+
+Le terme "Installation" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Une Installation désigne un exemplaire du Logiciel installé sur un disque physique ou virtuel et mis à disposition pour être exécuté sur un ordinateur. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Installation du Logiciel.
+
+
+L/N: L-SZBA-ZB6AHH
+D/N: L-SZBA-ZB6AHH
+P/N: L-SZBA-ZB6AHH
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (Evaluation)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ Managed File Transfer Service High Availability Replica 9.4 (5724-H72)
+IBM MQ Advanced Message Security High Availability Replica 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. L'utilisation du Logiciel par le Détenteur de la Licence est limitée aux fonctions suivantes, comme défini ci-dessous ou dans la section Autres solutions à haute disponibilité. 
+
+1. Fonction de gestionnaire de files d'attente multi-instance
+
+Le Détenteur de la Licence est autorisé à utiliser la fonction de gestionnaire de files d'attente multi-instance du Logiciel aux fins de secours uniquement. Aux fins de secours, le Logiciel est démarré, mais on s'assure qu'il reste inactif à moins que la copie IBM MQ active et autorisée séparément du logiciel bascule sur le Logiciel de réplique à haute disponibilité. Si cela se produit, le Logiciel de réplique à haute disponibilité peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident. Le Logiciel est considéré en mode de "Secours veille" si, jusqu'à ce qu'une reprise après incident ait lieu, il n'est pas utilisé pour effectuer un travail productif de quelque nature que ce soit et est utilisé exclusivement pour des tâches d'administration. 
+
+2. Fonction de haute disponibilité du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente de données répliquées. Deux des serveurs peuvent être configurés et autorisés en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le troisième serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Lors de l'utilisation de cette fonctionnalité de haute disponibilité en conjonction avec la réplication sur un site de reprise après incident, les trois serveurs à haute disponibilité sur le site de reprise après incident doivent également être autorisés comme décrit ci-dessus.
+
+3. Fonction de reprise après incident du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur deux serveurs et exige que tous les gestionnaires de file d'attente sur ces deux serveurs soient des gestionnaires de file d'attente de données répliquées. L'un des serveurs peut être configuré et autorisé en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le second serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Cette configuration de reprise après incident de deux serveurs se différencie d'une configuration qui utilise trois serveurs en tant que configuration à haute disponibilité, même lorsqu'elle est utilisée avec une réplication sur un site de reprise après incident. 
+
+B. Autres solutions à haute disponibilité
+
+Si le Détenteur de la Licence choisit d'utiliser d'autres solutions à haute disponibilité (reprise en ligne automatique) en plus du Logiciel, il est autorisé à utiliser le Logiciel comme réplique à haute disponibilité tant que le Logiciel réside sur un serveur de secours à des fins de sauvegarde et que le Logiciel n'est pas démarré. Le Logiciel peut être démarré automatiquement par les composants à haute disponibilité en cas de défaillance du serveur actif, auquel cas le Logiciel peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident.
+
+
+L/N: L-NFEG-QB778C
+D/N: L-NFEG-QB778C
+P/N: L-NFEG-QB778C
+
+
+
+==============================================
+IMPORTANT : A LIRE ATTENTIVEMENT
+
+Deux contrats de licence sont présentés ci-après.
+
+1. Conditions Internationales d'Evaluation des Logiciels IBM
+2. Conditions Internationales d'Utilisation de Logiciel IBM
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'utilisation en production (c'est-à-dire à des fins autres que l'évaluation, le test, l'essai avant acquisition ou la démonstration) : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte les Conditions Internationales d'Utilisation de Logiciel IBM, sans modification.
+
+Si le Détenteur de la licence acquiert le Logiciel à des fins d'évaluation, de test, d'essai avant acquisition ou de démonstration (collectivement, aux fins "d'Evaluation") : en cliquant sur le bouton "J'accepte" ci-dessous, il accepte à la fois (i) les Conditions Internationales d'Evaluation des Logiciels IBM (la "Licence d'Evaluation"), sans modification ; et (ii) les Conditions Internationales d'Utilisation de Logiciel IBM ("IPLA"), sans modification.
+
+La Licence d'Evaluation s'appliquera jusqu'au terme de l'Evaluation du Détenteur de la licence.
+
+L'IPLA s'appliquera automatiquement si le Détenteur de la licence choisit de conserver le Logiciel à la fin de la période d'Evaluation (ou s'il obtient des exemplaires supplémentaires du Logiciel en vue de leur utilisation après la période d'Evaluation) en concluant un contrat avec le service Achats (par exemple, le contrat IBM International Passport Advantage ou IBM Passport Advantage Express).
+
+La Licence d'Evaluation et l'IPLA ne sont pas en vigueur simultanément, aucun des deux ne modifie l'autre et ils sont indépendants l'un de l'autre.
+
+L'intégralité du texte de ces deux contrats de licence est indiquée ci-dessous.
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Evaluation de Logiciels IBM (i125-5543-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ High Availability Replica 9.4 (Evaluation)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Période d'évaluation
+
+La période d'évaluation prend effet le jour où le Détenteur de la Licence accepte les dispositions du présent Contrat et prend fin après 90 jours.
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Observability by Instana Application Performance Monitoring
+
+Composants autorisés
+
+Le Détenteur de la Licence est autorisé à utiliser uniquement les composants ou fonctions suivants du Logiciel Auxiliaire correspondant : 
+IBM MQ Tracing
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM (i125-3301-15) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM MQ High Availability Replica 9.4 (5724-H72)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Logiciels Auxiliaires
+
+Le Détenteur de la Licence n'est autorisé à installer et à utiliser les Logiciels Auxiliaires indiqués ci-dessous que dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat. L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Les Logiciels Auxiliaires ne peuvent être utilisés à d'autres fins. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent Document d'Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation du Logiciel, dans son ensemble, pour couvrir l'installation et l'utilisation par le Détenteur de la Licence de tous les Logiciels Auxiliaires, sauf si des Autorisations d'Utilisation distinctes sont fournies dans le présent Document d'Informations sur la licence. Par exemple, si le présent Logiciel a été concédé sous licence par C½urs de Processeur Virtuels (VPC) et si le Détenteur de la Licence doit installer le Logiciel Principal ou un Logiciel Auxiliaire sur une machine avec 10 VPC et un autre Logiciel Auxiliaire sur une deuxième machine avec 10 VPC, le Détenteur de la Licence devra se procurer 20 Autorisations d'Utilisation de type VPC pour le Logiciel.
+
+Logiciels Auxiliaires :
+IBM Observability by Instana Application Performance Monitoring
+
+Composants autorisés
+
+Le Détenteur de la Licence est autorisé à utiliser uniquement les composants ou fonctions suivants du Logiciel Auxiliaire correspondant : 
+IBM MQ Tracing
+
+Composants non pris en compte pour établir les Autorisations d'Utilisation requises
+
+Le Détenteur de la Licence est autorisé à installer et à utiliser les composants du Logiciel suivants, conformément aux dispositions de la licence, mais lesdits composants ne sont pas utilisés pour déterminer le nombre d'Autorisations d'Utilisation requises pour le Logiciel.
+IBM MQ Client 9.4
+IBM MQ Web Server 9.4
+
+Code Tiers Modifiable
+
+Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
+
+Code sous Licence Distincte
+
+Chacun des composants répertoriés dans le fichier NON_IBM_LICENSE doit être considéré comme du "Code sous Licence Distincte" concédé sous licence au Détenteur de la Licence dans le cadre des dispositions du/des contrat(s) de licence tiers applicable(s) indiqué(s) dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel et non de celles du présent Contrat. Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans le fichier NON_IBM_LICENSE applicable joint à la mise à jour ou au correctif du Logiciel. 
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM en ce qui concerne le Code sous Licence Distincte :
+(a) IBM le fournit au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ET NE FOURNIT AUCUNE GARANTIE OU CONDITION EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE DE QUALITÉ MARCHANDE OU D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ ;
+(b) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment, et de façon non limitative, perte de données, de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Les unités de mesure suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Unité de Valeur par Coeur Processeur (PVU)
+
+Le terme "Unité de Valeur par Coeur de Processeur (PVU)" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le nombre d'Autorisations d'Utilisation pour les Unités de Valeur par Coeur de Processeur requises dépend de la technologie de processeur (déterminée selon le site Web Processor Value Unit (PVU) licensing for Distributed Software à l'adresse https://www.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html) ainsi que du nombre de Coeurs de Processeur auxquels le Logiciel peut accéder. Selon IBM, et dans le cadre de la concession de licence selon le nombre de PVU, un processeur désigne chaque Coeur de Processeur résidant sur une puce. Par exemple, une puce processeur à deux Coeurs comporte deux Coeurs de Processeur.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Coeur Processeur Virtuel
+
+Le terme "Coeur Processeur Virtuel" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Le terme "Serveur Physique" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou dispositifs clients. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un Serveur Physique à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources disponibles pour un Serveur Physique, soit un Serveur Physique non partitionné. Un Coeur de Processeur désigne une unité fonctionnelle d'une unité informatique qui interprète et exécute des instructions. Un Coeur Processeur est composé d'au moins une unité de contrôle des instructions et d'une ou plusieurs unités logiques ou arithmétiques. Un Coeur de Processeur Virtuel est un Coeur de Processeur situé dans un Serveur Physique non partitionné ou un Coeur virtuel alloué à un Serveur Virtuel. Le Détenteur de la Licence doit acquérir une Autorisation d'Utilisation pour chaque Coeur de Processeur Virtuel disponible pour le Logiciel.
+
+Le Détenteur de la Licence peut déployer le Logiciel (le cas échéant) à l'aide d'une licence sans restriction d'utilisation, d'une licence par Tarification à l'Utilisation de la Capacité de Partition (https://www.ibm.com/software/passportadvantage/subcaplicensing.html) ou d'une licence par conteneur (https://www.ibm.com/software/passportadvantage/containerlicenses.html). Pour plus d'informations, voir les sites Web associés.
+
+Serveur Virtuel
+
+Le terme "Serveur Virtuel" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Le terme "Serveur" désigne un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, et qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné. Le Détenteur de la Licence doit obtenir une Autorisation d'Utilisation de type Serveur Virtuel pour chaque serveur virtuel mis à la disposition du Logiciel, quel que soit le nombre de Coeurs Processeur résidant dans le serveur virtuel et quel que soit le nombre d'exemplaires du Logiciel présents sur le serveur virtuel.
+
+En plus des dispositions ci-dessus, les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+A. L'utilisation du Logiciel par le Détenteur de la Licence est limitée aux fonctions suivantes, comme défini ci-dessous ou dans la section « Autres solutions à haute disponibilité ».
+
+1. Fonction de gestionnaire de files d'attente multi-instance
+
+Le Détenteur de la Licence est autorisé à utiliser la fonction de gestionnaire de files d'attente multi-instance du Logiciel aux fins de secours uniquement. Aux fins de secours, le Logiciel est démarré, mais on s'assure qu'il reste inactif à moins que la copie IBM MQ active et autorisée séparément du logiciel bascule sur le Logiciel de réplique à haute disponibilité. Si cela se produit, le Logiciel de réplique à haute disponibilité peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident. Le Logiciel est considéré en mode de "Secours veille" si, jusqu'à ce qu'une reprise après incident ait lieu, il n'est pas utilisé pour effectuer un travail productif de quelque nature que ce soit et est utilisé exclusivement pour des tâches d'administration.
+
+2. Fonction de haute disponibilité du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur trois serveurs et exige que tous les gestionnaires de file d'attente sur ces trois serveurs soient des gestionnaires de file d'attente de données répliquées. Deux des serveurs peuvent être configurés et autorisés en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le troisième serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Lors de l'utilisation de cette fonctionnalité de haute disponibilité en conjonction avec la réplication sur un site de reprise après incident, les trois serveurs à haute disponibilité sur le site de reprise après incident doivent également être autorisés comme décrit ci-dessus.
+
+3. Fonction de reprise après incident du gestionnaire de file d'attente de données répliquées
+
+L'utilisation par le Détenteur de la Licence de cette fonction du gestionnaire de file d'attente de données répliquées du Logiciel nécessite une configuration sur deux serveurs et exige que tous les gestionnaires de file d'attente sur ces deux serveurs soient des gestionnaires de file d'attente de L'un des serveurs peut être configuré et autorisé en tant qu'IBM MQ Advanced High Availability Replica, mais la copie d'IBM MQ sur le second serveur configuré doit faire l'objet d'une licence distincte en obtenant des autorisations d'utilisation pour IBM MQ Advanced. Cette configuration de reprise après incident de deux serveurs se différencie d'une configuration qui utilise trois serveurs en tant que configuration à haute disponibilité, même lorsqu'elle est utilisée avec une réplication sur un site de reprise après incident.
+
+B. Autres solutions à haute disponibilité
+
+Si le Détenteur de la Licence choisit d'utiliser d'autres solutions à haute disponibilité (reprise en ligne automatique) en plus du Logiciel, il est autorisé à utiliser le Logiciel comme réplique à haute disponibilité tant que le Logiciel réside sur un serveur de secours à des fins de sauvegarde et que le Logiciel n'est pas démarré. Le Logiciel peut être démarré automatiquement par les composants à haute disponibilité en cas de défaillance du serveur actif, auquel cas le Logiciel peut être utilisé pour effectuer un travail productif pendant la période de reprise après incident.
+
+
+
+L/N: L-RCNX-A2LQB5
+D/N: L-RCNX-A2LQB5
+P/N: L-RCNX-A2LQB5
+
+
+
