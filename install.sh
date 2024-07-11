@@ -10,3 +10,5 @@ yum install -y gcc
 
 pip3 install virtualenv
 
+git config --global user.email "ec2-docker-`cat /etc/hostname`@ba"
+git config --global user.name "ec2-docker-`cat /etc/hostname`"
